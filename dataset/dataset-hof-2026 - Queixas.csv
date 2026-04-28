@@ -1,0 +1,649 @@
+id_queixas,id_ficha,data_avaliacao,face_nariz,face_olhos,membro_superior,membro_inferior
+1,1,08/03/2023,Desabamento de aba,"Madarose ciliar, Madarose superciliar","Xerose (ressecamento), Parestesia",Xerose (ressecamento)
+2,2,01/09/2023,Sem Queixas,Diminuição da acuidade visual,"Atrofia musculatura intrínseca, Garra Móvel","Hipoestesia, Parestesia, Fadiga, Dor"
+3,3,22/05/2024,Sem Queixas,Sem Queixas,Sem Queixas,Sem Queixas
+4,4,27/05/2022,Sem Queixas,Diminuição da acuidade visual,Sem Queixas,"Hipoestesia, Mal Perfurante plantar, Garra Rígida"
+5,4,19/05/2023,Sem Queixas,"Diminuição da acuidade visual, Lagoftalmo, Ectrópio",Sem registro,"Hipoestesia, Garra Rígida, Parestesia, Mal Perfurante plantar"
+6,5,16/11/2022,Sem Queixas,"Diminuição da acuidade visual, Madarose ciliar, Hiperemia",Sem Queixas,Sem Queixas
+7,5,08/02/2023,Sem Queixas,"Diminuição da acuidade visual, Madarose ciliar, Hiperemia",Sem Queixas,Edema
+8,6,11/08/2023,Sem Queixas,"Diminuição da acuidade visual, Madarose ciliar, Hiperemia, Perda da visão","Dor, Diminuição de força","Fadiga, Hipoestesia"
+9,6,06/12/2023,Sem Queixas,"Diminuição da acuidade visual, Madarose ciliar, Hiperemia, Perda da visão",Parestesia,Hipoestesia
+10,7,01/10/2021,Sem Queixas,"Hiperemia, Conjuntivite","Hipoestesia, Parestesia",Prurido
+11,7,11/02/2022,Sem Queixas,Sem Queixas,Hipoestesia,Hipoestesia
+12,7,19/10/2022,Sem Queixas,"Diminuição da acuidade visual, Hiperemia","Dor, Parestesia",Hipoestesia
+13,7,25/01/2023,Sem Queixas,"Hiperemia, Madarose ciliar, Diminuição da acuidade visual","Dor, Parestesia",Hipoestesia
+14,8,19/07/2019,Sem Queixas,Diminuição da acuidade visual,"Parestesia, Dor","Hipoestesia, Parestesia"
+15,8,27/11/2019,Sem Queixas,"Diminuição da acuidade visual, Madarose ciliar","Parestesia, Dor","Hipoestesia, Parestesia"
+16,8,19/03/2021,Dor,"Diminuição da acuidade visual, Madarose ciliar","Dor, Parestesia, Hipoestesia","Hipoestesia, Parestesia"
+17,9,07/02/2024,Sem Queixas,"Diminuição da acuidade visual, Ressecamento",Sem Queixas,Parestesia
+18,10,10/11/2023,Sem Queixas,"Diminuição da acuidade visual, Hiperemia, Lagoftalmo","Garra Móvel, Atrofia musculatura intrínseca, Reabsorção óssea, Parestesia, Hipoestesia, Dor",Parestesia
+19,11,17/06/2022,Ressecamento,"Diminuição da acuidade visual, Hiperemia, Madarose ciliar, Madarose superciliar",Dor,"Dor, Pé Caído, Mal Perfurante plantar"
+20,12,18/01/2023,Sem Queixas,"Diminuição da acuidade visual, Hiperemia",Sem Queixas,"Dor, Parestesia, Travamento"
+21,13,12/08/2022,Sem Queixas,Sem Queixas,"Parestesia, Dor","Dor, Parestesia"
+22,14,27/10/2021,Epistaxe,Prurido,Sem Queixas,"Dor, Parestesia"
+23,14,16/02/2022,Sem Queixas,Sem Queixas,Sem Queixas,Xerose (ressecamento)
+24,14,22/06/2022,Sem Queixas,Sem Queixas,Sem Queixas,Xerose (ressecamento)
+25,15,14/02/2020,Sem Queixas,Sem Queixas,"Dor, Parestesia",Dor
+26,16,23/08/2024,Sem Queixas,"Diminuição da acuidade visual, Lacrimejamento","Diminuição de força, Hipoestesia, Parestesia, Dor","Hipoestesia, Parestesia, Diminuição de força"
+27,17,30/06/2023,Epistaxe,Diminuição da acuidade visual,Diminuição de força,"Diminuição de força, Lesões tróficas, Hipoestesia, Parestesia"
+28,18,28/08/2020,lesões,Diminuição da acuidade visual,"Dor, Diminuição de força, Parestesia, Lesões traumáticas, Hipotonia","Dor, Parestesia, Diminuição de força"
+29,18,30/04/2021,Sem Queixas,Diminuição da acuidade visual,"Parestesia, Dor, Hipoestesia, Diminuição de força, Lesões traumáticas, Atrofia musculatura intrínseca","Hipoestesia, Parestesia, Mal Perfurante plantar"
+30,18,02/09/2022,Sem Queixas,Diminuição da acuidade visual,"Hipoestesia, Parestesia, Dor, Diminuição de força","Hipoestesia, Parestesia, Amputação"
+31,19,09/09/2022,Sem Queixas,Diminuição da acuidade visual,"Diminuição de força, Hipoestesia",Parestesia
+32,19,24/03/2023,Sem Queixas,Catarata,"Diminuição de força, Hipoestesia",Sem registro
+33,20,01/09/2021,Sem Queixas,Prurido,Sem Queixas,Hipoestesia
+34,20,23/02/2022,Sem Queixas,"Lacrimejamento, Prurido, Diminuição da acuidade visual","Hipoestesia, Parestesia, Dificuldade nas AVDS","Edema, Hipoestesia, Parestesia"
+35,20,08/07/2022,Sem Queixas,"Lacrimejamento, Diminuição da acuidade visual, Prurido",Dificuldade nas AVDS,"Hipoestesia, Parestesia"
+36,21,04/10/2023,Sem Queixas,Diminuição da acuidade visual,"Dor, Edema, Xerose (ressecamento), Nódulos","Parestesia, Dor, Edema"
+37,21,07/02/2024,Ressecamento,"Diminuição da acuidade visual, Catarata","Dor, Fadiga, Hiperemia","Dor, Parestesia, Edema"
+38,21,12/04/2024,"Ardor, Ressecamento","Diminuição da acuidade visual, Catarata","Dor, Fadiga","Dor, Parestesia, Edema, Diminuição de força"
+39,21,28/08/2024,Sem Queixas,"Diminuição da acuidade visual, Catarata, Hiperemia, Prurido, Dor","Dor, Diminuição de força, Fadiga","Hipoestesia, Parestesia, Dor, Edema, Diminuição de força"
+40,22,16/04/2021,Sem Queixas,Sem Queixas,"Parestesia, Aumento das manchas","Dor, Edema"
+41,22,24/09/2021,Sem Queixas,Sem Queixas,"Parestesia, Hipoestesia","Dor, Edema"
+42,23,25/03/2022,Prurido,"Diminuição da acuidade visual, Madarose ciliar, Prurido",Sem Queixas,Sem Queixas
+43,23,03/03/2023,"Prurido, Dor, Epistaxe","Diminuição da acuidade visual, Madarose ciliar, Prurido",Sem Queixas,"Parestesia, Edema"
+44,23,07/06/2023,Obstrução,"Diminuição da acuidade visual, Madarose ciliar, Prurido",Sem Queixas,"Parestesia, Edema, Hipoestesia"
+45,24,03/07/2019,Sem Queixas,Sem Queixas,Dor,Sem Queixas
+46,24,27/11/2019,Sem Queixas,Sem Queixas,Dor,Dor
+47,24,13/03/2020,Alergia,Sem Queixas,Dor,Sem Queixas
+48,25,12/02/2021,Sem Queixas,"Ressecamento, Prurido","Diminuição de força, Dor",Dor
+49,25,30/03/2022,Sem Queixas,Sem Queixas,"Diminuição de força, Dor, Tremor",Tremor
+50,26,20/07/2022,Sem Queixas,Sem Queixas,"Hipoestesia, Parestesia",Dor
+51,26,01/02/2023,Sem Queixas,Sem Queixas,"Hipoestesia, Parestesia",Dor
+52,26,12/04/2023,Sem Queixas,Diminuição da acuidade visual,"Hipoestesia, Parestesia",Sem Queixas
+53,27,23/03/2022,Sem Queixas,Sem Queixas,Hipoestesia,"Hipoestesia, Parestesia, Dor, Edema"
+54,27,10/06/2022,Sem Queixas,Sem Queixas,Sem Queixas,Sem Queixas
+55,27,25/11/2022,Sem Queixas,Sem Queixas,Hipoestesia,Sem Queixas
+56,28,31/07/2024,"Obstrução, Ressecamento",Sem Queixas,Parestesia,"Parestesia, Dor"
+57,28,16/10/2024,"Obstrução, Ressecamento",Sem Queixas,"Parestesia, Dor, Edema","Parestesia, Dor"
+58,29,09/08/2023,Sem Queixas,Sem Queixas,Sem Queixas,Parestesia
+59,29,06/12/2023,Sem Queixas,Sem Queixas,"Parestesia, Dor",Parestesia
+60,30,06/11/2020,Sem Queixas,Sem Queixas,Sem Queixas,Sem Queixas
+61,30,26/02/2021,Sem Queixas,Sem Queixas,Sem Queixas,Sem Queixas
+62,30,23/11/2022,Sem Queixas,Sem Queixas,"Dor, Parestesia",Parestesia
+63,30,20/01/2023,Sem Queixas,Sem Queixas,Sem Queixas,Parestesia
+64,31,23/10/2024,Sem Queixas,Sem Queixas,Sem Queixas,Sem Queixas
+65,32,28/08/2024,Odor,Diminuição da acuidade visual,Sem Queixas,Sem registro
+66,33,10/05/2024,Obstrução,"Hiperemia, Ressecamento","Hipoestesia, Parestesia","Dor, Fadiga"
+67,33,30/08/2024,Epistaxe,"Ressecamento, Hiperemia",Sem registro,"Fadiga, Hipoestesia, Parestesia, Dor"
+68,34,16/08/2023,Obstrução,Sem Queixas,Sem Queixas,Edema
+69,34,08/11/2023,Sem Queixas,Diminuição da acuidade visual,Sem Queixas,"Dor, Edema"
+70,34,05/04/2024,Sem Queixas,Diminuição da acuidade visual,Sem Queixas,Sem Queixas
+71,35,20/10/2023,Sem Queixas,Sem Queixas,"Dor, Diminuição de força, Hipoestesia, Parestesia","Hipoestesia, Parestesia, Dor, Diminuição de força"
+72,35,22/03/2024,Sem Queixas,Sem Queixas,"Dor, Parestesia, Hipoestesia, Diminuição de força","Hipoestesia, Parestesia, Dor, Diminuição de força"
+73,37,12/03/2021,"Hiperemia, Epistaxe","Prurido, Hiperemia, Ardor","Dor, Parestesia, Tremores, Cãimbras","Dor, Parestesia"
+74,37,04/06/2021,Hiperemia,"Prurido, Hiperemia, Ardor","Dor, Parestesia, Tremores, Cãimbras","Dor, Parestesia, Hipoestesia"
+75,37,08/10/2021,Lesões,Sem Queixas,"Dor, Hipoestesia","Dor, Parestesia"
+76,38,01/09/2023,Sem Queixas,Sem registro,"Dor, Parestesia, Hipoestesia, Garra Rígida, Reabsorção óssea","Parestesia, Garra Rígida"
+77,39,06/09/2023,Sem Queixas,Diminuição da acuidade visual,"Parestesia, Diminuição de força",Cãimbra
+78,40,22/11/2023,Sem Queixas,Madarose ciliar,Dor,Sem Queixas
+79,41,01/11/2023,Sem Queixas,Sem Queixas,Sem Queixas,"Hipoestesia, Parestesia, Dor"
+80,42,11/11/2022,Sem Queixas,Sem Queixas,Sem Queixas,Sem Queixas
+81,43,09/06/2014,Sem registro,Sem registro,"Reabsorção óssea, Garra, Hipotrofia","Reabsorção óssea, Garra"
+82,43,20/04/2018,Sem registro,Lacrimejamento,"Reabsorção óssea, Garra, Hipotrofia","Reabsorção óssea, Garra"
+83,44,01/03/2023,Sem Queixas,Sem Queixas,"Hipoestesia, Parestesia","Parestesia, Dor"
+84,44,30/06/2023,Sem Queixas,Sem Queixas,"Parestesia, Hipoestesia, Fadiga","Fadiga, Parestesia, Hipoestesia"
+85,44,04/10/2023,Sem Queixas,Sem Queixas,Parestesia,"Edema, Dor, Parestesia, Xerose (ressecamento)"
+86,44,24/05/2024,Sem Queixas,Diminuição da acuidade visual,Parestesia,"Edema, Dor, Parestesia"
+87,45,04/03/2022,Sem Queixas,Diminuição da acuidade visual,Sem Queixas,Sem Queixas
+88,45,11/11/2022,Sem Queixas,Sem Queixas,Parestesia,Parestesia
+89,45,15/02/2023,Sem Queixas,Sem Queixas,Parestesia,"Hipoestesia, Parestesia"
+90,45,26/07/2023,Sem Queixas,Sem Queixas,Sem Queixas,Sem Queixas
+91,46,07/06/2023,Ressecamento,Diminuição da acuidade visual,"Dor, Parestesia, Hipoestesia","Dor, Parestesia, Hipoestesia"
+92,46,29/09/2023,Sem Queixas,"Hiperemia, Diminuição da acuidade visual","Dor, Parestesia, Hipoestesia","Dor, Parestesia, Hipoestesia"
+93,46,15/12/2023,Sem Queixas,"Hiperemia, Diminuição da acuidade visual","Dor, Parestesia, Hipoestesia","Dor, Parestesia, Hipoestesia"
+94,46,12/04/2024,Sem Queixas,Hiperemia,"Dor, Parestesia, Hipoestesia, Diminuição de força","Dor, Parestesia, Diminuição de força"
+95,47,23/03/2022,Sem Queixas,"Prurido, Ressecamento","Dor, Diminuição de força","Dor, Diminuição de força, Hipoestesia, Parestesia"
+96,47,20/07/2022,Sem Queixas,"Catarata, Prurido, Dor","Dor, Diminuição de força, Hipoestesia, Parestesia","Dor, Diminuição de força, Hipoestesia, Parestesia, Câimbra"
+97,47,07/12/2022,Sem Queixas,"Catarata, Prurido, Dor",Sem Queixas,"Dor, Câimbra"
+98,47,01/03/2023,Sem Queixas,"Catarata, Prurido, Dor","Parestesia, Cisto sinovial",Edema
+99,48,07/06/2023,Sem Queixas,"Catarata, Prurido, Ressecamento","Parestesia, Hipoestesia, Diminuição de força, Cisto sinovial","Edema, Dor, Fadiga, Parestesia, Hipoestesia"
+100,48,27/09/2023,Sem Queixas,"Catarata, Prurido, Ressecamento","Parestesia, Dor, Cisto sinovial","Edema, Fadiga"
+101,48,06/12/2023,Sem Queixas,"Catarata, Prurido, Ressecamento",Sem Queixas,Edema
+102,49,25/02/2022,Anosmia,Sem Queixas,"Dor, Parestesia, Hipoestesia","Dor, Parestesia, Hipoestesia"
+103,49,25/03/2022,Anosmia,Sem Queixas ,"Dor, Parestesia, Hipoestesia, Diminuição de força","Dor, Parestesia, Hipoestesia, Diminuição de força"
+104,49,11/01/2023,Anosmia,Sem Queixas ,"Hipoestesia, Parestesia, Xerose (ressecamento), Diminuição de força","Dor, Parestesia, Hipoestesia, Diminuição de força, Fadiga"
+105,49,08/03/2023,Anosmia,Sem Queixas ,"Dor, Parestesia, Hipoestesia, Diminuição de força, Xerose (ressecamento)","Dor, Hipoestesia, Parestesia, Diminuição de força, Xerose (ressecamento), Fadiga"
+106,50,25/10/2019,Sem Queixas,Sem Queixas,Dor,Dor
+107,50,07/02/2020,Sem Queixas,Sem Queixas ,Dor,Dor
+108,50,11/11/2020,Sem Queixas,Ressecamento,"Dor, Rigidez quirodáctilos",Dor
+109,51,11/10/2023,Sem Queixas,Sem Queixas,Sem Queixas,Sem Queixas
+110,51,26/01/2024,Sem Queixas,Sem Queixas ,Sem Queixas,Sem Queixas 
+111,51,15/05/2024,Sem Queixas,Sem Queixas ,Sem Queixas,Sem Queixas 
+112,52,12/06/2024,Sem Queixas,Prurido,Sem Queixas,"Dor, Parestesia, Hipoestesia"
+113,53,04/03/2022,Prurido,"Diminuição da acuidade visual, Prurido, Dor","Dor, Hipoestesia, Parestesia, Fadiga","Dor, Parestesia, Hipoestesia"
+114,53,16/09/2022,Prurido,"Diminuição da acuidade visual, Prurido, Madarose ciliar",Dor,"Dor, Parestesia"
+115,53,15/02/2023,Prurido,"Diminuição da acuidade visual, Prurido, Madarose ciliar","Dor, Parestesia, Hipoestesia","Dor, Parestesia, Hipoestesia"
+116,53,28/06/2023,Prurido,"Diminuição da acuidade visual, Prurido, Madarose ciliar","Dor, Parestesia, Hipoestesia","Dor, Hipoestesia, Parestesia"
+117,54,24/01/2020,Prurido,"Prurido, Lacrimejamento, Madarose ciliar","Dor, Hipotonia","Dor, Ardor, Garra Rígida"
+118,54,20/11/2020,Edema,"Prurido, Lacrimejamento, Madarose ciliar, Catarata","Dor, Parestesia, Ardor","Dor, Parestesia, Edema, Ardor"
+119,54,11/06/2021,"Prurido, Edema","Prurido, Madarose ciliar","Diminuição de força, Dor, Parestesia, Hipoestesia","Diminuição de força, Dor, Parestesia, Hipoestesia"
+120,55,13/04/2018,"Prurido, Hiperemia",Dor,Dor,"Parestesia, Ardor"
+121,55,22/03/2019,"Prurido, Hiperemia",Prurido,Dor,"Parestesia, Ardor"
+122,55,02/08/2019,Prurido,"Prurido, Ardor",Dor,"Parestesia, Ardor"
+123,56,28/04/2023,Sem Queixas,Sem Queixas,Sem Queixas,Sem Queixas
+124,56,14/06/2024,Sem Queixas,Sem Queixas,Sem Queixas,Sem Queixas
+125,57,11/01/2023,Sem Queixas,Sem Queixas,Hipoestesia,"Hipoestesia, Parestesia"
+126,57,26/04/2023,Sem Queixas,Sem Queixas,Sem Queixas,Hipoestesia
+127,57,11/08/2023,Sem Queixas,Sem Queixas,Sem Queixas,Hipoestesia
+128,57,06/12/2023,Sem Queixas,Prurido,Sem Queixas,Parestesia
+129,58,16/08/23023,Obstrução,Sem Queixas,Sem Queixas,Edema
+130,58,08/11/2023,Sem Queixas,Deficiência visual prévia,Sem Queixas,"Edema, Dor"
+131,59,01/04/2022,Sem Queixas,Sem Queixas,"Xerose (ressecamento), Dor, Parestesia, Hipoestesia",Sem Queixas
+132,60,25/10/2023,Epistaxe,"Diminuição da acuidade visual, Prurido, Dor","Diminuição de força, Dor, Parestesia, Hipoestesia, Rigidez matinal","Diminuição de força, Parestesia, Hipoestesia"
+133,60,24/05/2024,Sem Queixas,Diminuição da acuidade visual,Sem Queixas,Sem Queixas
+134,61,11/11/2022,Sem Queixas,Sem Queixas,"Dor, Hipoestesia, Parestesia, Reabsorção óssea","Dor, Parestesia, Hipoestesia"
+135,61,08/03/2023,Hipoestesia,Diminuição da acuidade visual,"Hipoestesia, Parestesia, Atrofia musculatura intrínseca","Dor, Hipoestesia, Parestesia, Diminuição de força"
+136,62,07/02/2023,Sem Queixas,Sem Queixas,"Parestesia, Dor","Parestesia, Dor"
+137,63,23/11/2022,Sem Queixas,Sem Queixas,"Hipoestesia, Parestesia, Dor, Atrofia musculatura intrínseca","Dor, Hipoestesia, Parestesia"
+138,63,05/04/2023,Sem Queixas,Sem Queixas,"Hipoestesia, Parestesia, Dor, Atrofia musculatura intrínseca","Dor, Parestesia, Hipoestesia"
+139,63,29/09/2023,"Dor, Hipoestesia",Dor,"Dor, Parestesia, Atrofia musculatura intrínseca","Parestesia, Dor"
+140,64,23/02/2024,Sem Queixas,Sem Queixas,Sem Queixas,"Hipoestesia, Parestesia"
+141,65,20/09/2023,Obstrução,"Ressecamento, Dor, Ardor","Hipoestesia, Garra Rígida, Atrofia musculatura intrínseca, Garra","Dor, Hipoestesia, Mal Perfurante plantar, Pé Caído"
+142,65,17/07/2024,"Obstrução, Diminuição da sensibilidade","Ressecamento, Dor, Ardor","Hipoestesia, Garra Rígida, Atrofia musculatura intrínseca, Garra","Dor, Hipoestesia, Mal Perfurante plantar, Pé Caído"
+143,66,29/09/2023,Prurido,Diminuição da acuidade visual,"Dor, Hipoestesia","Parestesia, Dor, Fadiga"
+144,66,10/04/2024,Sem Queixas,Sem Queixas,"Dor, Parestesia, Hipoestesia","Parestesia, Hipoestesia, Dor"
+145,67,20/01/2021,Sem Queixas,Sem Queixas,"Diminuição de força, Parestesia, Hipoestesia, Lesões traumáticas",Sem Queixas
+146,67,22/09/2021,Sem Queixas,Sem Queixas ,"Parestesia, Hipoestesia, Dor",Sem Queixas
+147,67,25//01/2023,Sem Queixas,Sem Queixas ,"Parestesia, Dor","Dor, Parestesia"
+148,68,18/11/2020,Sem Queixas,Prurido,Dor,Dor
+149,69,06/10/2023,Sem Queixas,Sem Queixas,"Dor, Parestesia, Hipoestesia, Edema","Hipoestesia, Dor, Edema"
+150,69,02/02/2024,Ressecamento,Sem Queixas,"Dor, Parestesia, Hipoestesia, Edema","Hipoestesia, Parestesia, Dor, Edema"
+151,69,29/05/2024,Ressecamento,"Hiperemia, Diminuição da acuidade visual","Dor, Parestesia, Hipoestesia, Edema","Hipoestesia, Parestesia, Dor, Edema"
+152,70,30/08/2024,"Prurido, Ressecamento","Diminuição da acuidade visual, Ressecamento, Hiperemia","Hipoestesia, Edema, Parestesia, Dor","Hipoestesia, Parestesia, Edema, Dor"
+153,71,17/04/2024,Sem Queixas,Hiperemia,"Parestesia, Atrofia musculatura intrínseca",Parestesia
+154,72,29/11/2023,Sem Queixas,Hiperemia,Parestesia,"Hipoestesia, Edema, Xerose (ressecamento)"
+155,72,22/05/2024,Sem Queixas,Hiperemia,Sem Queixas,"Hipoestesia, Edema, Xerose (ressecamento)"
+156,73,18/11/2022,Sem Queixas,Sem Queixas,"Hipoestesia, Parestesia","Hipoestesia, Dor"
+157,73,03/03/2023,Sem Queixas,Sem Queixas ,"Hipoestesia, Parestesia","Hipoestesia, Parestesia, Edema"
+158,73,16/06/2023,Sem Queixas,Sem Queixas ,"Dor, Hipoestesia","Hipoestesia, Parestesia, Dor, Edema, Diminuição de força, Fadiga"
+159,73,11/08/2023,Sem Queixas,Diminuição da acuidade visual,"Dor, Hipoestesia","Hipoestesia, Parestesia, Dor, Edema, Fadiga, Diminuição de força"
+160,74,22/12/2023,Sem Queixas,Sem Queixas,"Parestesia, Hipoestesia, Atrofia R., Tenar/Hipotenar MSD","Hipoestesia, Parestesia, Diminuição de força"
+161,74,22/05/2024,Sem Queixas,Diminuição da acuidade visual,"Hipoestesia, Parestesia, Atrofia R., Tenar/Hipotenar MSD","Hipoestesia, Parestesia, Dor"
+162,75,05/02/2021,Obstrução,Sem Queixas,"Parestesia, Diminuição de força",Sem Queixas
+163,75,18/02/2022,Obstrução,Sem Queixas ,Hipoestesia,Sem Queixas 
+164,75,01/07/2022,Obstrução,Sem Queixas ,Hipoestesia,Sem Queixas 
+165,76,16/12/2022,Obstrução,Sem Queixas,"Hipoestesia, Diminuição de força",Sem Queixas
+166,76,05/07/2023,Obstrução,Sem Queixas ,"Hipoestesia, Diminuição de força","Dor, Edema, Xerose (ressecamento)"
+167,76,18/10/2023,"Obstrução, Ressecamento",Sem Queixas ,"Hipoestesia, Parestesia, Diminuição de força","Dor, Edema, Xerose (ressecamento)"
+168,77,07/02/2020,Sem Queixas,Diminuição da acuidade visual,"Garra Rígida, Reabsorção óssea","Dor, Mal Perfurante plantar"
+169,77,06/09/2023,Sem Queixas,"Hiperemia, Madarose ciliar, Pterigio","Parestesia, Garra Rígida, Reabsorção óssea","Edema, Garra Rígida, Reabsorção óssea, Mal Perfurante plantar"
+170,78,26/06/2024,Sem Queixas,Sem Queixas,Parestesia,Parestesia
+171,79,10/02/2023,Desabamento de aba,Sem Queixas,Sem Queixas,Sem Queixas
+172,80,02/06/2023,Sem Queixas,Sem Queixas,Sem Queixas,Sem Queixas
+173,80,29/05/2024,Sem Queixas,Sem Queixas,Sem Queixas,Sem Queixas
+174,81,18/01/2023,Hiperemia,Sem Queixas,Hipoestesia,Xerose (ressecamento)
+175,81,02/06/2023,Sem Queixas,Sem Queixas,Hipoestesia,Xerose (ressecamento)
+176,82,08/11/2023,Sem Queixas,Diminuição da acuidade visual,"Diminuição de força, Parestesia, Hipoestesia, Garra Móvel","Hipoestesia, Parestesia"
+177,83,07/02/2024,Sem Queixas,Sem registro,"Hipoestesia, Parestesia, Dor, Diminuição de força","Hipoestesia, Parestesia, Dor, Diminuição de força, Dificuldade para deambular"
+178,84,03/11/2021,Sem Queixas,Ressecamento,"Dor, Parestesia, Hipoestesia","Dor, Parestesia"
+179,84,02/03/2022,Sem Queixas,Sem Queixas,"Dor, Parestesia","Dor, Parestesia"
+180,85,22/07/2022,Sem Queixas,Sem Queixas,Sem Queixas,Sem Queixas
+181,85,25/11/2022,Sem Queixas,Sem Queixas ,Sem Queixas,Dor
+182,85,24/03/2023,Sem Queixas,Sem Queixas ,Sem Queixas,Parestesia
+183,85,04/08/2023,Sem Queixas,Sem Queixas ,Sem Queixas,Sem registro
+184,86,01/04/2022,Ressecamento,Madarose ciliar,"Dor, Parestesia","Dor, Hipoestesia, Edema"
+185,86,28/12/2022,Sem Queixas,"Madarose ciliar, Madarose superciliar, Ardor",Lesões traumáticas,"Dor, Hipoestesia, Edema"
+186,87,26/03/2021,Hiperemia,Sem Queixas,"Diminuição de força, Garra Rígida, Garra Móvel",Sem Queixas
+187,88,26/10/2018,Hiperemia,Sem Queixas,Prurido,"Dor, Prurido, Hiperemia"
+188,88,13/02/2019,Sem Queixas,Sem Queixas ,Sem Queixas,Sem Queixas
+189,88,24/01/2020,Sem Queixas,Sem Queixas ,Sem registro,Dor
+190,89,11/08/2023,Sem Queixas,Sem Queixas,"Dor, Parestesia","Dor, Parestesia"
+191,89,24/11/2023,"Ressecamento, Ferimento",Hiperemia,"Dor, Parestesia","Dor, Parestesia, Edema"
+192,90,15/05/2024,Sem Queixas,Catarata,Sem Queixas,"Mal Perfurante plantar, Garra Móvel"
+193,91,05/04/2023,"Ressecamento, Coriza, Irritacao",Sem Queixas,"Hipoestesia, Parestesia, Dor, Diminuição de força, Amiotrofias",Dor
+194,91,01/12/2023,"Ressecamento, Irritacao",Sem Queixas ,"Diminuição de força, Atrofia musculatura intrínseca, Hipoestesia","Dor, Parestesia, Hipoestesia"
+195,91,03/04/2024,Sem Queixas,Sem Queixas ,"Dor, Parestesia, Hipoestesia, Atrofia musculatura intrínseca, Garra Móvel","Dor, Hipoestesia, Parestesia"
+196,92,18/02/2022,Sem Queixas,Sem Queixas,"Dor, Parestesia, Hipoestesia","Dor, Parestesia, Hipoestesia"
+197,93,21/10/2022,Sem Queixas,Lacrimejamento,Hipoestesia,"Parestesia, Hipoestesia, Dor"
+198,93,02/06/2023,Sem Queixas,Sem Queixas,Dor,"Dor, Parestesia, Hipoestesia"
+199,94,16/04/2021,Sem Queixas,"Diminuição da acuidade visual, Madarose ciliar, Madarose superciliar, Embaçamento visual",Sem Queixas,"Dor, Parestesia, Hipoestesia"
+200,94,06/10/2021,Sem Queixas,"Diminuição da acuidade visual, Madarose ciliar, Madarose superciliar, Embaçamento visual",Diminuição de força,"Hipoestesia, Diminuição de força"
+201,94,22/06/2022,Sem Queixas,"Diminuição da acuidade visual, Madarose ciliar, Madarose superciliar, Embaçamento visual",Sem Queixas,"Diminuição de força, Parestesia"
+202,95,24/01/2020,"Dor, Ardor, Prurido","Prurido, Ardor, Dor","Dor, Parestesia, Prurido, Ardor","Dor, Parestesia, Prurido, Ardor"
+203,96,18/01/2023,Sem Queixas,"Diminuição da acuidade visual, Catarata","Parestesia, Dor",Xerose (ressecamento)
+204,97,27/09/2023,Sem Queixas,"Hiperemia, Catarata, Diminuição da acuidade visual, Pterigio","Parestesia, Dor","Xerose (ressecamento), Verrugas plantares, Calos"
+205,97,06/12/2023,Hiperemia,"Hiperemia, Catarata, Diminuição da acuidade visual, Pterigio",Parestesia,"Xerose (ressecamento), Parestesia, Calos"
+206,97,17/05/2024,Sem Queixas,"Hiperemia, Catarata, Diminuição da acuidade visual, Pterigio",Parestesia,"Xerose (ressecamento), Parestesia, Calos"
+207,98,28/10/2022,Sem Queixas,Sem Queixas,"Xerose (ressecamento), Garra Rígida, Garra Móvel",Hipoestesia
+208,98,25/11/2022,Sem Queixas,Sem Queixas ,"Xerose (ressecamento), Garra Rígida, Garra Móvel","Xerose (ressecamento), Diminuição de força, Hipoestesia"
+209,98,25/01/2023,Obstrução,Diminuição da acuidade visual,"Xerose (ressecamento), Garra Rígida, Garra Móvel","Xerose (ressecamento), Diminuição de força, Hipoestesia"
+210,98,25/08/2023,Obstrução,Diminuição da acuidade visual,"Xerose (ressecamento), Garra Rígida, Garra Móvel, Edema","Xerose (ressecamento), Diminuição de força, Mal Perfurante plantar, Hipoestesia"
+211,99,16/11/2022,Sem Queixas,Sem Queixas,"Sem Queixas, Atrofia musculatura intrínseca, Lesões traumáticas","Hipoestesia, Dor"
+212,99,27/01/2023,Sem Queixas,Sem Queixas,"Sem Queixas, Lesões traumáticas",Hipoestesia
+213,99,18//08/2023,Sem Queixas,Catarata,"Atrofia musculatura intrínseca, Lesões traumáticas",Parestesia
+214,99,05/01/2024,Sem Queixas,Catarata,"Atrofia musculatura intrínseca, Lesões traumáticas",Sem Queixas
+215,100,26/10/2022,Obstrução,Prurido,"Diminuição de força, Parestesia, Hipoestesia","Diminuição de força, Hipoestesia, Parestesia"
+216,101,11/11/2020,Sem Queixas,Sem Queixas,Sem Queixas,"Edema, Dor"
+217,101,05/02/2021,Sem Queixas,Sem Queixas ,Sem Queixas,"Edema, Dor"
+218,101,11/02/2022,Sem Queixas,"Sem Queixas , Catarata",Sem Queixas,"Parestesia, Hipoestesia, Dor"
+219,102,23/03/2018,Sem Queixas,"Lacrimejamento, Hiperemia",Sem Queixas,Sem Queixas
+220,102,20/07/2018,Sem Queixas,Sem Queixas,Sem Queixas,Diminuição de força
+221,102,11/03/2020,Sem Queixas,Sem Queixas,"Parestesia, Dor","Diminuição de força, Edema"
+222,103,21/11/2018,Sem Queixas,Sem Queixas,Parestesia,"Dor, Parestesia"
+223,103,20/03/2019,Sem Queixas,Sem Queixas,Parestesia,Parestesia
+224,103,20/09/2019,Sem Queixas,Sem Queixas,Parestesia,Parestesia
+225,104,28/02/2020,Sem Queixas,Sem Queixas,Sem Queixas,Parestesia
+226,104,23/10/2020,Sem Queixas,Sem Queixas ,Sem Queixas,"Parestesia, Dor"
+227,104,19/02/2021,Sem Queixas,Sem Queixas ,Sem Queixas,Parestesia
+228,105,30/07/2021,Sem Queixas,Sem Queixas,Sem Queixas,Hipoestesia
+229,105,11/02/2022,Sem Queixas,Sem Queixas,Sem Queixas,Hipoestesia
+230,105,22/07/2022,Sem Queixas,Sem Queixas,Sem Queixas,Sem registro
+231,106,07/10/2022,Sem Queixas,Sem Queixas,Sem Queixas,"Hipoestesia, Hipotrofia"
+232,106,02/06/2023,Sem Queixas,Sem Queixas,Sem Queixas,Hipoestesia
+233,106,05/07/2023,Sem Queixas,Sem Queixas,Parestesia,Hipoestesia
+234,106,04/10/2023,Sem Queixas,Sem Queixas,Sem Queixas,Hipoestesia
+235,107,09/02/2024,Sem Queixas,Sem Queixas,Sem Queixas ,"Hipoestesia, Parestesia"
+236,107,07/06/2024,Sem Queixas,Sem Queixas ,Sem Queixas ,"Hipoestesia, Parestesia"
+237,108,04/02/2022,Sem Queixas,"Diminuição da acuidade visual, Madarose ciliar",Hipoestesia,"Hipoestesia, Parestesia, Dor"
+238,109,03/01/2020,Parestesia,"Madarose ciliar, Lagoftalmo","Parestesia, Diminuição de força","Diminuição de força, Edema"
+239,109,13/11/2020,Epistaxe,"Madarose ciliar, Lagoftalmo","Parestesia, Diminuição de força","Edema, Xerose (ressecamento), Ardor"
+240,109,26/03/2021,Sem Queixas,"Madarose ciliar, Lagoftalmo","Parestesia, Diminuição de força, Lesões traumáticas","Edema, Ardor"
+241,110,08/06/2022,Sem Queixas,"Diminuição da acuidade visual, Madarose ciliar",Dor,"Dor, Parestesia, Hipoestesia, Lesões traumáticas"
+242,110,19/10/2022,Sem Queixas,"Diminuição da acuidade visual, Madarose ciliar, Lacrimejamento, Lagoftalmo","Parestesia, Diminuição de força","Parestesia, Dor"
+243,110,26/04/2023,Sem Queixas,"Diminuição da acuidade visual, Madarose ciliar",Hipoestesia,Sem Queixas
+244,111,26/10/2016,Sem Queixas,Dor,"Garra Rígida, Garra Móvel",Sem Queixas
+245,111,22/02/2017,Sem Queixas,Sem Queixas ,"Garra Rígida, Garra Móvel",Sem Queixas 
+246,111,11/11/2020,Sem Queixas,Sem Queixas ,"Garra Rígida, Garra Móvel",Sem Queixas 
+247,112,04/03/2022,Sem Queixas,Sem Queixas,Sem Queixas,Sem Queixas
+248,112,11/11/2022,Sem Queixas,Sem Queixas,Dor,Sem Queixas 
+249,112,15/02/2023,Sem Queixas,Sem Queixas,Dor,Sem Queixas 
+250,112,26/07/2023,Sem Queixas,Sem Queixas,Sem Queixas,Sem Queixas 
+251,113,23/08/2023,Sem Queixas,"Diminuição da acuidade visual, Madarose ciliar, Lagoftalmo, Ardor",Parestesia,"Hipoestesia, Dor"
+252,113,31/01/2024,Ressecamento,"Diminuição da acuidade visual, Madarose ciliar, Lagoftalmo, Ardor","Parestesia, Dor, Diminuição de força","Hipoestesia, Parestesia, Dor, Pé Caído"
+253,113,29/05/2024,Sem Queixas,"Diminuição da acuidade visual, Madarose ciliar, Lagoftalmo, Ardor",Sem registro,"Hipoestesia, Dor"
+254,114,26/02/2021,Sem Queixas,Sem Queixas,Sem Queixas,"Parestesia, Ardor"
+255,114,16/04/2021,Sem Queixas,Sem Queixas,Sem Queixas,"Edema, Hipoestesia"
+256,114,25/06/2021,Sem Queixas,Sem Queixas,Sem Queixas,Sem registro
+257,115,10/06/2022,Sem Queixas,Sem Queixas,"Dor, Parestesia",Sem Queixas 
+258,115,26/10/2022,Sem Queixas,Diminuição da acuidade visual,"Hipoestesia, Parestesia, Dor, Lesões traumáticas",Dor
+259,115,08/03/2023,Sem Queixas,Sem Queixas,"Hipoestesia, Parestesia, Dor, Lesões traumáticas",Sem Queixas
+260,115,16/06/2023,Sem Queixas,Sem Queixas ,"Hipoestesia, Parestesia, Dor",Sem Queixas
+261,116,12/04/2024,Odor,Sem Queixas,"Hipoestesia, Parestesia, Dor, Atrofia musculatura intrínseca",Sem Queixas
+262,117,27/05/2020,Sem Queixas,Prurido,Dor,Dor
+263,117,10/08/2022,Epistaxe,"Diminuição da acuidade visual, Prurido","Hipoestesia, Parestesia, Dor, Diminuição de força","Dor, Diminuição de força, Parestesia, Diminuição da sensibilidade"
+264,117,05/10/2022,Sem Queixas,"Diminuição da acuidade visual, Prurido","Dor, Parestesia, Hipoestesia, Diminuição de força","Dor, Diminuição de força, Parestesia, Xerose (ressecamento), Diminuição da sensibilidade"
+265,117,04/01/2023,Sem Queixas,"Diminuição da acuidade visual, Prurido, Hiperemia","Hipoestesia, Choque","Diminuição de força, Dor, Câimbras"
+266,118,17/02/ 2023,Ressecamento,Prurido,"Dor, Fadiga, Hipoestesia, Parestesia, Diminuição de força, Garra Móvel","Hipoestesia, Parestesia, Dor"
+267,118,11/08/2023,Ressecamento,"Prurido, Ressecamento, Ardor","Dor, Fadiga, Hipoestesia, Parestesia, Diminuição de força, Garra Móvel","Parestesia, Dor"
+268,118,21/02/2024,"Ressecamento, Odor, Hiperemia, Epistaxe, Ferimento","Prurido, Ressecamento, Madarose ciliar, Ardor","Dor, Fadiga, Hipoestesia, Parestesia, Diminuição de força, Garra Móvel","Parestesia, Dor"
+269,119,16/02/2022,Sem Queixas,Sem Queixas,Sem Queixas,Sem Queixas
+270,119,24/03/2023,Sem Queixas,Sem Queixas,Sem Queixas,Edema
+271,120,06/01/2016,Sem Queixas,Prurido,Sem Queixas,Sem Queixas
+272,120,01/07/2016,Edema,Sem Queixas,Sem Queixas,Sem Queixas 
+273,120,16/01/2017,Edema,Sem Queixas ,Sem Queixas,Sem Queixas 
+274,121,25/10/2019,Dor,Diminuição da acuidade visual,Parestesia,Dor
+275,121,31/01/2020,Sem Queixas,"Diminuição da acuidade visual, Madarose ciliar",Parestesia,"Dor, Edema, Parestesia, Xerose (ressecamento), Câimbra"
+276,121,23/04/2021,Sem Queixas,"Diminuição da acuidade visual, Madarose ciliar","Hipoestesia, Parestesia, Dor","Dor, Hipoestesia"
+277,122,04/02/2022,Sem Queixas,Madarose ciliar,"Dor, Diminuição de força",Dor
+278,122,02/09/2022,Sem Queixas,Madarose ciliar,"Dor, Diminuição de força","Dor, Hipotrofia"
+279,123,13/07/2022,Sem Queixas,Sem Queixas,Hipoestesia,Hipoestesia
+280,123,05/10/2022,Sem Queixas,Sem Queixas ,Sem Queixas,Sem Queixas
+281,123,08/02/2023,Sem Queixas,Sem Queixas ,Sem Queixas,Sem Queixas 
+282,123,27/09/2023,Sem Queixas,Madarose ciliar,Sem Queixas,Sem registro
+283,124,16/11/2022,Sem Queixas,"Diminuição da acuidade visual, Catarata",Dor,Garra Móvel
+284,124,28/06/2023,Sem Queixas,"Diminuição da acuidade visual, Catarata","Dor, Hipoestesia, Lesões traumáticas, Garra Móvel",Garra Móvel
+285,124,22/12/2023,Sem Queixas,"Diminuição da acuidade visual, Catarata","Dor, Hipoestesia, Lesões traumáticas, Garra Móvel, Reabsorção óssea",Garra Móvel
+286,124,17/04/2024,Sem Queixas,"Diminuição da acuidade visual, Catarata","Hipoestesia, Dor, Lesões traumáticas, Reabsorção óssea",Garra Móvel
+287,125,29/01/2020,Sinusite,Diminuição da acuidade visual,"Choque, Xerose (ressecamento), Garra Móvel, Atrofia musculatura intrínseca","Choque, Parestesia, Edema, Xerose (ressecamento), Pé Caído, Garra"
+288,125,08/09/2021,Sinusite,Diminuição da acuidade visual,"Parestesia, Hipoestesia, Diminuição de força, Xerose (ressecamento), Garra Móvel, Atrofia musculatura intrínseca","Edema, Dor, Hipoestesia, Parestesia, Pé Caído, Garra Móvel, Xerose (ressecamento)"
+289,125,16/03/2022,Sem Queixas,Diminuição da acuidade visual,"Hipoestesia, Parestesia, Diminuição de força, Xerose (ressecamento), Garra Móvel, Atrofia musculatura intrínseca","Edema, Dor, Parestesia, Hipoestesia, Pé Caído, Garra Móvel, Xerose (ressecamento)"
+290,126,15/02/2019,Obstrução,Diminuição da acuidade visual,"Dor, Atrofia musculatura intrínseca, Xerose (ressecamento), Garra","Dor, Edema, Xerose (ressecamento), Pé Caído"
+291,126,29/11/2019,Obstrução,Sem Queixas,"Dor, Atrofia musculatura intrínseca, Xerose (ressecamento), Garra","Dor, Edema, Pé Caído, Xerose (ressecamento)"
+292,126,11/03/2020,Obstrução,"Diminuição da acuidade visual, Hiperemia","Dor, Atrofia musculatura intrínseca, Xerose (ressecamento), Garra","Dor, Edema, Xerose (ressecamento), Pé Caído, Parestesia, Choque"
+293,127,02/02/2022,Sem Queixas,Sem Queixas,Dor,Hipoestesia
+294,128,13/01/2023,Sem Queixas,Sem Queixas,"Hipoestesia, Parestesia, Dor, Diminuição de força",Parestesia
+295,129,01/10/2021,Sem Queixas,Sem Queixas,"Dor, Garra Rígida",Diminuição de força
+296,129,02/03/2022,Sem Queixas,"Diminuição da acuidade visual, Prurido","Fadiga, Garra Rígida","Fadiga, Parestesia"
+297,130,21/02/2024,Sem Queixas,Diminuição da acuidade visual,Parestesia,Sem Queixas
+298,131,10/11/2023,Sem Queixas,Sem Queixas,Sem Queixas,Sem Queixas
+299,131,15/05/2024,Sem Queixas,Sem Queixas ,Sem Queixas,Sem Queixas 
+300,132,23/03/2022,Sem Queixas,Diminuição da acuidade visual,"Dor, Diminuição de força, Hipoestesia, Parestesia, Atrofia musculatura intrínseca, Hipotonia","Dor, Parestesia, Hipoestesia, Diminuição de força"
+301,133,21/10/2022,Ardor,Sem Queixas,"Parestesia, Garra Móvel, Atrofia musculatura intrínseca, Lesões traumáticas, Hipotrofia","Parestesia, Edema, Garra Rígida, Garra Móvel"
+302,133,13/01/2023,Sem Queixas,Ardor,"Parestesia, Atrofia musculatura intrínseca, Garra Rígida, Lesões traumáticas, Hipotrofia","Parestesia, Mal Perfurante plantar, Diminuição de força, Garra Móvel, Garra Rígida, Lesões traumáticas"
+303,133,11/10/2023,Ressecamento,Ardor,"Parestesia, Atrofia musculatura intrínseca, Garra Rígida, Lesões traumáticas, Hipotrofia","Parestesia, Diminuição de força, Edema, Reabsorção óssea, Garra Móvel, Garra Rígida"
+304,134,02/08/2023,Sem Queixas,Sem Queixas,Sem Queixas,Sem Queixas
+305,135,24/04/2024,"Obstrução, Ressecamento",Diminuição da acuidade visual,"Dor, Hipoestesia","Dor, Hipoestesia"
+306,135,19/07/2024,Obstrução,"Diminuição da acuidade visual, Catarata","Parestesia, Hipoestesia","Dor, Hipoestesia"
+307,136,07/10/2022,Sem Queixas,"Diminuição da acuidade visual, Madarose ciliar, Madarose superciliar","Hipoestesia, Parestesia, Atrofia musculatura intrínseca, Garra Móvel","Dor, Edema, Garra Móvel"
+308,136,03/02/2023,Sem Queixas,"Diminuição da acuidade visual, Madarose ciliar, Madarose superciliar","Hipoestesia, Parestesia, Atrofia musculatura intrínseca, Edema, Garra Móvel","Edema, Parestesia, Garra Móvel"
+309,136,14/07/2023,Epistaxe,"Diminuição da acuidade visual, Madarose ciliar, Madarose superciliar","Hipoestesia, Parestesia, Atrofia musculatura intrínseca, Edema","Edema, Dor, Parestesia, Garra Móvel"
+310,136,07/08/2024,Sem Queixas,"Madarose superciliar, Madarose ciliar","Hipoestesia, Parestesia, Atrofia musculatura intrínseca, Garra Móvel","Edema, Garra Móvel"
+311,137,23/08/2023,Ressecamento,Pterigio,Parestesia,Parestesia
+312,138,20/07/2022,Sem Queixas,Sem Queixas,Hipoestesia,"Hipoestesia, Dor"
+313,138,21/09/2022,Sem Queixas,Sem Queixas,"Hipoestesia, Dor","Parestesia, Manchas hipocrômicas"
+314,138,28/12/2022,Sem Queixas,Sem Queixas,Hipoestesia,Hipoestesia
+315,138,24/04/2024,Sem Queixas,Sem Queixas,"Hipoestesia, Parestesia","Hipoestesia, Parestesia"
+316,139,30/06/2023,"Desabamento de aba, Obstrução, Ressecamento, Odor","Madarose ciliar, Madarose superciliar, Hiperemia, Diminuição da acuidade visual, Ressecamento, Prurido, Ardor","Atrofia musculatura intrínseca, Garra, Dor, Xerose (ressecamento), Hipoestesia, Parestesia, Diminuição de força","Edema, Diminuição de força, Xerose (ressecamento), Hipoestesia, Reabsorção óssea, Parestesia, Dor"
+317,140,09/02/2022,Sem Queixas,Sem Queixas,"Hipoestesia, Dor","Dor, Parestesia, Hipoestesia, Edema"
+318,140,03/02/2023,Sem Queixas,Prurido,"Diminuição de força, Parestesia, Garra, Hipoestesia, Xerose (ressecamento)","Dor, Parestesia, Hipoestesia, Edema"
+319,140,15/02/2023,Sem Queixas,Prurido,"Diminuição de força, Parestesia, Garra, Hipoestesia, Xerose (ressecamento)","Dor, Parestesia, Hipoestesia, Edema"
+320,140,09/02/2024,Dor,Dor,"Hipoestesia, Parestesia, Diminuição de força","Dor, Parestesia, Hipoestesia, Edema, Xerose (ressecamento), Garra Móvel"
+321,141,24/04/2024,Sem Queixas,Diminuição da acuidade visual,"Atrofia musculatura intrínseca, Parestesia, Hipoestesia, Diminuição de força","Dor, Edema, Parestesia, Mal Perfurante plantar, Garra Móvel, Hipoestesia"
+322,142,09/07/2021,Prurido,"Prurido, Diminuição da acuidade visual","Hipoestesia, Parestesia","Dor, Edema, Câimbras"
+323,142,06/04/2022,Hiperemia,Prurido,Hipoestesia,Hipoestesia
+324,142,01/11/2023,Sem Queixas,Diminuição da acuidade visual,Parestesia,"Parestesia, Edema"
+325,143,16/06/2023,Sem Queixas,Sem Queixas,"Dor, Parestesia","Dor, Câimbra"
+326,143,06/10/2023,Sem Queixas,Sem Queixas,"Parestesia, Diminuição de força, Dor",Dor
+327,143,02/02/2024,Sem Queixas,Sem Queixas,"Parestesia, Dor",Dor
+328,143,29/05/2024,Sem Queixas,Sem Queixas,Sem Queixas,Sem Queixas
+329,144,17/11/2021,Dor,Sem Queixas,"Parestesia, Hipoestesia, Reabsorção óssea","Hipoestesia, Parestesia"
+330,145,01/09/2021,Sem Queixas,Sem Queixas,Sem Queixas,Edema
+331,145,05/08/2022,Sem Queixas,Sem Queixas,Diminuição de força,"Edema, Câimbra"
+332,145,24/02/2023,Sem Queixas,Sem Queixas,Sem Queixas,"Hipoestesia, Parestesia, Dor"
+333,146,12/03/2021,Sem Queixas,Sem Queixas,Dor,"Diminuição de força, Hipoestesia"
+334,147,21/07/2023,Sem Queixas,Sem Queixas,Parestesia,"Dor, Parestesia"
+335,147,20/10/2023,Ressecamento,Sem Queixas ,Sem Queixas,Sem Queixas
+336,148,20/01/2021,Sem Queixas,Hiperemia,Dor,Parestesia
+337,148,15/09/2021,Sem Queixas,Hiperemia,Lesões tróficas,"Dor, Parestesia, Hipoestesia"
+338,148,07/01/2022,Sem Queixas,Hiperemia,Lesões tróficas,"Dor, Parestesia, Hipoestesia"
+339,149,28/08/2019,Sem Queixas,Sem Queixas,Sem Queixas,Dor
+340,150,16/08/2019,Sem Queixas,Hiperemia,Sem Queixas,"Parestesia, Edema"
+341,151,03/02/2023,Sem Queixas,Sem Queixas,Sem Queixas,Edema
+342,151,04/08/2023,Sem Queixas,Sem Queixas,Parestesia,Sem Queixas
+343,151,02/02/2024,Sem Queixas,Sem Queixas,Xerose (ressecamento),Sem Queixas
+344,152,27/03/2019,Obstrução,Sem Queixas,Sem Queixas,Sem Queixas
+345,152,27/11/2019,Obstrução,Diminuição da acuidade visual,Sem Queixas,"Diminuição de força, Dor"
+346,152,08/10/2021,Sem Queixas,Sem Queixas,Sem Queixas,"Parestesia, Dor"
+347,153,03/04/2024,Sem Queixas,"Prurido, Diminuição da acuidade visual, Catarata","Fadiga, Diminuição de força, Parestesia, Hipoestesia","Fadiga, Hipoestesia, Parestesia"
+348,154,31/01/2020,Sem Queixas,"Madarose ciliar, Madarose superciliar","Sem Queixas, Hipotonia , Atrofia musculatura intrínseca",Mal Perfurante plantar
+349,289,05/08/2016,Sem Queixas,Diminuição da acuidade visual,Dor,Dor
+350,289,07/04/2017,Sem Queixas,Diminuição da acuidade visual,Sem registro,Sem registro
+351,289,05/07/2017,Sem Queixas,Diminuição da acuidade visual,Dor,Dor
+352,155,15/07/2022,Sem Queixas,Ressecamento,"Dor, Hipoestesia, Parestesia, Diminuição de força, Amiotrofias","Dor, Parestesia"
+353,156,27/11/2020,Sem Queixas,Sem Queixas,"Dor, Parestesia","Dor, Câimbras"
+354,156,19/02/2021,Sem Queixas,Sem Queixas,"Dor, Parestesia, Hipoestesia",Sem Queixas
+355,156,06/10/2021,Sem Queixas,Dor,"Dor, Parestesia, Hipoestesia",Sem registro
+356,157,20/09/2019,Sem Queixas,Sem Queixas,Sem registro,Dor
+357,157,29/11/2019,Sem registro,Sem registro,Sem registro,Sem registro
+358,157,08//01/2020,Sem Queixas,Sem Queixas,Dor,Dor
+359,158,01/04/2022,Ressecamento,"Ressecamento, Hiperemia","Dor, Edema, Parestesia, Hipoestesia, Lesões traumáticas","Dor, Edema, Parestesia, Hipoestesia, Garra Móvel"
+360,158,07/10/2022,Ressecamento,Diminuição da acuidade visual,"Dor, Hipoestesia, Diminuição de força, Lesões traumáticas","Dor, Edema, Hipoestesia, Parestesia, Garra Móvel"
+361,158,10/02/2023,Ressecamento,Ressecamento,"Dor, Hipoestesia, Diminuição de força","Dor, Edema, Hipoestesia, Parestesia, Garra Móvel"
+362,158,18/10/2023,Ressecamento,Ressecamento,"Dor, Hipoestesia, Parestesia, Diminuição de força","Dor, Edema, Hipoestesia, Parestesia, Garra Móvel, Lesões tróficas"
+363,159,16/10/2024,Sem Queixas,Sem Queixas,Hipoestesia,Sem Queixas
+364,160,12/07/2024,Ressecamento,Sem Queixas,"Dor, Parestesia","Dor, Edema, Parestesia"
+365,160,22/11/2024,Ressecamento,Diminuição da acuidade visual,"Parestesia, Dor, Diminuição de força, Hipoestesia","Parestesia, Hipoestesia, Diminuição de força"
+366,161,31/01/2024,Sem Queixas,Sem Queixas,Sem Queixas,Sem Queixas
+367,161,16/10/2025,Sem Queixas,Sem Queixas,Parestesia,Sem Queixas
+368,161,12/02/2025,Sem Queixas,Sem Queixas,Xerose (ressecamento),Sem Queixas
+369,162,01/04/2022,Sem Queixas,Diminuição da acuidade visual,"Dor, Diminuição de força, Hipoestesia, Parestesia","Dor, Diminuição de força, Parestesia, Hipoestesia"
+370,162,19/08/2022,Sem Queixas,Diminuição da acuidade visual,"Dor, Diminuição de força, Parestesia, Hipoestesia","Dor, Diminuição de força, Parestesia, Hipoestesia, Mal Perfurante plantar"
+371,163,22/07/2022,Sem registro,Sem registro,Sem registro,Sem registro
+372,163,21/10/2022,Hiperemia,Diminuição da acuidade visual,Sem Queixas,Dor
+373,164,23/09/2022,Sem Queixas,Diminuição da acuidade visual,Sem Queixas,Sem Queixas
+374,165,13/07/2022,Sem Queixas,Diminuição da acuidade visual,"Dor, Parestesia, Hipoestesia, Diminuição de força","Dor, Parestesia, Hipoestesia, Diminuição de força"
+375,165,01/02/2023,Sem Queixas,Diminuição da acuidade visual,"Dor, Parestesia","Dor, Hipoestesia, Parestesia, Diminuição de força"
+376,165,08/11/2023,Ressecamento,Sem Queixas,"Parestesia, Dor, Hipoestesia","Dor, Hipoestesia, Parestesia"
+377,165,24/04/2024,Sem Queixas,Sem Queixas,Parestesia,"Dor, Parestesia"
+378,166,07/02/2025,Ressecamento,Sem Queixas,Hipoestesia,"Parestesia, Hipoestesia"
+379,167,05/07/2024,Sem Queixas,Sem Queixas,Sem Queixas,Lesões traumáticas
+380,168,07/02/2025,Sem Queixas,Sem Queixas,Sem Queixas,Sem Queixas
+381,169,08/11/2024,"Epistaxe, Obstrução, Ressecamento",Diminuição da acuidade visual,"Diminuição de força, Parestesia, Hipoestesia, Dor","Hipoestesia, Parestesia, Diminuição de força"
+382,169,14/02/2025,"Epistaxe, Obstrução, Ressecamento","Diminuição da acuidade visual, Madarose ciliar","Diminuição de força, Parestesia, Hipoestesia, Dor","Hipoestesia, Parestesia, Diminuição de força"
+383,170,01/12/2023,Sem Queixas,Sem Queixas,"Dor, Hipoestesia, Parestesia, Atrofia musculatura intrínseca, Garra Móvel",Sem Queixas
+384,171,24/01/2018,Obstrução,Diminuição da acuidade visual,"Dor, Parestesia","Dor, Parestesia"
+385,171,22/05/2019,Obstrução,Hiperemia,Dor,"Dor, Parestesia"
+386,171,14/02/2020,Sem Queixas,"Prurido, Hiperemia",Dor,"Dor, Parestesia"
+387,172,16/08/2023,Sem Queixas,Ressecamento,Dor,"Dor, Fadiga"
+388,173,15/12/2023,Sem Queixas,Prurido,"Diminuição de força, Parestesia",Parestesia
+389,174,04/03/2022,Sem Queixas,Sem Queixas,Sem Queixas,Garra Móvel
+390,174,11/11/2022,Sem Queixas,Sem Queixas ,Sem Queixas,"Garra Móvel, Lesões traumáticas, Reabsorção óssea"
+391,174,15/02/2023,Sem Queixas,Sem Queixas ,Sem Queixas,"Garra Móvel, Reabsorção óssea, Lesões traumáticas"
+392,174,26/07/2023,Sem Queixas,Sem Queixas ,Sem Queixas,"Garra Móvel, Reabsorção óssea, Lesões traumáticas, Mal Perfurante plantar"
+393,175,10/11/2023,Epistaxe,Sem Queixas,Atrofia musculatura intrínseca,"Lesões tróficas, Lesões traumáticas"
+394,175,15/05/2024,Sem Queixas,Sem Queixas,Sem Queixas,"Lesões tróficas, Mal Perfurante plantar, Lesões traumáticas"
+395,176,04/03/2022,Sem Queixas,Triquíase,Sem Queixas,Parestesia
+396,176,11/11/2022,Sem Queixas,Triquíase,Sem Queixas,Parestesia
+397,176,15/02/2023,Sem Queixas,Sem Queixas,Sem Queixas,Sem Queixas
+398,176,26/07/2023,Sem Queixas,Diminuição da acuidade visual,Sem Queixas,Sem Queixas
+399,177,10/11/2023,Sem Queixas,Diminuição da acuidade visual,Sem Queixas,Sem Queixas
+400,177,15/05/2024,Sem Queixas,Diminuição da acuidade visual,Sem Queixas,Sem Queixas 
+401,178,28/05/2021,Sem Queixas,Ressecamento,Sem Queixas,Sem Queixas
+402,178,11/11/2022,Sem Queixas,Sem Queixas,Sem Queixas,"Reabsorção óssea, Garra Móvel"
+403,178,15/02/2023,Sem Queixas,Sem Queixas ,Sem Queixas,Lesões traumáticas
+404,178,26/07/2023,Sem Queixas,Sem Queixas ,Sem Queixas,"Diminuição de força, Edema, Lesões traumáticas, Lesões tróficas"
+405,179,10/11/2023,Sem Queixas,Sem Queixas,Sem Queixas,Reabsorção óssea
+406,179,15/05/2024,Sem Queixas,Sem Queixas ,Reabsorção óssea,Reabsorção óssea
+407,180,11/11/2022,Sem Queixas,Sem Queixas,"Dor, Parestesia","Dor, Parestesia"
+408,180,03/02/2023,Ressecamento,Diminuição da acuidade visual,"Dor, Parestesia","Parestesia, Lesões traumáticas, Dor"
+409,180,02/06/2023,Ressecamento,Sem Queixas,poliartralgia,"Dor, Parestesia, Hipoestesia"
+410,180,04/10/2023,Ressecamento,Sem Queixas,Sem registro,Sem registro
+411,181,02/02/2024,Sem Queixas,Sem Queixas,"Parestesia, Dor","Dor, Parestesia"
+412,181,12/07/2024,Sem Queixas,Prurido,Dor,"Dor, Parestesia"
+413,181,27/11/2024,Sem Queixas,Prurido,"Dor, Parestesia, Diminuição de força",Dor
+414,182,25/02/2022,Sem Queixas,Sem Queixas,Parestesia,Dor
+415,183,14/06/2024,Sem Queixas,Sem Queixas,Parestesia,"Parestesia, Dor"
+416,183,13/12/2024,Sem Queixas,Sem Queixas,"Parestesia, Hipoestesia","Parestesia, Dor"
+417,184,29/09/2023,Sem Queixas,Diminuição da acuidade visual,"Parestesia, Dor, Garra Móvel","Dor, Parestesia, Fadiga"
+418,184,31/01/2024,Sem Queixas,"Diminuição da acuidade visual, Prurido","Parestesia, Dor, Garra Móvel","Dor, Parestesia, Edema, Fadiga"
+419,184,05/04/2024,Sem Queixas,"Diminuição da acuidade visual, Prurido","Hipoestesia, Dor, Garra Móvel","Dor, Edema, Parestesia, Hipoestesia"
+420,184,02/02/2024,Sem Queixas,"Diminuição da acuidade visual, Prurido","Hipoestesia, Dor, Garra Móvel","Dor, Edema, Parestesia, Hipoestesia"
+421,185,01/09/2023,Dor,Sem Queixas,"Dor, Parestesia","Parestesia, Dor"
+422,185,12/01/2024,Sem Queixas,Sem Queixas,Parestesia,"Parestesia, Edema"
+423,185,26/04/2024,Sem Queixas,Sem Queixas,Rigidez,Parestesia
+424,185,02/08/2024,Obstrução,Sem Queixas,Sem Queixas,Parestesia
+425,186,08/01/2023,Prurido,"Prurido, Catarata",Sem Queixas,"Hipoestesia, Parestesia, Edema"
+426,187,19/08/2022,Sem Queixas,Prurido,Parestesia,"Dor, Parestesia"
+427,187,16/12/2022,Sem Queixas,Diminuição da acuidade visual,"Parestesia, Dor, Diminuição de força","Dor, Parestesia, Diminuição de força"
+428,188,09/08/2023,Sem Queixas,Sem Queixas,Dor,"Parestesia, Dor"
+429,188,19/01/2024,Sem Queixas,Sem Queixas,"Dor, Parestesia",Sem Queixas
+430,189,23/07/2021,Sem Queixas,Sem Queixas,Dor,Dor
+431,189,20/01/2023,Sem Queixas,Sem Queixas,Sem Queixas,Sem Queixas
+432,190,27/11/2020,Sem Queixas,Sem Queixas,Sem Queixas,Sem Queixas
+433,191,20/01/2021,Sem Queixas,Diminuição da acuidade visual,Sem Queixas,Edema
+434,191,05/03/2021,Sem Queixas,Diminuição da acuidade visual,Sem Queixas,Edema
+435,191,04/02/2022,Sem Queixas,Diminuição da acuidade visual,Dor,Edema
+436,192,08/06/2018,Sem registro,Sem registro,Sem registro,"Xerose (ressecamento), Parestesia"
+437,192,10/05/2019,Sem Queixas,Sem Queixas,Sem Queixas,Edema
+438,193,27/05/2022,Epistaxe,"Madarose ciliar, Madarose superciliar, Lacrimejamento, Diminuição da acuidade visual, Prurido, Dor",Dor,Dor
+439,193,05/10/2023,Sem Queixas,"Madarose ciliar, Madarose superciliar, Lacrimejamento, Diminuição da acuidade visual, Prurido, Dor","Xerose (ressecamento), Parestesia","Dor, Hipoestesia"
+440,194,09/11/2022,Sem Queixas,Sem Queixas,Hipoestesia,Parestesia
+441,194,10/02/2023,Sem Queixas,Prurido,Sem Queixas,Sem registro
+442,194,26/05/2023,Sem Queixas,Prurido,Sem Queixas,Fadiga
+443,195,02/02/2024,Sem Queixas,Sem Queixas,Sem Queixas,Sem Queixas
+444,195,04/09/2024,Sem Queixas,Sem Queixas,Sem Queixas,Sem Queixas
+445,196,10/05/2019,Odor,"Madarose ciliar, Catarata",Sem Queixas,Sem Queixas
+446,196,11/01/2023,Sem Queixas,"Diminuição da acuidade visual, Madarose ciliar, Catarata",Sem Queixas,"Dor, Parestesia, Garra Móvel"
+447,197,08/04/2022,Sem Queixas,Prurido,"Hipoestesia, Parestesia","Fadiga, Dor"
+448,197,30/09/2022,Sem Queixas,Prurido,"Parestesia, Cãimbras","Dor, Cãimbra"
+449,197,13/01/2023,Dor,Ressecamento,"Dor, Fadiga, Hipoestesia, Parestesia","Dor, Fadiga, Hipoestesia, Parestesia, Xerose (ressecamento)"
+450,197,26/04/2023,Sem Queixas,Prurido,Sem Queixas,"Dor, Fadiga, Hipoestesia, Parestesia, Xerose (ressecamento)"
+451,198,23/08/2023,Sem Queixas,Diminuição da acuidade visual,"Parestesia, Hipoestesia, Diminuição de força, Dor","Hipoestesia, Parestesia, Diminuição de força, Dor"
+452,199,15/03/2023,Sem Queixas,Sem Queixas,Dor,"Dor, Parestesia, Hipoestesia"
+453,199,18/08/2023,Sem Queixas,Sem Queixas,"Dor, Parestesia","Dor, Parestesia, Cãimbra"
+454,199,06/12/2023,Sem Queixas,Sem Queixas,Hipoestesia,"Parestesia, Dor"
+455,200,01/03/2023,Sem Queixas,Sem Queixas,Sem Queixas,"Hipoestesia, Xerose (ressecamento)"
+456,200,22/03/2024,Sem Queixas,Sem Queixas,Parestesia,"Hipoestesia, Parestesia, Dor"
+457,201,02/12/2022,Sem Queixas,Sem Queixas,"Dor, Atrofia musculatura intrínseca","Parestesia, Hipoestesia, Reabsorção óssea"
+458,202,21/04/2024,Obstrução,Diminuição da acuidade visual,"Parestesia, Hipoestesia",Dor
+459,203,27/11/2024,Obstrução,Prurido,"Parestesia, Diminuição de força","Hipoestesia, Dor, Fadiga"
+460,204,16/03/2022,Sem Queixas,Diminuição da acuidade visual,Dor,Sem Queixas
+461,204,05/10/2022,Ressecamento,Sem Queixas,"Dor, Rigidez",Sem Queixas 
+462,204,18/01/2023,Sem Queixas,Sem Queixas ,Dor,Sem Queixas 
+463,204,15/02/2023,Sem Queixas,Sem Queixas ,Fadiga,Sem Queixas 
+464,205,12/04/2023,"Desabamento de aba, Obstrução, Epistaxe","Madarose ciliar, Madarose superciliar, Prurido","Diminuição de força, Dor, Hipoestesia","Dor, Edema, Mal Perfurante plantar, Hipoestesia, Parestesia"
+465,206,18/08/2023,Sem Queixas,"Diminuição da acuidade visual, Prurido","Dor, Parestesia","Dor, Parestesia"
+466,206,07/02/2024,Sem Queixas,"Diminuição da acuidade visual, Prurido","Choque, Parestesia, Hipoestesia","Dor, Parestesia, Hipoestesia, Edema"
+467,206,28/06/2024,Ressecamento,"Diminuição da acuidade visual, Prurido",Dor,"Dor, Parestesia, Hipoestesia, Edema"
+468,207,16/12/2022,Sem registro,Sem registro,"Dor, Parestesia","Dor, Parestesia"
+469,208,17/05/2023,Sem Queixas,"Diminuição da acuidade visual, Ressecamento","Hipoestesia, Dor, Xerose (ressecamento), Diminuição de força","Hipoestesia, Parestesia, Dor"
+470,208,21/07/2023,Ressecamento,"Prurido, Ressecamento","Hipoestesia, Dor, Diminuição de força, Rigidez","Hipoestesia, Parestesia, Dor"
+471,208,27/10/2023,Sem Queixas,"Prurido, Hiperemia","Dor, Hipoestesia, Diminuição de força, Xerose (ressecamento)","Dor, Diminuição de força, Edema"
+472,208,26/04/2024,Sem Queixas,"Catarata, Diminuição da acuidade visual","Dor, Parestesia, Diminuição de força","Parestesia, Hipoestesia, Xerose (ressecamento), Dor, Edema"
+473,209,10/09/2021,Sem Queixas,"Prurido, Ressecamento",Dor,"Dor, Fadiga, Edema, Parestesia"
+474,209,15/06/2022,"Obstrução, Ressecamento",Ressecamento,"Dor, Fadiga","Dor, Fadiga, Edema, Parestesia"
+475,209,30/09/2022,"Obstrução, Ressecamento",Prurido,Dor,"Dor, Fadiga, Parestesia"
+476,210,13/01/2023,"Prurido, Ressecamento","Prurido, Ressecamento","Hipoestesia, Parestesia, Dor, Diminuição de força",Parestesia
+477,210,07/06/2023,"Prurido, Ressecamento","Prurido, Ressecamento, Diminuição da acuidade visual","Hipoestesia, Parestesia, Dor, Diminuição de força","Parestesia, Hipoestesia, Dor, Diminuição de força"
+478,210,06/09/2023,Prurido,"Prurido, Ressecamento, Diminuição da acuidade visual","Hipoestesia, Parestesia, Dor, Diminuição de força","Parestesia, Hipoestesia, Dor, Diminuição de força"
+479,210,01/12/2023,Ressecamento,"Prurido, Ressecamento, Diminuição da acuidade visual","Hipoestesia, Parestesia, Dor, Diminuição de força","Parestesia, Hipoestesia, Dor, Diminuição de força"
+480,211,26/06/2024,Obstrução,"Diminuição da acuidade visual, Ressecamento","Parestesia, Diminuição de força, Dor","Parestesia, Diminuição de força, Dor"
+481,211,06/11/2024,Ressecamento,"Diminuição da acuidade visual, Ressecamento","Parestesia, Hipoestesia","Parestesia, Hipoestesia"
+482,212,04/11/2022,"Prurido, Ressecamento","Prurido, Ressecamento","Parestesia, Hipoestesia, Diminuição de força, Dor, Rigidez","Hipoestesia, Parestesia, Dor, Diminuição de força, Rigidez"
+483,212,10/11/2023,Prurido,Diminuição da acuidade visual,"Dor, Parestesia, Hipoestesia, Rigidez","Hipoestesia, Parestesia, Dor, Diminuição de força, Rigidez"
+484,213,23/12/2022,Sem Queixas,"Madarose ciliar, Diminuição da acuidade visual","Dor, Rigidez","Dor, Rigidez"
+485,214,26/02/2021,Sem Queixas,Sem Queixas,"Dor, Parestesia, Diminuição de força","Dor, Parestesia"
+486,214,01/02/2022,Prurido,Sem Queixas ,"Dor, Diminuição de força","Dor, Fadiga"
+487,214,02/06/2023,Prurido,Sem Queixas ,Hipoestesia,"Dor, Fadiga, Hipoestesia, Lesões traumáticas"
+488,215,06/09/2023,Prurido,Sem Queixas,Hipoestesia,"Hipoestesia, Diminuição de força"
+489,216,30/06/2023,Sem Queixas,Sem Queixas,Diminuição de força,Sem Queixas
+490,217,13/07/2022,Sem Queixas,Sem Queixas,Parestesia,"Dor, Parestesia, Hipoestesia"
+491,217,25/01/2023,Sem Queixas,Sem Queixas ,Sem Queixas,"Parestesia, Dor"
+492,217,26/05/2023,Sem Queixas,Diminuição da acuidade visual,Dor,"Dor, Hipoestesia"
+493,217,01/09/2023,Sem Queixas,Diminuição da acuidade visual,Xerose (ressecamento),"Xerose (ressecamento), Dor"
+494,218,26/01/2024,Sem Queixas,Sem Queixas,Sem Queixas,"Dor, Parestesia, Xerose (ressecamento)"
+495,218,15/05/2024,Sem Queixas,Ardor,Sem Queixas,"Dor, Parestesia"
+496,219,01/04/2022,Obstrução,"Diminuição da acuidade visual, Prurido","Dor, Parestesia, Fadiga","Edema, Parestesia, Hipoestesia, Diminuição de força, Dor"
+497,219,15/03/2023,Ressecamento,"Diminuição da acuidade visual, Prurido","Dor, Parestesia, Fadiga","Dor, Edema, Parestesia, Diminuição de força, Cãimbra"
+498,219,14/06/2023,Ressecamento,"Diminuição da acuidade visual, Prurido","Dor, Parestesia, Fadiga","Dor, Parestesia, Diminuição de força, Edema"
+499,219,20/09/2023,Ressecamento,"Diminuição da acuidade visual, Prurido","Dor, Parestesia, Fadiga, Edema","Dor, Edema, Parestesia, Diminuição de força"
+500,220,03/01/2023,Ressecamento,Prurido,"Dor, Parestesia","Edema, Dor, Parestesia, Diminuição de força"
+501,220,17/04/2024,Ressecamento,Prurido,"Dor, Parestesia","Edema, Dor, Parestesia, Diminuição de força"
+502,221,01/11/2023,Sem Queixas,"Prurido, Diminuição da acuidade visual, Catarata",Hipoestesia,"Dor, Hipoestesia"
+503,221,17/04/2024,Sem Queixas,"Prurido, Diminuição da acuidade visual, Catarata","Hipoestesia, Parestesia","Dor, Hipoestesia"
+504,221,22/05/2024,Sem Queixas,"Prurido, Diminuição da acuidade visual, Catarata","Hipoestesia, Parestesia","Dor, Hipoestesia"
+505,221,04/08/2024,Prurido,"Prurido, Diminuição da acuidade visual, Catarata",Hipoestesia,"Dor, Hipoestesia, Reabsorção óssea"
+506,222,05/04/2023,Ressecamento,Ardor,"Dor, Parestesia, Hipoestesia, Fadiga","Dor, Parestesia, Hipoestesia, Fadiga"
+507,223,21/05/2021,Sem Queixas,Sem Queixas,Sem Queixas,Sem Queixas
+508,224,07/11/2018,Sem Queixas,Sem Queixas,Dor,Dor
+509,224,27/03/2019,Sem Queixas,Lacrimejamento,Dor,Dor
+510,224,16/08/2019,Sem Queixas,Diminuição da acuidade visual,Dor,Dor
+511,225,17/01/2020,Hiperemia,Diminuição da acuidade visual,Dor,Dor
+512,226,15/10/2021,Sem Queixas,Sem Queixas,Sem Queixas,Sem Queixas
+513,226,22/07/2022,Sem Queixas,Sem Queixas,Sem Queixas,Sem Queixas
+514,227,16/06/2021,Sem Queixas,Sem Queixas,"Dor, Diminuição de força, Parestesia, Hipoestesia","Dor, Parestesia, Hipoestesia"
+515,227,23/02/2022,Odor,"Diminuição da acuidade visual, Madarose ciliar, Madarose superciliar","Dor, Diminuição de força, Parestesia, Hipoestesia","Dor, Parestesia, Hipoestesia, Xerose (ressecamento)"
+516,228,18/10/2023,Sem Queixas,Sem Queixas,"Parestesia, Hipoestesia, Dor, Diminuição de força","Dor, Parestesia, Hipoestesia"
+517,228,27/03/2024,Sem Queixas,Sem Queixas ,"Hipoestesia, Parestesia, Dor","Edema, Dor"
+518,228,03/07/2024,Sem Queixas,Secreção,"Parestesia, Dor, Diminuição de força","Dor, Edema"
+519,229,13/04/2022,Sem Queixas,Sem Queixas,"Hipoestesia, Parestesia, Reabsorção óssea","Parestesia, Hipoestesia, Dor"
+520,229,20/12/2023,Ressecamento,Ardor,"Dor, Hipoestesia, Parestesia, Reabsorção óssea","Parestesia, Hipoestesia, Dor"
+521,230,27/10/2021,Sem Queixas,Sem Queixas,Dor,Sem Queixas
+522,230,07/01/2022,Sem Queixas,Sem Queixas,"Dor, Diminuição de força","Sem Queixas , Sem Queixas "
+523,230,25/03/2022,Sem Queixas,Sem Queixas,"Dor, Diminuição de força","Dor, Hipoestesia, Parestesia"
+524,230,04/11/2022,Sem Queixas,Sem Queixas,"Parestesia, Hipoestesia, Dor","Dor, Hipoestesia, Parestesia"
+525,231,31/03/2023,Sem Queixas,Sem Queixas,Parestesia,Parestesia
+526,231,05/07/2023,Sem Queixas,Ressecamento,Hipoestesia,Sem Queixas
+527,231,20/09/2023,Sem Queixas,Sem Queixas,Parestesia,"Dor, Parestesia"
+528,231,20/12/2023,Sem Queixas,Sem Queixas ,Hipoestesia,"Parestesia, Dor"
+529,232,14/06/2024,Sem Queixas,Sem Queixas,Parestesia,"Parestesia, Dor"
+530,233,06/04/2022,Sem Queixas,Sem Queixas,"Dor, Hipoestesia, Garra Móvel, Atrofia musculatura intrínseca","Dor, Parestesia, Hipoestesia"
+531,233,14/10/2022,Sem Queixas,Sem Queixas,"Parestesia, Dor, Garra Móvel, Atrofia musculatura intrínseca","Dor, Parestesia, Hipoestesia"
+532,233,10/03/2023,Sem Queixas,Sem Queixas,"Parestesia, Dor, Garra Móvel, Atrofia musculatura intrínseca","Dor, Parestesia, Hipoestesia"
+533,233,06/10/2023,Sem Queixas,Sem Queixas,"Hipoestesia, Parestesia, Garra Móvel, Atrofia musculatura intrínseca","Dor, Parestesia, Hipoestesia"
+534,234,22/06/2022,Sem Queixas,Diminuição da acuidade visual,"Parestesia, Dor, Garra Móvel, Atrofia musculatura intrínseca","Parestesia, Hipoestesia, Reabsorção óssea, Garra Móvel"
+535,234,14/12/2022,Ressecamento,Ardor,"Parestesia, Dor, Garra Móvel, Atrofia musculatura intrínseca, Lesões traumáticas","Parestesia, Hipoestesia, Dor, Reabsorção óssea, Garra Móvel"
+536,235,26/04/2023,Sem Queixas,Prurido,"Edema, Dor, Diminuição de força, Parestesia, Fadiga","Edema, Dor, Diminuição de força, Fadiga"
+537,235,11/08/2023,Sem Queixas,Prurido,"Dor, Diminuição de força, Fadiga, Parestesia","Dor, Parestesia, Edema"
+538,235,20/03/2024,Sem Queixas,"Prurido, Diminuição da acuidade visual","Dor, Hipoestesia, Rigidez","Dor, Edema"
+539,236,19/01/2024,"Ressecamento, Obstrução","Prurido, Catarata","Dor, Diminuição de força, Parestesia, Rigidez","Dor, Diminuição de força, Parestesia"
+540,236,10/02/2024,"Ressecamento, Obstrução","Prurido, Catarata","Dor, Parestesia, Hipoestesia, Diminuição de força, Garra Móvel, Rigidez","Dor, Parestesia, Hipoestesia, Diminuição de força"
+541,237,19/03/2021,Prurido,Prurido,"Hipoestesia, Parestesia, Dor, Diminuição de força, Garra Móvel","Dor, Hipoestesia, Parestesia, Diminuição de força"
+542,237,16/12/2022,Rinite,"Prurido, Catarata","Hipoestesia, Parestesia, Dor, Diminuição de força, Garra Móvel","Dor, Hipoestesia, Parestesia, Diminuição de força"
+543,237,14/06/2023,Ressecamento,"Prurido, Catarata","Hipoestesia, Parestesia, Dor, Diminuição de força, Garra Móvel","Dor, Hipoestesia, Parestesia, Diminuição de força"
+544,238,13/03/2019,Sem Queixas,Sem Queixas,Dor,Dor
+545,238,16/08/2019,Sem Queixas,Sem Queixas,Dor,Dor
+546,238,22/01/2020,Ressecamento,Sem Queixas,Dor,Dor
+547,239,12/07/2019,Sem Queixas,Dor,Dor,Sem Queixas
+548,239,29/11/2019,Hiperemia,Sem Queixas,Sem Queixas,Sem Queixas 
+549,239,29/10/2021,Sem Queixas,Sem Queixas,"Hipoestesia, Parestesia, Garra Móvel","Edema, Fadiga"
+550,239,18/02/2022,Sem Queixas,Sem Queixas,"Hipoestesia, Parestesia, Garra Rígida",Sem Queixas
+551,240,19/07/2023,Sem Queixas,Sem Queixas,"Hipoestesia, Garra Móvel",Hipoestesia
+552,241,26/10/2022,Secrecao,"Madarose ciliar, Diminuição da acuidade visual","Diminuição de força, Hipoestesia, Parestesia, Dor","Dor, Hipoestesia, Parestesia"
+553,241,25/08/2023,Sem Queixas,Madarose ciliar,"Parestesia, Dor","Dor, Hipoestesia, Parestesia"
+554,241,27/11/2024,Sem Queixas,Madarose ciliar,"Dor, Parestesia, Hipoestesia, Diminuição de força","Dor, Hipoestesia, Parestesia"
+555,241,14/02/2025,Sem Queixas,"Madarose ciliar, Madarose superciliar",Sem registro,Sem registro
+556,242,13/12/2023,Ressecamento,"Prurido, Diminuição da acuidade visual","Parestesia, Dor","Parestesia, Dor"
+557,242,19/04/2024,Ressecamento,"Prurido, Catarata, Ressecamento, Diminuição da acuidade visual","Dor, Parestesia, Hipoestesia, Diminuição de força, Rigidez","Dor, Parestesia, Hipoestesia"
+558,242,24/07/2024,Ressecamento,"Prurido, Catarata, Ressecamento, Diminuição da acuidade visual","Dor, Parestesia, Hipoestesia, Diminuição de força, Rigidez","Dor, Parestesia, Hipoestesia"
+559,243,02/12/2022,Prurido,Prurido,Sem Queixas,Dor
+560,243,27/11/2024,Prurido,"Prurido, Ressecamento, Diminuição da acuidade visual",Sem Queixas,Sem Queixas
+561,244,22/02/2019,Hiperemia,Ardor,Dor,Parestesia
+562,244,07/08/2019,Hiperemia,Ardor,Dor,Parestesia
+563,244,11/03/2020,Sem Queixas,"Madarose ciliar, Hiperemia","Parestesia, Diminuição de força","Parestesia, Diminuição de força"
+564,245,14/04/2021,Ressecamento,Sem Queixas,Diminuição de força,"Diminuição de força, Dor, Parestesia, Hipoestesia"
+565,245,30/07/2021,Ressecamento,Sem Queixas ,Hipoestesia,"Diminuição de força, Dor, Parestesia, Hipoestesia"
+566,246,05/07/2023,Sem Queixas,"Diminuição da acuidade visual, Catarata","Diminuição de força, Dor","Diminuição de força, Dor, Parestesia, Hipoestesia"
+567,247,09/02/2024,Sem Queixas,Diminuição da acuidade visual,"Parestesia, Dor","Parestesia, Dor, Edema, Hipoestesia"
+568,248,14/10/2022,Sem Queixas,Diminuição da acuidade visual,"Dor, Diminuição de força, Parestesia, Xerose (ressecamento)","Hipoestesia, Parestesia, Diminuição de força"
+569,248,18/11/2022,Sem Queixas,Diminuição da acuidade visual,"Dor, Diminuição de força","Hipoestesia, Parestesia, Diminuição de força, Edema"
+570,248,08/02/2023,Sem Queixas,Sem Queixas,Sem Queixas,"Dor, Hipoestesia"
+571,248,06/09/2023,Sem Queixas,Sem Queixas,"Fadiga, Diminuição de força, Parestesia, Hipoestesia","Hipoestesia, Parestesia, Diminuição de força, Fadiga"
+572,249,03/10/2018,Sem Queixas,Sem Queixas,Parestesia,Dor
+573,249,20/11/2019,Sem Queixas,Diminuição da acuidade visual,Parestesia,Dor
+574,250,20/07/2018,Sem Queixas,Ardor ,Parestesia,"Parestesia, Diminuição de força"
+575,251,05/07/2017,Sem Queixas,Sem Queixas,Reabsorção óssea,Xerose (ressecamento)
+576,251,25/10/2017,Sem Queixas,Sem Queixas ,Sem registro,Xerose (ressecamento)
+577,251,23/03/2018,Hiperemia,Sem Queixas ,Sem registro,Xerose (ressecamento)
+578,252,13/04/2022,Sem Queixas,Diminuição da acuidade visual,"Parestesia, Hipoestesia, Reabsorção óssea","Dor, Parestesia, Hipoestesia"
+579,253,17/04/2024,Obstrução,Catarata,"Parestesia, Hipoestesia","Edema, Dor, Mal Perfurante plantar, Hipoestesia, Lesões traumáticas"
+580,253,26/07/2024,"Epistaxe, Obstrução, Edema","Catarata, Lacrimejamento, Madarose ciliar, Madarose superciliar","Parestesia, Hipoestesia","Hipoestesia, Parestesia, Dor, Edema, Garra Rígida, Pé Caído, Xerose (ressecamento), Reabsorção óssea"
+581,253,22/11/2024,Ressecamento,"Catarata, Lacrimejamento, Madarose ciliar, Madarose superciliar","Hipoestesia, Dor","Hipoestesia, Parestesia, Dor, Edema, Garra Rígida, Pé Caído, Xerose (ressecamento), Reabsorção óssea"
+582,254,19/07/2024,Sem Queixas,Sem Queixas,Parestesia,"Dor, Fadiga"
+583,255,29/09/2023,Sem Queixas,Sem Queixas,Parestesia,"Dor, Parestesia"
+584,256,25/10/2023,Sem Queixas,"Diminuição da acuidade visual, Madarose ciliar",Sem Queixas,Sem Queixas
+585,256,23/02/2024,Sem Queixas,"Diminuição da acuidade visual, Madarose ciliar",Sem Queixas,Sem Queixas 
+586,256,28/06/2024,Sem Queixas,"Diminuição da acuidade visual, Madarose ciliar",Sem Queixas,Sem Queixas 
+587,256,13/12/2024,Sem Queixas,"Diminuição da acuidade visual, Madarose ciliar",Sem Queixas,Sem Queixas 
+588,257,26/03/2021,Hiperemia,Diminuição da acuidade visual,Sem Queixas,Sem Queixas
+589,258,23/03/2022,Sem Queixas,Ressecamento,"Dor, Parestesia, Hipoestesia, Diminuição de força","Dor, Parestesia, Hipoestesia, Diminuição de força"
+590,259,20/07/2022,Dor,"tremores, Choques","Dor, Parestesia, Hipoestesia, Diminuição de força","Hipoestesia, Parestesia, Edema, Diminuição de força"
+591,259,04/09/2024,Sem Queixas,Sem Queixas,Sem Queixas,Sem Queixas
+592,260,13/07/2022,Sem Queixas,Sem Queixas,"Dor, Diminuição de força, Atrofia musculatura intrínseca","Dor, Diminuição de força"
+593,261,26//10/2022,Sem Queixas,Sem Queixas,Sem Queixas,Cãimbra
+594,261,25/08/2023,Sem Queixas,Sem Queixas,Sem Queixas,Cãimbra
+595,262,21/02/2025,Sem Queixas,Sem Queixas,"Hipoestesia, Parestesia",Sem registro
+596,263,12/11/2021,Sem Queixas,Sem Queixas,Dor,Sem Queixas
+597,263,11/02/2022,Sem Queixas,Sem Queixas,Sem Queixas,Sem Queixas 
+598,263,25/03/2022,Sem Queixas,Sem Queixas,Sem Queixas,Sem Queixas 
+599,264,02/07/2021,Sem Queixas,Sem Queixas,"Garra Rígida, Atrofia musculatura intrínseca, Lesões traumáticas, Lesões tróficas","Hipoestesia, Garra Móvel, Garra Rígida"
+600,264,04/02/2022,Sem Queixas,Diminuição da acuidade visual,"Hipoestesia, Garra Rígida, Atrofia musculatura intrínseca, Lesões tróficas, Lesões traumáticas","Hipoestesia, Garra Rígida, Garra Móvel"
+601,264,27/01/2023,Sem Queixas,"Diminuição da acuidade visual, Madarose ciliar, Catarata","Hipoestesia, Garra Rígida, Atrofia musculatura intrínseca, Lesões traumáticas, Lesões tróficas","Hipoestesia, Dor, Garra Rígida, Garra Móvel"
+602,265,03/05/2024,Ressecamento,Diminuição da acuidade visual,"Garra Móvel, Atrofia musculatura intrínseca, Hipotrofia","Hipoestesia, Parestesia, Mal Perfurante plantar, Lesões traumáticas"
+603,266,10/04/2024,Ressecamento,Sem Queixas,"Atrofia musculatura intrínseca, Parestesia, Diminuição de força, Dor","Parestesia, Dor, Diminuição de força"
+604,267,02/10/2024,Hiperemia,Sem Queixas,Sem Queixas,"Hipoestesia, Parestesia, Dor, Diminuição de força"
+605,268,31/10/2024,Ressecamento,Sem Queixas,Sem Queixas,"Dor, Fadiga, Diminuição de força, Parestesia"
+606,268,14/02/2025,Ressecamento,Ressecamento,Dor,"Dor, Edema, Fadiga, Parestesia"
+607,269,02/08/2019,Sem Queixas,Sem Queixas,Parestesia,Dor
+608,269,27/11/2019,Sem Queixas,Sem Queixas,Parestesia,Dor
+609,269,01/11/2023,Prurido,Prurido,Hipoestesia,Parestesia
+610,270,02/08/2024,Sem Queixas,"Catarata, Diminuição da acuidade visual","Parestesia, Dor","Hipoestesia, Dor"
+611,271,04/10/2024,Sem Queixas,Sem Queixas,Diminuição de força,Sem registro
+612,272,24/01/2020,Obstrução,Sem Queixas,"Parestesia, Dor, Hipotonia",Dor
+613,272,28/02/2020,Obstrução,Sem Queixas,Hipotonia,Dor
+614,272,07/02/2024,Ressecamento,Ressecamento,Sem Queixas,Sem Queixas
+615,273,04/10/2023,Sem Queixas,Sem Queixas,"Hipoestesia, Parestesia, Dor, Edema",Dor
+616,273,09/02/2024,Ressecamento,Sem Queixas,"Dor, Edema","Dor, Fadiga"
+617,273,07/06/2024,Ressecamento,Ressecamento,"Dor, Parestesia","Parestesia, Dor"
+618,273,06/11/2024,Ressecamento,Ressecamento,"Dor, Parestesia",Dor
+619,274,23/12/2020,Sem Queixas,Lacrimejamento,"Dor, Edema, Parestesia, Diminuição de força","Dor, Parestesia, Diminuição de força"
+620,274,15/06/2022,Sem Queixas,Sem Queixas,"Dor, Parestesia, Diminuição de força","Dor, Parestesia, Diminuição de força"
+621,274,23/11/2022,Sem Queixas,Sem Queixas,Sem Queixas,Dor
+622,275,14/06/2023,Sem Queixas,Sem Queixas,"Hipoestesia, Diminuição de força, Parestesia, Rigidez","Hipoestesia, Parestesia, Dor, Diminuição de força"
+623,275,02/08/2023,Sem Queixas,"Diminuição da acuidade visual, Ressecamento, Hiperemia","Parestesia, Hipoestesia","Parestesia, Hipoestesia"
+624,275,10/11/2023,Sem Queixas,Diminuição da acuidade visual,"Parestesia, Hipoestesia","Parestesia, Hipoestesia, Edema, Dor, Lesões traumáticas"
+625,275,12/07/2024,Sem Queixas,"Diminuição da acuidade visual, Ressecamento, Hiperemia",Hipoestesia,"Hipoestesia, Dor"
+626,276,03/03/2023,Sem Queixas,Prurido,"Hipoestesia, Dor, Diminuição de força, Lesões tróficas, Garra Rígida, Garra Móvel, Atrofia musculatura intrínseca","Hipoestesia, Dor, Diminuição de força"
+627,276,21/02/2024,Sem Queixas,"Diminuição da acuidade visual, Catarata, Madarose ciliar","Dor, Diminuição de força, Atrofia musculatura intrínseca, Garra Móvel, Garra Rígida, Lesões tróficas","Dor, Parestesia, Hipoestesia, Diminuição de força"
+628,276,12/07/2024,Sem Queixas,"Diminuição da acuidade visual, Catarata, Madarose ciliar","Dor, Diminuição de força, Atrofia musculatura intrínseca, Garra Móvel, Garra Rígida, Lesões tróficas","Dor, Parestesia, Hipoestesia, Diminuição de força, Lesões traumáticas"
+629,277,23/10/2024,Sem Queixas,Sem Queixas,Sem Queixas,Sem Queixas
+630,278,31/07/2024,Sem Queixas,"Diminuição da acuidade visual, Catarata",Sem Queixas,Xerose (ressecamento)
+631,279,10/05/2024,Sem Queixas,"Diminuição da acuidade visual, Catarata","Hipoestesia, Parestesia, Dor, Diminuição de força, Reabsorção óssea","Hipoestesia, Mal Perfurante plantar, Lesões tróficas, Reabsorção óssea"
+632,280,27/05/2022,Sem Queixas,"Fotofobia, Ressecamento","Hipoestesia, Parestesia, Lesões traumáticas","Hipoestesia, Dor, Edema"
+633,280,06/10/2023,Sem Queixas,Fotofobia,Parestesia,"Hipoestesia, Dor, Edema"
+634,281,04/01/2023,Sem Queixas,Catarata,"Rigidez, Tremor","Dor, Edema, Hipoestesia, Xerose (ressecamento)"
+635,282,10/05/2024,Sem Queixas,Sem Queixas,Sem Queixas,Ardor
+636,283,23/09/2022,Obstrução,"Diminuição da acuidade visual, Catarata, Madarose ciliar, Glaucoma",Parestesia,Parestesia
+637,284,06/12/2023,"Obstrução, Dor",Diminuição da acuidade visual,"Dor, Parestesia, Hipoestesia, Diminuição de força","Hipoestesia, Dor, Diminuição de força, Edema"
+638,284,07/02/2024,Obstrução,"Diminuição da acuidade visual, Catarata","Hipoestesia, Dor, Diminuição de força","Hipoestesia, Parestesia, Dor, Diminuição de força, Edema"
+639,284,24/04/2024,Sem Queixas,"Diminuição da acuidade visual, Catarata","Hipoestesia, Dor, Diminuição de força","Hipoestesia, Dor, Diminuição de força, Edema"
+640,284,16/08/2024,Obstrução,"Diminuição da acuidade visual, Catarata","Hipoestesia, Diminuição de força, Parestesia, Dor","Hipoestesia, Parestesia, Dor, Diminuição de força, Edema"
+641,285,18/09/2019,Sem Queixas,Diminuição da acuidade visual,Sem Queixas,Parestesia
+642,285,07/02/2020,Sem Queixas,Sem Queixas,Sem Queixas,Sem Queixas
+643,286,09/07/2021,Sem Queixas,Sem Queixas,"Dor, Parestesia, Hipoestesia, Diminuição de força","Dor, Parestesia, Hipoestesia, Diminuição de força"
+644,286,01/07/2022,Sem Queixas,Diminuição da acuidade visual,Hipoestesia,Hipoestesia
+645,286,09/09/2022,Ressecamento,Sem Queixas,Sem registro,Sem registro
+646,287,07/12/2022,Sem Queixas,Sem Queixas,Hipoestesia,"Hipoestesia, Parestesia"
+647,288,25/01/2017,Sem Queixas,Sem Queixas,"Diminuição de força, Hipotonia",Dor
+648,288,12/02/2020,Sem Queixas,"Diminuição da acuidade visual, Madarose ciliar, Madarose superciliar","Parestesia, Diminuição de força, Hipotrofia, Atrofia musculatura intrínseca",câimbra

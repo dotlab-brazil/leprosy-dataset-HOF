@@ -1,0 +1,1297 @@
+id_avaliacao_sens_pe,id_ficha,data_avaliacao,lado,dorso_pe,falange_distal_halux,falange_distal_3artelho,falange_distal_5artelho,calcaneo,borda_medial_planta_pé,borda_lateral_planta_pé,_5artelho,_3artelho,cabeça_artrose_metatarsofalangeana_halux
+,1,08/03/2023,Direito,0.2g,10g,10g,4g,2g,0.07g,4g,0.2g,2g,2g
+,1,08/03/2023,Esquerdo,0.07g,0.07g,0.07g,0.2g,2g,0.07g,0.2g,2g,2g,2g
+,2,01/09/2023,Direito,2g,2g,"2g, Garra móvel",">300g, Garra móvel",>300g,300g,>300g,>300g,>300g,300g
+,2,01/09/2023,Esquerdo,10g,"2g, Garra móvel","10g, Garra móvel","4g, Garra móvel",">300g, Lesões tróficas",300g,>300g,>300g,300g,>300g
+,3,22/05/2024,Direito,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g
+,3,22/05/2024,Esquerdo,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g
+,4,27/05/2022,Direito,2g,"2g, Garra fixa","4g, Garra fixa","4g, Garra fixa",10g,300g,10g,4g,4g,4g
+,4,27/05/2022,Esquerdo,0.2g,"2g, Garra fixa","2g, Garra fixa","2g, Garra fixa",2g,2g,2g,2g,2g,2g
+,4,19/05/2023,Direito,Sem registro,0.07g,0.07g,0.07g,Lesões tróficas,Lesões tróficas,0.07g,0.07g,0.07g,0.07g
+,4,19/05/2023,Esquerdo,2g,2g,2g,2g,Lesões tróficas,0.2g,0.07g,0.07g,0.07g,0.07g
+,5,16/11/2022,Direito,>300g,>300g,10g,300g,>300g,>300g,>300g,>300g,>300g,>300g
+,5,16/11/2022,Esquerdo,10g,10g,300g,10g,>300g,>300g,>300g,>300g,>300g,>300g
+,5,08/02/2023,Direito,300g,10g,10g,4g,>300g,300g,300g,>300g,>300g,300g
+,5,08/02/2023,Esquerdo,10g,>300g,300g,>300g,>300g,300g,300g,>300g,>300g,>300g
+,6,11/08/2023,Direito,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro
+,6,11/08/2023,Esquerdo,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro
+,6,06/12/2023,Direito,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro
+,6,06/12/2023,Esquerdo,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro
+,7,01/10/2021,Direito,0.07g,2g,0.07g,0.07g,2g,2g,2g,2g,0.2g,2g
+,7,01/10/2021,Esquerdo,0.2g,0.2g,0.07g,0.2g,2g,0.07g,0.2g,0.2g,0.2g,0.07g
+,7,11/02/2022,Direito,0.07g,0.07g,0.07g,0.07g,0.2g,0.07g,0.07g,0.07g,0.07g,0.07g
+,7,11/02/2022,Esquerdo,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g
+,7,19/10/2022,Direito,0.07g,0.07g,0.07g,0.07g,2g,0.07g,0.2g,0.2g,0.07g,0.07g
+,7,19/10/2022,Esquerdo,0.2g,0.07g,0.07g,0.2g,0.2g,0.2g,0.2g,0.2g,0.2g,0.2g
+,7,25/01/2023,Direito,0.2g,0.2g,0.2g,0.2g,2g,0.07g,0.07g,0.2g,0.2g,0.2g
+,7,25/01/2023,Esquerdo,0.2g,0.2g,0.2g,0.2g,0.2g,0.2g,0.2g,0.2g,0.2g,0.2g
+,8,19/07/2019,Direito,300g,300g,300g,0.2g,300g,300g,10g,10g,300g,300g
+,8,19/07/2019,Esquerdo,0.2g,0.2g,2g,0.2g,2g,2g,0.2g,2g,0.2g,2g
+,8,27/11/2019,Direito,10g,4g,4g,4g,10g,4g,4g,4g,4g,4g
+,8,27/11/2019,Esquerdo,4g,4g,0.2g,0.2g,4g,4g,4g,4g,4g,4g
+,8,19/03/2021,Direito,2g,4g,2g,2g,2g,10g,2g,10g,2g,10g
+,8,19/03/2021,Esquerdo,2g,0.2g,0.2g,0.2g,2g,2g,2g,2g,2g,2g
+,9,07/02/2024,Direito,2g,10g,4g,4g,10g,4g,10g,10g,10g,10g
+,9,07/02/2024,Esquerdo,2g,4g,4g,4g,10g,10g,10g,4g,10g,10g
+,10,10/11/2023,Direito,2g,2g,2g,2g,10g,2g,2g,10g,2g,2g
+,10,10/11/2023,Esquerdo,2g,2g,2g,2g,4g,2g,2g,2g,2g,0.2g
+,11,17/06/2022,Direito,300g,>300g,300g,300g,10g,300g,300g,300g,300g,300g
+,11,17/06/2022,Esquerdo,4g,0.2g,4g,4g,10g,10g,10g,4g,4g,4g
+,12,18/01/2023,Direito,0.2g,0.07g,0.2g,0.07g,2g,0.07g,0.07g,0.07g,0.2g,0.2g
+,12,18/01/2023,Esquerdo,0.2g,0.07g,0.2g,0.2g,2g,0.2g,0.07g,Sem registro,0.07g,2g
+,13,12/08/2022,Direito,2g,2g,2g,2g,300g,4g,300g,10g,10g,2g
+,13,12/08/2022,Esquerdo,0.2g,2g,2g,4g,300g,4g,300g,4g,300g,2g
+,14,27/10/2021,Direito,2g,0.07g,0.07g,2g,0.2g,2g,2g,2g,0.2g,0.2g
+,14,27/10/2021,Esquerdo,0.2g,2g,0.07g,0.07g,4g,0.2g,2g,0.07g,2g,0.07g
+,14,16/02/2022,Direito,0.07g,2g,0.2g,0.2g,2g,0.07g,0.2g,0.2g,0.2g,2g
+,14,16/02/2022,Esquerdo,0.07g,2g,0.2g,0.2g,0.07g,2g,2g,2g,2g,2g
+,14,22/06/2022,Direito,0.07g,0.2g,0.2g,0.2g,10g,0.2g,2g,0.2g,0.07g,2g
+,14,22/06/2022,Esquerdo,0.07g,0.07g,0.2g,0.2g,4g,2g,2g,2g,2g,0.2g
+,15,14/02/2020,Direito,0.07g,2g,2g,2g,4g,2g,2g,2g,2g,2g
+,15,14/02/2020,Esquerdo,0.07g,2g,2g,2g,10g,0.2g,0.2g,2g,2g,2g
+,16,23/08/2024,Direito,>300g,>300g,>300g,10g,300g,300g,300g,300g,300g,300g
+,16,23/08/2024,Esquerdo,>300g,4g,4g,10g,300g,10g,10g,10g,4g,"4g, Lesões tróficas"
+,17,30/06/2023,Direito,Amputação,Amputação,>300g,>300g,>300g,>300g,>300g,>300g,>300g,Amputação
+,17,30/06/2023,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,18,28/08/2020,Direito,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,18,28/08/2020,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,18,30/04/2021,Direito,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,18,30/04/2021,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,18,02/09/2022,Direito,Amputação,Amputação,>300g,>300g,>300g,>300g,>300g,>300g,>300g,Amputação
+,18,02/09/2022,Esquerdo,>300g,>300g,>300g,>300g,10g,>300g,>300g,>300g,>300g,>300g
+,19,09/09/2022,Direito,2g,2g,2g,0.2g,10g,2g,2g,2g,2g,2g
+,19,09/09/2022,Esquerdo,4g,4g,4g,4g,10g,2g,4g,4g,10g,4g
+,19,24/03/2023,Direito,2g,2g,2g,2g,2g,2g,2g,2g,2g,2g
+,19,24/03/2023,Esquerdo,300g,4g,2g,10g,10g,10g,10g,4g,2g,2g
+,20,01/09/2021,Direito,0.2g,4g,2g,2g,4g,4g,4g,4g,4g,2g
+,20,01/09/2021,Esquerdo,4g,4g,4g,4g,4g,4g,2g,4g,4g,4g
+,20,23/02/2022,Direito,2g,2g,2g,2g,4g,2g,4g,2g,2g,2g
+,20,23/02/2022,Esquerdo,4g,4g,4g,4g,2g,0.2g,2g,4g,4g,4g
+,20,08/07/2022,Direito,Sem registro,0.2g,2g,2g,4g,2g,2g,2g,2g,2g
+,20,08/07/2022,Esquerdo,4g,4g,4g,4g,4g,0.2g,4g,4g,2g,4g
+,21,04/10/2023,Direito,300g,2g,2g,4g,10g,2g,2g,2g,2g,300g
+,21,04/10/2023,Esquerdo,300g,2g,2g,2g,10g,2g,2g,2g,2g,2g
+,21,07/02/2024,Direito,4g,2g,2g,2g,10g,4g,4g,2g,10g,10g
+,21,07/02/2024,Esquerdo,300g,2g,2g,2g,4g,4g,4g,2g,2g,2g
+,21,12/04/2024,Direito,>300g,2g,300g,2g,10g,2g,2g,2g,2g,2g
+,21,12/04/2024,Esquerdo,>300g,2g,2g,2g,10g,4g,4g,0.2g,2g,2g
+,21,28/08/2024,Direito,>300g,0.2g,2g,2g,Sem registro,2g,2g,2g,4g,4g
+,21,28/08/2024,Esquerdo,0.2g,2g,0.2g,2g,Sem registro,Sem registro,4g,0.2g,0.2g,2g
+,22,16/04/2021,Direito,>300g,>300g,>300g,>300g,300g,300g,300g,300g,300g,300g
+,22,16/04/2021,Esquerdo,Sem registro,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,22,24/09/2021,Direito,>300g,300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,22,24/09/2021,Esquerdo,300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,23,25/03/2022,Direito,>300g,2g,2g,>300g,300g,>300g,2g,300g,>300g,>300g
+,23,25/03/2022,Esquerdo,300g,10g,4g,4g,4g,10g,300g,10g,10g,10g
+,23,03/03/2023,Direito,300g,>300g,300g,>300g,>300g,>300g,>300g,300g,300g,>300g
+,23,03/03/2023,Esquerdo,>300g,>300g,>300g,>300g,300g,300g,300g,300g,300g,300g
+,23,07/06/2023,Direito,10g,>300g,>300g,300g,300g,>300g,300g,300g,>300g,10g
+,23,07/06/2023,Esquerdo,>300g,300g,>300g,>300g,10g,>300g,>300g,300g,>300g,>300g
+,24,03/07/2019,Direito,0.2g,0.2g,0.2g,0.2g,0.2g,0.2g,0.2g,0.2g,0.2g,0.07g
+,24,03/07/2019,Esquerdo,0.2g,0.2g,0.2g,0.2g,2g,0.2g,0.2g,0.07g,0.2g,0.07g
+,24,27/11/2019,Direito,0.2g,0.07g,0.2g,0.2g,4g,0.2g,0.2g,0.2g,0.2g,0.2g
+,24,27/11/2019,Esquerdo,0.2g,0.2g,0.07g,0.07g,4g,0.2g,0.2g,0.2g,4g,0.2g
+,24,13/03/2020,Direito,0.07g,0.07g,0.07g,0.07g,0.2g,0.07g,0.07g,0.07g,0.07g,0.07g
+,24,13/03/2020,Esquerdo,0.2g,0.07g,0.07g,0.2g,4g,0.2g,0.2g,0.2g,0.07g,0.07g
+,25,12/02/2021,Direito,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro
+,25,12/02/2021,Esquerdo,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro
+,25,30/03/2022,Direito,0.07g,0.07g,0.07g,0.07g,0.07g,0.2g,0.2g,0.07g,0.07g,0.07g
+,25,30/03/2022,Esquerdo,0.07g,0.07g,0.07g,0.07g,0.2g,0.07g,0.2g,0.07g,0.07g,0.07g
+,26,20/07/2022,Direito,0.2g,2g,0.2g,0.2g,4g,0.2g,2g,2g,2g,0.2g
+,26,20/07/2022,Esquerdo,0.2g,0.2g,0.2g,0.2g,2g,0.2g,0.2g,0.2g,0.2g,0.2g
+,26,01/02/2023,Direito,0.2g,2g,0.2g,0.2g,10g,2g,2g,2g,0.2g,2g
+,26,01/02/2023,Esquerdo,0.2g,0.2g,2g,0.2g,0.2g,0.2g,0.2g,0.2g,2g,0.2g
+,26,12/04/2023,Direito,0.2g,2g,0.2g,0.07g,10g,2g,0.07g,2g,0.2g,2g
+,26,12/04/2023,Esquerdo,0.07g,2g,0.2g,0.2g,2g,0.2g,0.2g,2g,0.2g,2g
+,27,23/03/2022,Direito,0.07g,0.2g,0.07g,0.07g,0.2g,0.2g,0.2g,0.07g,0.07g,0.07g
+,27,23/03/2022,Esquerdo,0.2g,0.07g,0.07g,0.07g,4g,0.2g,0.2g,0.07g,0.07g,0.07g
+,27,10/06/2022,Direito,0.07g,0.07g,0.2g,0.2g,0.2g,0.2g,0.2g,0.07g,0.07g,0.07g
+,27,10/06/2022,Esquerdo,0.07g,0.2g,0.2g,0.2g,0.2g,0.2g,0.2g,0.2g,0.2g,0.2g
+,27,25/11/2022,Direito,0.07g,0.2g,0.07g,0.07g,0.2g,0.2g,0.07g,0.2g,0.2g,0.2g
+,27,25/11/2022,Esquerdo,0.07g,0.2g,0.2g,0.07g,0.2g,0.2g,2g,0.2g,0.2g,0.2g
+,28,31/07/2024,Direito,2g,0.2g,2g,2g,0.07g,0.2g,0.07g,0.2g,2g,2g
+,28,31/07/2024,Esquerdo,0.2g,2g,0.2g,0.07g,2g,0.07g,0.07g,0.2g,2g,2g
+,28,16/10/2024,Direito,0.07g,0.2g,0.2g,0.2g,2g,0.07g,0.2g,0.2g,0.2g,0.2g
+,28,16/10/2024,Esquerdo,2g,2g,0.2g,0.07g,2g,0.07g,0.2g,2g,2g,0.2g
+,29,09/08/2023,Direito,0.07g,0.07g,0.2g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g
+,29,09/08/2023,Esquerdo,0.07g,0.07g,2g,0.07g,2g,0.07g,0.07g,0.07g,0.07g,0.07g
+,29,06/12/2023,Direito,0.2g,0.07g,0.2g,0.2g,2g,0.2g,0.07g,0.2g,0.2g,0.2g
+,29,06/12/2023,Esquerdo,0.07g,0.07g,0.2g,0.07g,2g,0.2g,0.07g,0.07g,0.07g,0.07g
+,30,06/11/2020,Direito,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro
+,30,06/11/2020,Esquerdo,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro
+,30,26/02/2021,Direito,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro
+,30,26/02/2021,Esquerdo,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro
+,30,23/11/2022,Direito,0.07g,0.2g,0.2g,0.07g,2g,0.2g,0.2g,0.2g,0.07g,2g
+,30,23/11/2022,Esquerdo,0.2g,0.07g,0.2g,0.07g,0.2g,0.2g,0.07g,0.07g,0.07g,0.07g
+,30,20/01/2023,Direito,0.07g,0.2g,0.2g,0.07g,0.2g,0.07g,0.07g,0.07g,0.07g,0.07g
+,30,20/01/2023,Esquerdo,0.07g,0.07g,0.2g,0.07g,2g,0.07g,0.07g,0.2g,0.07g,0.2g
+,31,23/10/2024,Direito,4g,2g,2g,2g,4g,2g,4g,4g,4g,2g
+,31,23/10/2024,Esquerdo,2g,2g,0.2g,2g,10g,2g,2g,2g,2g,2g
+,32,28/08/2024,Direito,2g,4g,4g,4g,4g,2g,300g,10g,300g,300g
+,32,28/08/2024,Esquerdo,0.2g,10g,2g,4g,10g,4g,10g,10g,10g,10g
+,33,10/05/2024,Direito,4g,2g,4g,0.2g,2g,2g,4g,2g,2g,2g
+,33,10/05/2024,Esquerdo,4g,2g,0.2g,2g,10g,4g,2g,4g,4g,10g
+,33,30/08/2024,Direito,4g,2g,0.2g,2g,10g,0.2g,2g,0.2g,4g,2g
+,33,30/08/2024,Esquerdo,10g,2g,2g,2g,300g,2g,2g,2g,2g,2g
+,34,16/08/2023,Direito,2g,2g,2g,2g,4g,2g,4g,2g,2g,2g
+,34,16/08/2023,Esquerdo,0.2g,2g,2g,2g,2g,0.2g,2g,2g,4g,2g
+,34,08/11/2023,Direito,0.2g,2g,4g,2g,4g,4g,4g,2g,2g,2g
+,34,08/11/2023,Esquerdo,0.2g,4g,2g,2g,2g,0.07g,0.2g,2g,4g,2g
+,34,05/04/2024,Direito,0.2g,2g,2g,2g,4g,4g,4g,2g,2g,2g
+,34,05/04/2024,Esquerdo,0.2g,2g,0.2g,2g,4g,2g,4g,2g,2g,2g
+,35,20/10/2023,Direito,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,35,20/10/2023,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,35,22/03/2024,Direito,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,35,22/03/2024,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,300g,>300g,>300g,300g
+,37,12/03/2021,Direito,0.2g,2g,2g,0.2g,10g,2g,0.2g,2g,2g,2g
+,37,12/03/2021,Esquerdo,300g,4g,4g,4g,300g,2g,4g,0.2g,4g,0.07g
+,37,04/06/2021,Direito,2g,0.2g,2g,0.07g,10g,2g,2g,10g,10g,10g
+,37,04/06/2021,Esquerdo,300g,2g,0.07g,0.07g,>300g,2g,2g,2g,4g,4g
+,37,08/10/2021,Direito,4g,2g,0.2g,2g,10g,2g,0.2g,2g,2g,0.07g
+,37,08/10/2021,Esquerdo,4g,2g,0.2g,2g,10g,4g,2g,4g,4g,4g
+,38,01/09/2023,Direito,>300g,10g,>300g,10g,300g,300g,300g,300g,10g,300g
+,38,01/09/2023,Esquerdo,>300g,>300g,>300g,>300g,>300g,300g,>300g,300g,300g,300g
+,39,06/09/2023,Direito,0.2g,4g,2g,4g,0.2g,0.2g,0.2g,2g,4g,2g
+,39,06/09/2023,Esquerdo,0.2g,4g,4g,2g,2g,0.07g,2g,2g,2g,2g
+,40,22/11/2023,Direito,0.07g,2g,2g,4g,4g,0.2g,2g,2g,0.2g,2g
+,40,22/11/2023,Esquerdo,2g,4g,4g,4g,4g,2g,4g,4g,4g,2g
+,41,01/11/2023,Direito,0.2g,4g,4g,2g,10g,2g,2g,4g,10g,4g
+,41,01/11/2023,Esquerdo,4g,4g,2g,4g,4g,10g,4g,4g,2g,10g
+,42,11/11/2022,Direito,0.07g,0.2g,0.2g,0.2g,2g,0.07g,0.2g,0.2g,0.07g,0.2g
+,42,11/11/2022,Esquerdo,0.07g,0.2g,0.07g,0.07g,2g,0.2g,0.2g,0.07g,0.2g,0.2g
+,43,09/06/2014,Direito,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro
+,43,09/06/2014,Esquerdo,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro
+,43,20/04/2018,Direito,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro
+,43,20/04/2018,Esquerdo,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro
+,44,01/03/2023,Direito,2g,10g,10g,2g,300g,300g,10g,300g,300g,300g
+,44,01/03/2023,Esquerdo,300g,>300g,>300g,>300g,>300g,10g,>300g,>300g,>300g,>300g
+,44,30/06/2023,Direito,>300g,>300g,>300g,>300g,300g,300g,10g,300g,300g,>300g
+,44,30/06/2023,Esquerdo,>300g,>300g,>300g,4g,>300g,10g,>300g,>300g,10g,>300g
+,44,04/10/2023,Direito,300g,2g,4g,0.2g,>300g,300g,300g,300g,10g,300g
+,44,04/10/2023,Esquerdo,300g,4g,10g,10g,>300g,300g,300g,10g,2g,10g
+,44,24/05/2024,Direito,10g,2g,2g,2g,10g,4g,10g,2g,4g,2g
+,44,24/05/2024,Esquerdo,4g,4g,300g,300g,300g,4g,2g,300g,10g,300g
+,45,04/03/2022,Direito,0.2g,0.2g,0.07g,0.07g,2g,0.2g,0.2g,0.2g,0.2g,0.07g
+,45,04/03/2022,Esquerdo,0.07g,0.07g,0.07g,0.07g,2g,0.07g,0.07g,0.07g,0.07g,0.07g
+,45,11/11/2022,Direito,0.2g,0.2g,0.07g,0.07g,2g,0.07g,0.2g,0.07g,0.2g,0.2g
+,45,11/11/2022,Esquerdo,0.07g,0.07g,0.07g,0.07g,2g,0.07g,0.07g,0.07g,0.07g,0.07g
+,45,15/02/2023,Direito,0.07g,0.07g,0.07g,0.07g,0.2g,0.07g,0.2g,0.07g,0.07g,0.2g
+,45,15/02/2023,Esquerdo,0.2g,0.2g,0.07g,0.07g,2g,0.07g,0.07g,0.07g,0.07g,0.2g
+,45,26/07/2023,Direito,0.2g,0.2g,0.2g,0.07g,2g,0.07g,0.07g,0.07g,0.07g,0.07g
+,45,26/07/2023,Esquerdo,0.2g,0.07g,0.07g,0.07g,2g,0.07g,0.07g,0.07g,0.07g,0.07g
+,46,07/06/2023,Direito,>300g,>300g,>300g,>300g,300g,300g,300g,>300g,>300g,>300g
+,46,07/06/2023,Esquerdo,>300g,>300g,>300g,>300g,>300g,10g,>300g,>300g,>300g,300g
+,46,29/09/2023,Direito,>300g,>300g,>300g,>300g,300g,300g,>300g,>300g,>300g,>300g
+,46,29/09/2023,Esquerdo,>300g,>300g,>300g,>300g,>300g,300g,>300g,>300g,>300g,>300g
+,46,15/12/2023,Direito,>300g,>300g,>300g,>300g,300g,300g,>300g,>300g,>300g,>300g
+,46,15/12/2023,Esquerdo,300g,300g,>300g,>300g,>300g,300g,>300g,300g,>300g,300g
+,46,12/04/2024,Direito,>300g,>300g,>300g,>300g,300g,300g,>300g,>300g,>300g,300g
+,46,12/04/2024,Esquerdo,>300g,>300g,>300g,>300g,>300g,300g,>300g,>300g,>300g,300g
+,47,23/03/2022,Direito,0.2g,0.07g,2g,0.2g,2g,2g,2g,0.2g,2g,2g
+,47,23/03/2022,Esquerdo,2g,0.2g,0.07g,0.2g,4g,0.2g,4g,0.2g,0.2g,0.2g
+,47,20/07/2022,Direito,2g,2g,2g,2g,4g,4g,4g,4g,2g,2g
+,47,20/07/2022,Esquerdo,2g,2g,0.2g,2g,4g,4g,4g,2g,2g,4g
+,47,07/12/2022,Direito,0.07g,2g,2g,0.2g,10g,2g,10g,2g,2g,2g
+,47,07/12/2022,Esquerdo,0.07g,2g,0.2g,0.2g,10g,2g,0.07g,2g,4g,2g
+,47,01/03/2023,Direito,0.07g,2g,2g,2g,4g,2g,4g,2g,2g,2g
+,47,01/03/2023,Esquerdo,0.07g,2g,0.2g,0.2g,4g,2g,4g,2g,2g,2g
+,48,0706/2023,Direito,0.2g,0.2g,0.2g,0.2g,4g,0.2g,0.2g,2g,2g,2g
+,48,0706/2023,Esquerdo,0.2g,2g,0.07g,0.2g,0.2g,2g,2g,2g,0.07g,0.2g
+,48,27/09/2023,Direito,0.07g,2g,0.07g,0.2g,10g,2g,2g,0.2g,2g,2g
+,48,27/09/2023,Esquerdo,0.2g,0.07g,0.07g,0.2g,4g,0.2g,2g,2g,2g,0.07g
+,48,06/12/2023,Direito,0.2g,2g,2g,2g,4g,2g,2g,2g,2g,2g
+,48,06/12/2023,Esquerdo,0.07g,0.07g,0.07g,0.07g,4g,2g,2g,2g,0.2g,2g
+,49,25/02/2022,Direito,>300g,10g,300g,10g,10g,10g,10g,10g,2g,2g
+,49,25/02/2022,Esquerdo,300g,300g,300g,300g,>300g,300g,>300g,10g,10g,10g
+,49,25/03/2022,Direito,10g,10g,10g,10g,10g,10g,10g,2g,2g,2g
+,49,25/03/2022,Esquerdo,300g,300g,300g,300g,300g,300g,300g,300g,300g,10g
+,49,11/01/2023,Direito,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,49,11/01/2023,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,49,08/03/2023,Direito,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,49,08/03/2023,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,50,25/10/2019,Direito,4g,2g,0.2g,0.2g,4g,4g,4g,0.2g,0.2g,4g
+,50,25/10/2019,Esquerdo,2g,2g,2g,2g,4g,2g,2g,2g,2g,2g
+,50,07/02/2020,Direito,0.2g,2g,2g,2g,10g,10g,10g,0.2g,0.2g,0.2g
+,50,07/02/2020,Esquerdo,Sem registro,2g,4g,2g,10g,0.07g,4g,4g,4g,2g
+,50,11/11/2020,Direito,0.2g,4g,4g,2g,4g,4g,2g,0.2g,0.2g,0.2g
+,50,11/11/2020,Esquerdo,0.2g,0.2g,0.2g,0.2g,10g,2g,4g,0.2g,0.2g,4g
+,51,11/10/2023,Direito,Sem registro,0.07g,0.07g,0.07g,0.2g,0.07g,0.2g,0.07g,0.07g,0.07g
+,51,11/10/2023,Esquerdo,0.07g,0.07g,0.07g,0.07g,0.2g,0.07g,0.2g,0.07g,0.07g,0.07g
+,51,26/01/2024,Direito,0.2g,0.2g,0.07g,0.07g,0.2g,0.07g,0.07g,0.07g,0.07g,0.2g
+,51,26/01/2024,Esquerdo,0.2g,0.07g,0.07g,0.07g,2g,0.2g,0.07g,0.2g,0.07g,0.07g
+,51,15/05/2024,Direito,0.07g,0.07g,0.07g,0.07g,2g,0.07g,0.07g,0.2g,0.2g,0.07g
+,51,15/05/2024,Esquerdo,0.07g,0.07g,0.07g,0.07g,0.2g,0.2g,0.07g,0.07g,0.07g,0.07g
+,52,12/06/2024,Direito,300g,>300g,>300g,>300g,300g,>300g,>300g,>300g,>300g,300g
+,52,12/06/2024,Esquerdo,>300g,>300g,>300g,300g,>300g,>300g,>300g,>300g,300g,>300g
+,53,04/03/2022,Direito,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,53,04/03/2022,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,53,16/09/2022,Direito,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,53,16/09/2022,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,>300g,4g,>300g,>300g
+,53,15/02/2023,Direito,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,53,15/02/2023,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,300g,>300g,>300g,>300g
+,53,28/06/2023,Direito,>300g,"300g, Ferida",>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,53,28/06/2023,Esquerdo,">300g, Ferida",>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,54,24/01/2020,Direito,Sem registro,>300g,>300g,Sem registro,>300g,>300g,>300g,>300g,>300g,>300g
+,54,24/01/2020,Esquerdo,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro
+,54,20/11/2020,Direito,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro
+,54,20/11/2020,Esquerdo,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro
+,54,11/06/2021,Direito,Sem registro,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,54,11/06/2021,Esquerdo,Sem registro,>300g,>300g,300g,>300g,300g,>300g,300g,>300g,>300g
+,55,13/04/2018,Direito,Sem registro,10g,300g,300g,300g,300g,10g,300g,300g,300g
+,55,13/04/2018,Esquerdo,Sem registro,10g,10g,10g,2g,2g,10g,300g,2g,4g
+,55,22/03/2019,Direito,300g,>300g,>300g,300g,>300g,>300g,300g,300g,>300g,>300g
+,55,22/03/2019,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,>300g,300g,>300g,>300g
+,55,02/08/2019,Direito,300g,>300g,>300g,300g,>300g,300g,>300g,>300g,>300g,>300g
+,55,02/08/2019,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,300g
+,56,28/04/2023,Direito,0.2g,2g,0.2g,0.07g,2g,0.2g,0.2g,0.07g,0.2g,2g
+,56,28/04/2023,Esquerdo,0.2g,2g,0.2g,2g,0.2g,0.2g,0.07g,2g,0.2g,2g
+,56,14/06/2024,Direito,0.2g,2g,0.07g,0.07g,0.07g,2g,2g,2g,0.07g,0.07g
+,56,14/06/2024,Esquerdo,0.07g,2g,0.07g,2g,4g,0.2g,0.07g,0.07g,0.2g,0.07g
+,57,11/01/2023,Direito,0.2g,4g,10g,2g,10g,2g,4g,2g,10g,10g
+,57,11/01/2023,Esquerdo,2g,10g,2g,10g,10g,4g,2g,2g,10g,4g
+,57,26/04/2023,Direito,4g,10g,2g,2g,10g,10g,10g,2g,10g,10g
+,57,26/04/2023,Esquerdo,4g,10g,10g,2g,10g,10g,10g,10g,10g,10g
+,57,11/08/2023,Direito,2g,10g,4g,4g,10g,4g,2g,4g,2g,10g
+,57,11/08/2023,Esquerdo,4g,10g,10g,300g,10g,2g,2g,4g,4g,4g
+,57,06/12/2023,Direito,2g,10g,4g,4g,300g,4g,2g,4g,4g,10g
+,57,06/12/2023,Esquerdo,2g,10g,10g,300g,300g,10g,10g,10g,300g,300g
+,58,16/08/23023,Direito,2g,2g,2g,2g,4g,2g,4g,2g,2g,2g
+,58,16/08/23023,Esquerdo,0.2g,2g,2g,2g,2g,0.2g,2g,2g,4g,2g
+,58,08/11/2023,Direito,0.2g,2g,4g,2g,4g,4g,4g,2g,2g,2g
+,58,08/11/2023,Esquerdo,0.2g,4g,2g,2g,2g,0.07g,0.2g,2g,4g,2g
+,59,01/04/2022,Direito,0.2g,2g,0.2g,0.2g,0.2g,0.2g,0.2g,2g,2g,2g
+,59,01/04/2022,Esquerdo,0.2g,2g,0.2g,2g,2g,0.07g,0.07g,0.2g,2g,0.07g
+,60,25/10/2023,Direito,4g,2g,0.2g,10g,2g,0.2g,0.2g,2g,0.07g,2g
+,60,25/10/2023,Esquerdo,2g,2g,2g,2g,10g,2g,2g,2g,2g,2g
+,60,24/05/2024,Direito,0.2g,0.2g,2g,2g,4g,2g,4g,0.2g,2g,0.07g
+,60,24/05/2024,Esquerdo,2g,2g,2g,2g,10g,2g,2g,2g,2g,2g
+,61,11/11/2022,Direito,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,61,11/11/2022,Esquerdo,>300g,">300g, Lesões traumáticas",>300g,>300g,>300g,300g,300g,>300g,>300g,10g
+,61,08/03/2023,Direito,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,61,08/03/2023,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,62,07/02/2023,Direito,300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,62,07/02/2023,Esquerdo,10g,300g,2g,4g,300g,4g,4g,300g,10g,10g
+,63,23/11/2022,Direito,2g,2g,2g,2g,2g,0.2g,0.2g,2g,2g,2g
+,63,23/11/2022,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,300g,>300g
+,63,05/04/2023,Direito,0.07g,0.07g,4g,0.07g,>300g,0.07g,4g,10g,0.2g,0.07g
+,63,05/04/2023,Esquerdo,300g,300g,300g,300g,300g,2g,300g,300g,10g,300g
+,63,29/09/2023,Direito,4g,0.2g,10g,300g,300g,10g,300g,300g,2g,0.2g
+,63,29/09/2023,Esquerdo,>300g,>300g,300g,>300g,300g,10g,>300g,300g,300g,10g
+,64,23/02/2024,Direito,>300g,4g,>300g,>300g,300g,4g,4g,>300g,300g,4g
+,64,23/02/2024,Esquerdo,2g,2g,2g,2g,10g,2g,2g,2g,2g,2g
+,65,20/09/2023,Direito,Curativo,Curativo,>300g,">300g, Amputação",>300g,>300g,>300g,>300g,Curativo,Curativo
+,65,20/09/2023,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,4g,300g,10g,10g
+,65,17/07/2024,Direito,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,65,17/07/2024,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,66,29/09/2023,Direito,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,66,29/09/2023,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,66,10/04/2024,Direito,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,66,10/04/2024,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,67,20/01/2021,Direito,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,67,20/01/2021,Esquerdo,0.2g,0.2g,4g,0.2g,10g,2g,0.2g,2g,10g,0.2g
+,67,22/09/2021,Direito,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,67,22/09/2021,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,67,25//01/2023,Direito,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,67,25//01/2023,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,68,18/11/2020,Direito,2g,2g,0.2g,2g,2g,0.2g,2g,0.2g,0.2g,2g
+,68,18/11/2020,Esquerdo,Sem registro,0.2g,0.2g,0.07g,2g,0.2g,0.2g,0.2g,0.2g,0.2g
+,69,06/10/2023,Direito,2g,10g,10g,4g,300g,2g,300g,2g,4g,2g
+,69,06/10/2023,Esquerdo,10g,10g,10g,4g,300g,4g,10g,10g,10g,10g
+,69,02/02/2024,Direito,>300g,10g,10g,4g,>300g,4g,4g,10g,10g,10g
+,69,02/02/2024,Esquerdo,300g,10g,300g,4g,300g,10g,300g,300g,300g,300g
+,69,29/05/2024,Direito,>300g,300g,300g,300g,300g,300g,300g,300g,300g,300g
+,69,29/05/2024,Esquerdo,300g,300g,300g,300g,>300g,300g,300g,10g,300g,300g
+,70,30/08/2024,Direito,>300g,300g,10g,2g,>300g,300g,300g,300g,300g,300g
+,70,30/08/2024,Esquerdo,Sem registro,Sem registro,Sem registro,Sem registro,>300g,Sem registro,Sem registro,>300g,Sem registro,Sem registro
+,71,17/04/2024,Direito,4g,10g,300g,2g,2g,2g,0.2g,10g,10g,4g
+,71,17/04/2024,Esquerdo,2g,4g,10g,0.2g,2g,2g,2g,2g,4g,10g
+,72,29/11/2023,Direito,2g,10g,10g,300g,10g,10g,300g,300g,10g,4g
+,72,29/11/2023,Esquerdo,>300g,10g,10g,10g,10g,4g,4g,2g,2g,10g
+,72,22/05/2024,Direito,2g,4g,0.2g,2g,10g,4g,4g,4g,10g,2g
+,72,22/05/2024,Esquerdo,>300g,300g,4g,2g,10g,2g,2g,2g,2g,4g
+,73,18/11/2022,Direito,0.07g,10g,0.2g,0.07g,4g,2g,2g,2g,0.2g,4g
+,73,18/11/2022,Esquerdo,0.07g,10g,0.2g,0.07g,4g,2g,2g,4g,2g,2g
+,73,03/03/2023,Direito,10g,2g,2g,2g,300g,2g,4g,2g,4g,2g
+,73,03/03/2023,Esquerdo,2g,10g,4g,4g,4g,4g,4g,4g,10g,2g
+,73,16/06/2023,Direito,300g,10g,300g,2g,300g,2g,4g,4g,300g,300g
+,73,16/06/2023,Esquerdo,4g,300g,2g,0.2g,300g,4g,4g,10g,300g,4g
+,73,11/08/2023,Direito,>300g,>300g,2g,10g,>300g,2g,300g,4g,300g,300g
+,73,11/08/2023,Esquerdo,300g,300g,300g,2g,>300g,>300g,10g,>300g,300g,10g
+,74,22/12/2023,Direito,>300g,300g,>300g,>300g,>300g,300g,>300g,>300g,>300g,>300g
+,74,22/12/2023,Esquerdo,>300g,>300g,>300g,>300g,300g,300g,300g,300g,300g,>300g
+,74,22/05/2024,Direito,>300g,10g,300g,>300g,300g,300g,300g,>300g,>300g,300g
+,74,22/05/2024,Esquerdo,>300g,>300g,>300g,300g,300g,300g,300g,>300g,>300g,>300g
+,75,05/02/2021,Direito,>300g,4g,4g,10g,300g,300g,300g,"2g, Ferida",10g,300g
+,75,05/02/2021,Esquerdo,>300g,4g,4g,2g,300g,300g,300g,"300g, Ferida",300g,300g
+,75,18/02/2022,Direito,4g,300g,10g,>300g,300g,10g,10g,4g,10g,10g
+,75,18/02/2022,Esquerdo,300g,300g,2g,300g,10g,10g,10g,300g,10g,4g
+,75,01/07/2022,Direito,300g,4g,10g,10g,300g,300g,300g,300g,10g,300g
+,75,01/07/2022,Esquerdo,300g,300g,300g,300g,300g,10g,300g,4g,4g,300g
+,76,16/12/2022,Direito,300g,10g,4g,4g,10g,4g,10g,10g,10g,10g
+,76,16/12/2022,Esquerdo,300g,10g,4g,4g,10g,4g,10g,10g,10g,10g
+,76,05/07/2023,Direito,10g,10g,4g,4g,4g,2g,2g,4g,10g,10g
+,76,05/07/2023,Esquerdo,4g,2g,4g,2g,2g,4g,4g,4g,4g,4g
+,76,18/10/2023,Direito,300g,300g,10g,2g,300g,300g,10g,4g,4g,4g
+,76,18/10/2023,Esquerdo,10g,10g,4g,4g,300g,4g,4g,2g,4g,4g
+,77,07/02/2020,Direito,Sem registro,300g,300g,300g,300g,>300g,>300g,>300g,300g,>300g
+,77,07/02/2020,Esquerdo,Sem registro,>300g,>300g,10g,"10g, >300g",300g,10g,10g,300g,300g
+,77,06/09/2023,Direito,Sem registro,>300g,">300g, Garra fixa, Reabsorção",">300g, Garra fixa, Reabsorção",>300g,>300g,>300g,>300g,>300g,>300g
+,77,06/09/2023,Esquerdo,Sem registro,>300g,">300g, Garra fixa, Reabsorção",">300g, Garra fixa, Reabsorção",>300g,>300g,>300g,300g,>300g,>300g
+,78,26/06/2024,Direito,0.07g,0.2g,4g,2g,300g,2g,4g,0.07g,2g,4g
+,78,26/06/2024,Esquerdo,0.2g,4g,4g,2g,300g,2g,2g,300g,2g,2g
+,79,10/02/2023,Direito,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,79,10/02/2023,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,80,02/06/2023,Direito,0.07g,0.07g,0.07g,0.07g,0.2g,0.2g,0.07g,0.2g,0.2g,0.2g
+,80,02/06/2023,Esquerdo,0.2g,0.2g,0.07g,0.2g,0.2g,0.2g,0.07g,0.2g,0.2g,0.2g
+,80,29/05/2024,Direito,0.2g,2g,0.07g,2g,10g,2g,0.07g,0.2g,10g,2g
+,80,29/05/2024,Esquerdo,0.07g,0.2g,0.2g,0.07g,10g,0.2g,0.07g,2g,0.2g,2g
+,81,18/01/2023,Direito,0.07g,0.07g,0.07g,0.07g,4g,0.07g,0.2g,0.2g,0.2g,0.07g
+,81,18/01/2023,Esquerdo,0.2g,0.2g,2g,2g,2g,0.2g,0.2g,0.2g,2g,0.2g
+,81,02/06/2023,Direito,0.2g,0.07g,0.07g,0.07g,2g,2g,0.2g,0.2g,0.2g,0.2g
+,81,02/06/2023,Esquerdo,0.07g,0.2g,2g,0.2g,2g,0.2g,0.2g,0.2g,0.2g,2g
+,82,08/11/2023,Direito,0.2g,2g,0.2g,2g,4g,0.2g,2g,2g,2g,0.2g
+,82,08/11/2023,Esquerdo,0.2g,2g,0.2g,2g,4g,0.2g,0.2g,2g,2g,2g
+,83,07/02/2024,Direito,>300g,>300g,>300g,2g,>300g,>300g,>300g,>300g,300g,>300g
+,83,07/02/2024,Esquerdo,>300g,>300g,10g,300g,>300g,10g,300g,300g,>300g,>300g
+,84,03/11/2021,Direito,10g,4g,4g,4g,10g,10g,10g,4g,10g,4g
+,84,03/11/2021,Esquerdo,10g,10g,4g,10g,10g,10g,10g,10g,10g,10g
+,84,02/03/2022,Direito,4g,4g,4g,4g,4g,4g,4g,4g,4g,4g
+,84,02/03/2022,Esquerdo,10g,10g,10g,2g,10g,10g,10g,10g,10g,10g
+,85,22/07/2022,Direito,0.07g,2g,0.2g,0.2g,2g,0.2g,2g,2g,2g,2g
+,85,22/07/2022,Esquerdo,0.2g,2g,0.2g,0.2g,2g,0.2g,2g,2g,2g,2g
+,85,25/11/2022,Direito,0.07g,2g,0.2g,2g,2g,2g,2g,2g,0.2g,2g
+,85,25/11/2022,Esquerdo,0.07g,2g,0.07g,2g,2g,0.2g,2g,2g,2g,2g
+,85,24/03/2023,Direito,0.2g,2g,2g,0.2g,2g,0.2g,0.2g,2g,2g,2g
+,85,24/03/2023,Esquerdo,0.07g,2g,2g,0.2g,10g,2g,2g,2g,0.2g,2g
+,85,04/08/2023,Direito,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro
+,85,04/08/2023,Esquerdo,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro
+,86,01/04/2022,Direito,300g,300g,10g,300g,300g,10g,10g,300g,300g,10g
+,86,01/04/2022,Esquerdo,10g,10g,4g,10g,4g,4g,300g,10g,10g,10g
+,86,28/12/2022,Direito,300g,300g,300g,>300g,300g,>300g,300g,>300g,>300g,>300g
+,86,28/12/2022,Esquerdo,>300g,>300g,>300g,300g,Sem registro,Sem registro,Sem registro,>300g,>300g,>300g
+,87,26/03/2021,Direito,0.2g,0.07g,0.07g,0.07g,2g,0.07g,2g,2g,0.2g,0.07g
+,87,26/03/2021,Esquerdo,0.07g,0.07g,0.07g,0.07g,2g,0.07g,4g,2g,0.2g,0.07g
+,88,26/10/2018,Direito,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro
+,88,26/10/2018,Esquerdo,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro
+,88,13/02/2019,Direito,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro
+,88,13/02/2019,Esquerdo,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro
+,88,24/01/2020,Direito,10g,10g,300g,10g,300g,300g,300g,10g,10g,10g
+,88,24/01/2020,Esquerdo,>300g,4g,300g,4g,300g,10g,10g,10g,300g,300g
+,89,11/08/2023,Direito,10g,>300g,4g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,89,11/08/2023,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,89,24/11/2023,Direito,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,89,24/11/2023,Esquerdo,>300g,>300g,300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,90,15/05/2024,Direito,300g,>300g,>300g,300g,>300g,300g,300g,300g,300g,300g
+,90,15/05/2024,Esquerdo,>300g,>300g,>300g,>300g,>300g,300g,300g,300g,300g,300g
+,91,05/04/2023,Direito,0.2g,4g,0.07g,2g,300g,0.07g,0.2g,2g,2g,0.2g
+,91,05/04/2023,Esquerdo,0.2g,2g,0.2g,0.2g,300g,0.2g,0.2g,300g,2g,2g
+,91,01/12/2023,Direito,10g,0.2g,4g,2g,300g,0.2g,4g,2g,4g,2g
+,91,01/12/2023,Esquerdo,2g,2g,0.2g,2g,10g,4g,2g,2g,2g,4g
+,91,03/04/2024,Direito,10g,4g,4g,2g,2g,300g,300g,4g,10g,10g
+,91,03/04/2024,Esquerdo,4g,2g,4g,4g,10g,300g,4g,2g,0.2g,2g
+,92,18/02/2022,Direito,2g,0.2g,0.2g,0.2g,0.2g,0.2g,0.2g,0.2g,0.2g,0.2g
+,92,18/02/2022,Esquerdo,0.2g,0.2g,0.2g,0.2g,2g,0.2g,0.2g,0.2g,0.2g,0.2g
+,93,21/10/2022,Direito,10g,2g,4g,10g,300g,4g,300g,10g,10g,2g
+,93,21/10/2022,Esquerdo,4g,10g,10g,10g,300g,300g,300g,4g,10g,10g
+,93,02/06/2023,Direito,300g,300g,300g,300g,300g,300g,300g,300g,300g,300g
+,93,02/06/2023,Esquerdo,300g,300g,300g,300g,300g,300g,300g,300g,300g,300g
+,94,16/04/2021,Direito,Sem registro,10g,10g,4g,10g,10g,10g,4g,10g,2g
+,94,16/04/2021,Esquerdo,Sem registro,10g,10g,4g,300g,4g,4g,2g,2g,2g
+,94,06/10/2021,Direito,Sem registro,300g,300g,10g,10g,10g,10g,10g,10g,10g
+,94,06/10/2021,Esquerdo,Sem registro,300g,10g,2g,300g,2g,10g,10g,10g,300g
+,94,22/06/2022,Direito,Sem registro,300g,4g,10g,300g,2g,4g,4g,10g,10g
+,94,22/06/2022,Esquerdo,Sem registro,>300g,4g,300g,300g,10g,10g,4g,10g,>300g
+,95,24/01/2020,Direito,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,95,24/01/2020,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,96,18/01/2023,Direito,0.2g,2g,2g,2g,2g,2g,2g,2g,2g,2g
+,96,18/01/2023,Esquerdo,0.07g,4g,4g,4g,4g,2g,2g,2g,2g,2g
+,97,27/09/2023,Direito,2g,0.2g,2g,2g,10g,10g,10g,10g,2g,4g
+,97,27/09/2023,Esquerdo,2g,10g,4g,4g,300g,10g,10g,2g,4g,10g
+,97,06/12/2023,Direito,2g,10g,4g,2g,10g,10g,10g,10g,4g,4g
+,97,06/12/2023,Esquerdo,10g,10g,2g,2g,300g,10g,4g,10g,10g,10g
+,97,17/05/2024,Direito,0.2g,0.2g,2g,2g,10g,4g,10g,4g,4g,4g
+,97,17/05/2024,Esquerdo,10g,10g,4g,10g,300g,2g,4g,10g,10g,0.2g
+,98,28/10/2022,Direito,>300g,">300g, Garra móvel",">300g, Garra móvel",">300g, Garra móvel",>300g,>300g,>300g,>300g,>300g,>300g
+,98,28/10/2022,Esquerdo,>300g,"300g, Garra móvel",">300g, Garra móvel","300g, Garra móvel",>300g,>300g,10g,>300g,>300g,>300g
+,98,25/11/2022,Direito,>300g,">300g, Garra móvel",">300g, Garra móvel",">300g, Garra móvel",>300g,>300g,>300g,>300g,>300g,>300g
+,98,25/11/2022,Esquerdo,300g,"300g, Garra móvel",">300g, Garra móvel",">300g, Garra móvel",>300g,>300g,10g,>300g,>300g,>300g
+,98,25/01/2023,Direito,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,98,25/01/2023,Esquerdo,>300g,300g,>300g,300g,300g,>300g,300g,>300g,>300g,>300g
+,98,25/08/2023,Direito,>300g,>300g,>300g,>300g,10g,>300g,>300g,>300g,>300g,>300g
+,98,25/08/2023,Esquerdo,300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,99,16/11/2022,Direito,Sem registro,4g,10g,4g,10g,10g,10g,10g,10g,4g
+,99,16/11/2022,Esquerdo,300g,10g,2g,10g,300g,10g,10g,10g,10g,10g
+,99,27/01/2023,Direito,10g,10g,4g,4g,300g,300g,300g,300g,300g,300g
+,99,27/01/2023,Esquerdo,300g,300g,10g,10g,300g,300g,300g,300g,300g,300g
+,99,18//08/2023,Direito,300g,10g,>300g,2g,300g,4g,300g,300g,10g,4g
+,99,18//08/2023,Esquerdo,300g,10g,>300g,2g,300g,10g,300g,2g,300g,4g
+,99,05/01/2024,Direito,2g,2g,4g,4g,10g,2g,4g,0.2g,10g,4g
+,99,05/01/2024,Esquerdo,10g,2g,2g,2g,300g,10g,10g,4g,2g,10g
+,100,26/10/2022,Direito,2g,2g,2g,0.2g,10g,4g,2g,2g,2g,2g
+,100,26/10/2022,Esquerdo,0.2g,2g,2g,0.2g,2g,2g,2g,2g,2g,2g
+,101,11/11/2020,Direito,2g,4g,4g,2g,4g,2g,4g,2g,2g,4g
+,101,11/11/2020,Esquerdo,2g,10g,10g,4g,10g,2g,4g,4g,2g,10g
+,101,05/02/2021,Direito,0.07g,2g,0.2g,0.2g,0.2g,0.2g,0.2g,0.2g,0.2g,0.2g
+,101,05/02/2021,Esquerdo,0.07g,0.07g,0.07g,0.07g,0.2g,0.2g,0.2g,0.07g,0.07g,0.07g
+,101,11/02/2022,Direito,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g
+,101,11/02/2022,Esquerdo,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g
+,102,23/03/2018,Direito,Sem registro,300g,4g,4g,300g,300g,300g,300g,2g,"300g, Lesões traumáticas"
+,102,23/03/2018,Esquerdo,Sem registro,4g,2g,300g,300g,300g,4g,2g,4g,4g
+,102,20/07/2018,Direito,Sem registro,"4g, Lesões traumáticas",2g,2g,4g,2g,2g,4g,2g,2g
+,102,20/07/2018,Esquerdo,4g,4g,2g,10g,2g,4g,2g,2g,4g,4g
+,102,11/03/2020,Direito,4g,10g,2g,2g,10g,2g,2g,2g,2g,2g
+,102,11/03/2020,Esquerdo,10g,2g,2g,2g,2g,2g,2g,2g,2g,2g
+,103,21/11/2018,Direito,300g,10g,300g,2g,>300g,10g,2g,4g,4g,10g
+,103,21/11/2018,Esquerdo,4g,300g,2g,>300g,>300g,>300g,300g,>300g,300g,10g
+,103,20/03/2019,Direito,300g,10g,300g,4g,>300g,300g,2g,4g,300g,10g
+,103,20/03/2019,Esquerdo,300g,300g,2g,>300g,>300g,300g,300g,>300g,2g,4g
+,103,20/09/2019,Direito,300g,4g,4g,4g,>300g,4g,4g,4g,4g,4g
+,103,20/09/2019,Esquerdo,10g,10g,2g,>300g,>300g,>300g,300g,>300g,10g,10g
+,104,28/02/2020,Direito,>300g,4g,10g,4g,>300g,4g,4g,4g,10g,4g
+,104,28/02/2020,Esquerdo,300g,10g,4g,>300g,>300g,300g,4g,300g,4g,10g
+,104,23/10/2020,Direito,10g,4g,10g,4g,10g,4g,4g,4g,4g,4g
+,104,23/10/2020,Esquerdo,4g,4g,4g,4g,10g,10g,4g,4g,4g,4g
+,104,19/02/2021,Direito,Sem registro,4g,4g,Sem registro,>300g,4g,2g,2g,10g,2g
+,104,19/02/2021,Esquerdo,Sem registro,10g,4g,10g,>300g,10g,10g,10g,4g,4g
+,105,30/07/2021,Direito,300g,2g,0.2g,0.2g,>300g,0.2g,2g,0.07g,2g,2g
+,105,30/07/2021,Esquerdo,Sem registro,2g,2g,2g,>300g,300g,0.07g,10g,2g,2g
+,105,11/02/2022,Direito,300g,2g,2g,2g,>300g,2g,0.2g,4g,300g,10g
+,105,11/02/2022,Esquerdo,10g,300g,0.2g,300g,>300g,300g,4g,300g,2g,2g
+,105,22/07/2022,Direito,4g,4g,300g,2g,>300g,4g,4g,2g,300g,2g
+,105,22/07/2022,Esquerdo,4g,10g,0.2g,300g,300g,300g,10g,2g,2g,2g
+,106,07/10/2022,Direito,>300g,2g,10g,0.2g,>300g,2g,2g,4g,10g,4g
+,106,07/10/2022,Esquerdo,0.2g,2g,2g,2g,>300g,>300g,2g,2g,2g,2g
+,106,02/06/2023,Direito,4g,2g,300g,2g,>300g,2g,2g,2g,4g,4g
+,106,02/06/2023,Esquerdo,10g,10g,0.2g,>300g,>300g,>300g,10g,10g,4g,4g
+,106,05/07/2023,Direito,4g,4g,300g,>300g,>300g,2g,2g,2g,4g,10g
+,106,05/07/2023,Esquerdo,300g,10g,2g,>300g,>300g,>300g,10g,300g,4g,2g
+,106,04/10/2023,Direito,300g,2g,300g,2g,>300g,2g,2g,2g,300g,2g
+,106,04/10/2023,Esquerdo,10g,4g,2g,10g,>300g,300g,2g,300g,4g,10g
+,107,09/02/2024,Direito,300g,4g,300g,2g,300g,4g,2g,2g,10g,4g
+,107,09/02/2024,Esquerdo,300g,4g,2g,300g,>300g,>300g,4g,300g,2g,4g
+,107,07/06/2024,Direito,300g,2g,10g,2g,300g,2g,2g,2g,2g,2g
+,107,07/06/2024,Esquerdo,10g,4g,2g,10g,>300g,>300g,4g,10g,2g,4g
+,108,04/02/2022,Direito,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,108,04/02/2022,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,109,03/01/2020,Direito,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,109,03/01/2020,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,109,13/11/2020,Direito,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,109,13/11/2020,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,109,26/03/2021,Direito,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,109,26/03/2021,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,110,08/06/2022,Direito,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,110,08/06/2022,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,">300g, Lesões traumáticas"
+,110,19/10/2022,Direito,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,110,19/10/2022,Esquerdo,>300g,>300g,>300g,>300g,300g,>300g,>300g,>300g,>300g,>300g
+,110,26/04/2023,Direito,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,110,26/04/2023,Esquerdo,>300g,300g,>300g,>300g,300g,>300g,300g,>300g,>300g,>300g
+,111,26/10/2016,Direito,Sem registro,0.07g,0.07g,0.07g,2g,0.07g,0.2g,0.2g,0.2g,0.07g
+,111,26/10/2016,Esquerdo,Sem registro,0.07g,0.07g,0.2g,10g,0.2g,2g,0.2g,0.2g,0.07g
+,111,22/02/2017,Direito,2g,2g,0.2g,2g,10g,4g,2g,2g,2g,2g
+,111,22/02/2017,Esquerdo,2g,2g,0.2g,0.2g,4g,2g,2g,2g,2g,2g
+,111,11/11/2020,Direito,2g,2g,2g,0.2g,4g,4g,4g,4g,4g,2g
+,111,11/11/2020,Esquerdo,Sem registro,2g,0.2g,0.2g,10g,2g,2g,2g,2g,2g
+,112,04/03/2022,Direito,0.2g,0.07g,0.2g,0.07g,0.2g,0.2g,0.2g,0.2g,0.2g,0.07g
+,112,04/03/2022,Esquerdo,0.07g,0.2g,0.07g,0.2g,0.2g,0.2g,0.2g,0.2g,2g,0.2g
+,112,11/11/2022,Direito,0.2g,0.2g,0.2g,0.2g,4g,0.07g,2g,0.07g,0.2g,0.2g
+,112,11/11/2022,Esquerdo,0.2g,0.2g,0.2g,0.2g,2g,0.2g,0.2g,2g,0.2g,0.2g
+,112,15/02/2023,Direito,0.2g,0.2g,0.2g,0.07g,2g,0.2g,2g,2g,2g,0.07g
+,112,15/02/2023,Esquerdo,0.07g,0.2g,0.07g,0.07g,4g,0.2g,0.2g,4g,2g,2g
+,112,26/07/2023,Direito,0.07g,2g,0.2g,0.07g,2g,0.2g,0.2g,2g,2g,2g
+,112,26/07/2023,Esquerdo,0.2g,2g,2g,0.2g,2g,2g,2g,0.2g,2g,2g
+,113,23/08/2023,Direito,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,113,23/08/2023,Esquerdo,>300g,>300g,>300g,>300g,300g,300g,300g,>300g,>300g,>300g
+,113,31/01/2024,Direito,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,113,31/01/2024,Esquerdo,>300g,>300g,>300g,>300g,300g,>300g,300g,>300g,>300g,>300g
+,113,29/05/2024,Direito,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,113,29/05/2024,Esquerdo,>300g,>300g,>300g,>300g,300g,>300g,300g,>300g,>300g,>300g
+,114,26/02/2021,Direito,4g,300g,300g,300g,10g,Sem registro,4g,300g,10g,Sem registro
+,114,26/02/2021,Esquerdo,4g,4g,4g,Sem registro,10g,10g,10g,4g,300g,300g
+,114,16/04/2021,Direito,4g,300g,300g,300g,10g,2g,4g,300g,10g,2g
+,114,16/04/2021,Esquerdo,10g,4g,4g,2g,10g,10g,10g,4g,300g,300g
+,114,25/06/2021,Direito,4g,4g,10g,4g,10g,2g,10g,10g,10g,4g
+,114,25/06/2021,Esquerdo,10g,10g,4g,2g,10g,4g,4g,4g,10g,10g
+,115,10/06/2022,Direito,0.2g,0.2g,2g,0.2g,4g,2g,2g,2g,2g,2g
+,115,10/06/2022,Esquerdo,0.2g,0.07g,0.2g,0.2g,10g,2g,2g,2g,2g,2g
+,115,26/10/2022,Direito,0.2g,2g,2g,2g,4g,2g,2g,2g,2g,2g
+,115,26/10/2022,Esquerdo,2g,2g,2g,2g,4g,0.2g,2g,2g,2g,2g
+,115,08/03/2023,Direito,0.2g,2g,0.2g,2g,10g,0.2g,4g,10g,4g,4g
+,115,08/03/2023,Esquerdo,0.2g,2g,2g,4g,10g,4g,4g,2g,2g,2g
+,115,16/06/2023,Direito,0.07g,2g,0.2g,2g,4g,4g,2g,2g,2g,2g
+,115,16/06/2023,Esquerdo,0.07g,2g,0.2g,2g,10g,2g,2g,2g,2g,10g
+,116,12/04/2024,Direito,2g,2g,2g,4g,10g,2g,4g,10g,2g,4g
+,116,12/04/2024,Esquerdo,2g,2g,2g,4g,4g,0.2g,0.2g,10g,4g,10g
+,117,27/05/2020,Direito,4g,10g,2g,4g,300g,4g,10g,10g,2g,4g
+,117,27/05/2020,Esquerdo,2g,2g,2g,2g,10g,0.2g,10g,4g,4g,300g
+,117,10/08/2022,Direito,2g,10g,10g,2g,300g,2g,10g,10g,4g,10g
+,117,10/08/2022,Esquerdo,2g,10g,10g,10g,300g,4g,4g,10g,10g,10g
+,117,05/10/2022,Direito,2g,2g,4g,2g,300g,4g,10g,10g,4g,10g
+,117,05/10/2022,Esquerdo,4g,2g,4g,10g,300g,4g,300g,4g,10g,10g
+,117,04/01/2023,Direito,2g,2g,4g,4g,300g,2g,4g,4g,10g,10g
+,117,04/01/2023,Esquerdo,2g,10g,2g,2g,300g,4g,4g,10g,10g,10g
+,118,17/02/ 2023,Direito,2g,4g,4g,2g,10g,2g,10g,10g,4g,4g
+,118,17/02/ 2023,Esquerdo,4g,4g,4g,4g,300g,2g,4g,4g,10g,300g
+,118,11/08/2023,Direito,2g,2g,2g,2g,300g,2g,4g,10g,2g,0.2g
+,118,11/08/2023,Esquerdo,0.2g,2g,2g,4g,300g,4g,4g,10g,2g,10g
+,118,21/02/2024,Direito,2g,2g,2g,10g,10g,2g,10g,10g,10g,4g
+,118,21/02/2024,Esquerdo,2g,2g,2g,2g,10g,2g,4g,4g,4g,10g
+,119,16/02/2022,Direito,300g,300g,300g,300g,300g,10g,10g,300g,300g,4g
+,119,16/02/2022,Esquerdo,300g,300g,4g,300g,10g,10g,10g,10g,10g,10g
+,119,24/03/2023,Direito,300g,10g,300g,300g,300g,300g,10g,300g,300g,10g
+,119,24/03/2023,Esquerdo,300g,300g,4g,300g,300g,10g,4g,300g,10g,4g
+,120,06/01/2016,Direito,0.2g,2g,2g,2g,10g,2g,4g,2g,2g,2g
+,120,06/01/2016,Esquerdo,0.2g,2g,2g,2g,10g,2g,4g,2g,2g,2g
+,120,01/07/2016,Direito,0.2g,0.07g,0.2g,0.2g,10g,0.2g,0.07g,0.07g,0.07g,0.07g
+,120,01/07/2016,Esquerdo,0.2g,2g,0.2g,0.2g,2g,2g,2g,0.2g,0.2g,0.2g
+,120,16/01/2017,Direito,0.2g,0.2g,0.2g,0.2g,2g,0.2g,0.2g,0.2g,0.2g,0.2g
+,120,16/01/2017,Esquerdo,0.2g,4g,2g,0.2g,2g,2g,2g,2g,2g,2g
+,121,25/10/2019,Direito,4g,0.2g,0.07g,0.2g,10g,2g,2g,2g,2g,2g
+,121,25/10/2019,Esquerdo,4g,2g,0.2g,2g,10g,2g,2g,2g,2g,2g
+,121,31/01/2020,Direito,0.2g,Sem registro,Sem registro,Sem registro,2g,2g,2g,2g,2g,2g
+,121,31/01/2020,Esquerdo,2g,2g,2g,2g,4g,2g,2g,2g,2g,2g
+,121,23/04/2021,Direito,2g,0.2g,2g,2g,10g,2g,10g,2g,2g,2g
+,121,23/04/2021,Esquerdo,2g,2g,2g,2g,10g,2g,2g,2g,2g,2g
+,122,04/02/2022,Direito,4g,4g,10g,2g,2g,2g,2g,2g,2g,2g
+,122,04/02/2022,Esquerdo,4g,10g,10g,2g,4g,4g,10g,2g,300g,4g
+,122,02/09/2022,Direito,0.2g,2g,0.2g,4g,10g,2g,2g,4g,10g,4g
+,122,02/09/2022,Esquerdo,0.2g,10g,4g,10g,300g,4g,10g,4g,2g,4g
+,123,13/07/2022,Direito,4g,10g,2g,4g,2g,10g,10g,10g,2g,300g
+,123,13/07/2022,Esquerdo,2g,2g,0.2g,2g,2g,2g,2g,2g,2g,0.2g
+,123,05/10/2022,Direito,0.2g,10g,0.07g,10g,0.2g,2g,2g,4g,2g,4g
+,123,05/10/2022,Esquerdo,0.2g,0.2g,2g,0.2g,>300g,0.2g,2g,2g,2g,2g
+,123,08/02/2023,Direito,0.07g,4g,0.07g,4g,2g,0.07g,2g,2g,4g,4g
+,123,08/02/2023,Esquerdo,0.2g,2g,2g,0.2g,4g,0.2g,0.2g,2g,2g,2g
+,123,27/09/2023,Direito,300g,300g,4g,4g,300g,10g,10g,10g,>300g,>300g
+,123,27/09/2023,Esquerdo,0.2g,2g,2g,2g,300g,2g,2g,2g,4g,0.2g
+,124,16/11/2022,Direito,10g,4g,"4g, Garra móvel","4g, Garra móvel",300g,10g,10g,4g,10g,10g
+,124,16/11/2022,Esquerdo,2g,2g,"2g, Garra móvel",2g,300g,10g,10g,300g,300g,300g
+,124,28/06/2023,Direito,10g,300g,"10g, Garra móvel","10g, Garra móvel",300g,300g,300g,300g,300g,300g
+,124,28/06/2023,Esquerdo,2g,2g,"2g, Garra móvel",2g,300g,4g,300g,300g,300g,300g
+,124,22/12/2023,Direito,10g,"300g, Garra móvel","10g, Garra móvel","10g, Garra móvel",300g,300g,4g,300g,300g,300g
+,124,22/12/2023,Esquerdo,2g,"2g, Garra móvel","2g, Garra móvel","2g, Garra móvel",300g,4g,300g,2g,300g,300g
+,124,17/04/2024,Direito,2g,"4g, Garra móvel","4g, Garra móvel","2g, Garra móvel",300g,10g,300g,10g,10g,300g
+,124,17/04/2024,Esquerdo,300g,"4g, Garra móvel","2g, Garra móvel","4g, Garra móvel",300g,10g,300g,4g,300g,300g
+,125,29/01/2020,Direito,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,125,29/01/2020,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,300g,>300g,>300g,>300g
+,125,08/09/2021,Direito,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,125,08/09/2021,Esquerdo,>300g,300g,>300g,>300g,2g,10g,10g,300g,>300g,2g
+,125,16/03/2022,Direito,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,125,16/03/2022,Esquerdo,>300g,>300g,>300g,>300g,300g,300g,10g,>300g,>300g,>300g
+,126,15/02/2019,Direito,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,126,15/02/2019,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,300g,>300g,>300g,>300g
+,126,29/11/2019,Direito,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,126,29/11/2019,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,300g,>300g,>300g,>300g
+,126,11/03/2020,Direito,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,126,11/03/2020,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,300g,>300g,>300g,>300g
+,127,02/02/2022,Direito,0.2g,4g,0.2g,4g,4g,4g,4g,4g,0.2g,0.2g
+,127,02/02/2022,Esquerdo,2g,2g,2g,2g,2g,0.2g,2g,2g,2g,2g
+,128,13/01/2023,Direito,0.2g,2g,0.2g,0.2g,0.07g,0.2g,2g,0.2g,0.2g,0.2g
+,128,13/01/2023,Esquerdo,2g,2g,0.2g,0.07g,2g,0.07g,0.07g,0.2g,0.2g,0.2g
+,129,01/10/2021,Direito,2g,4g,2g,4g,4g,2g,2g,4g,4g,4g
+,129,01/10/2021,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,129,02/03/2022,Direito,2g,2g,2g,2g,4g,2g,2g,4g,2g,4g
+,129,02/03/2022,Esquerdo,10g,>300g,10g,10g,>300g,>300g,>300g,>300g,>300g,>300g
+,130,21/02/2024,Direito,2g,4g,2g,2g,10g,4g,4g,4g,2g,4g
+,130,21/02/2024,Esquerdo,0.07g,2g,2g,0.2g,10g,2g,2g,4g,2g,2g
+,131,10/11/2023,Direito,2g,2g,2g,2g,2g,2g,2g,2g,2g,0.07g
+,131,10/11/2023,Esquerdo,2g,2g,2g,2g,2g,0.07g,2g,2g,2g,2g
+,131,15/05/2024,Direito,2g,2g,2g,0.07g,10g,2g,0.07g,4g,2g,2g
+,131,15/05/2024,Esquerdo,2g,2g,2g,0.2g,2g,2g,2g,2g,2g,2g
+,132,23/03/2022,Direito,>300g,>300g,>300g,>300g,4g,>300g,10g,300g,300g,>300g
+,132,23/03/2022,Esquerdo,>300g,>300g,>300g,>300g,10g,300g,300g,>300g,>300g,>300g
+,133,21/10/2022,Direito,2g,">300g, Garra fixa, Garra móvel",">300g, Garra fixa, Garra móvel","2g, Garra fixa, Garra móvel",>300g,2g,2g,10g,>300g,4g
+,133,21/10/2022,Esquerdo,4g,">300g, Garra fixa, Garra móvel",">300g, Garra fixa, Garra móvel",">300g, Garra fixa, Garra móvel",300g,4g,4g,>300g,>300g,>300g
+,133,13/01/2023,Direito,4g,">300g, Garra fixa, Garra móvel",">300g, Garra fixa, Garra móvel",">300g, Garra fixa, Garra móvel",>300g,4g,>300g,>300g,>300g,>300g
+,133,13/01/2023,Esquerdo,10g,">300g, Garra fixa, Garra móvel",">300g, Garra fixa, Garra móvel",">300g, Garra fixa, Garra móvel",">300g, Lesões traumáticas",>300g,>300g,10g,>300g,>300g
+,133,11/10/2023,Direito,>300g,300g,"300g, Garra fixa, Garra móvel","300g, Garra fixa, Garra móvel",>300g,>300g,>300g,>300g,>300g,>300g
+,133,11/10/2023,Esquerdo,300g,">300g, Garra fixa, Garra móvel",">300g, Garra fixa, Garra móvel",">300g, Garra fixa, Garra móvel",>300g,>300g,>300g,>300g,>300g,>300g
+,134,02/08/2023,Direito,0.2g,0.2g,0.2g,2g,4g,0.2g,2g,2g,0.07g,2g
+,134,02/08/2023,Esquerdo,0.2g,2g,2g,2g,4g,2g,2g,2g,2g,2g
+,135,24/04/2024,Direito,10g,4g,2g,10g,300g,2g,300g,300g,10g,10g
+,135,24/04/2024,Esquerdo,4g,2g,2g,2g,300g,10g,10g,10g,10g,10g
+,135,19/07/2024,Direito,4g,4g,4g,10g,300g,2g,2g,10g,4g,10g
+,135,19/07/2024,Esquerdo,4g,4g,4g,4g,300g,4g,10g,10g,2g,10g
+,136,07/10/2022,Direito,>300g,"4g, Garra móvel","4g, Garra móvel","2g, Garra móvel",>300g,>300g,>300g,2g,2g,>300g
+,136,07/10/2022,Esquerdo,>300g,">300g, Garra móvel",">300g, Garra móvel",">300g, Garra móvel",>300g,>300g,>300g,2g,2g,4g
+,136,03/02/2023,Direito,>300g,">300g, Garra móvel",">300g, Garra móvel","300g, Garra móvel",10g,4g,10g,>300g,300g,>300g
+,136,03/02/2023,Esquerdo,>300g,">300g, Garra móvel",">300g, Garra móvel",">300g, Garra móvel",300g,300g,Sem registro,>300g,>300g,>300g
+,136,14/07/2023,Direito,>300g,"300g, Garra móvel",">300g, Garra móvel",">300g, Garra móvel",300g,300g,300g,>300g,>300g,300g
+,136,14/07/2023,Esquerdo,>300g,">300g, Garra móvel",">300g, Garra móvel",">300g, Garra móvel",300g,300g,>300g,>300g,300g,300g
+,136,07/08/2024,Direito,>300g,"300g, Garra móvel","300g, Garra móvel","300g, Garra móvel",2g,4g,10g,>300g,10g,>300g
+,136,07/08/2024,Esquerdo,>300g,"300g, Garra móvel",">300g, Garra móvel",">300g, Garra móvel",300g,300g,4g,>300g,4g,4g
+,137,23/08/2023,Direito,0.2g,2g,2g,2g,4g,2g,2g,2g,2g,2g
+,137,23/08/2023,Esquerdo,0.2g,4g,2g,0.2g,10g,2g,2g,2g,2g,2g
+,138,20/07/2022,Direito,2g,300g,2g,2g,300g,300g,300g,4g,10g,300g
+,138,20/07/2022,Esquerdo,>300g,>300g,2g,4g,>300g,2g,2g,2g,2g,2g
+,138,21/09/2022,Direito,2g,>300g,2g,2g,300g,10g,300g,4g,2g,300g
+,138,21/09/2022,Esquerdo,>300g,>300g,4g,4g,300g,2g,2g,4g,4g,4g
+,138,28/12/2022,Direito,2g,300g,10g,4g,300g,300g,300g,10g,4g,10g
+,138,28/12/2022,Esquerdo,>300g,>300g,4g,10g,300g,10g,300g,300g,10g,2g
+,138,24/04/2024,Direito,0.2g,300g,2g,4g,300g,300g,2g,4g,2g,300g
+,138,24/04/2024,Esquerdo,>300g,300g,10g,2g,300g,2g,2g,2g,4g,4g
+,139,30/06/2023,Direito,>300g,"300g, Garra fixa",">300g, Garra fixa",">300g, Garra fixa",300g,>300g,>300g,>300g,>300g,300g
+,139,30/06/2023,Esquerdo,300g,"300g, Garra fixa","300g, Garra fixa","Garra fixa, 300g",10g,300g,300g,300g,300g,10g
+,140,09/02/2022,Direito,4g,4g,0.07g,4g,4g,0.07g,4g,4g,0.2g,4g
+,140,09/02/2022,Esquerdo,300g,300g,4g,10g,10g,300g,300g,300g,300g,300g
+,140,03/02/2023,Direito,>300g,>300g,>300g,2g,>300g,>300g,2g,>300g,0.2g,>300g
+,140,03/02/2023,Esquerdo,>300g,>300g,>300g,>300g,>300g,10g,10g,>300g,>300g,>300g
+,140,15/02/2023,Direito,4g,2g,300g,>300g,300g,4g,2g,>300g,>300g,>300g
+,140,15/02/2023,Esquerdo,>300g,>300g,>300g,>300g,>300g,300g,>300g,2g,>300g,>300g
+,140,09/02/2024,Direito,>300g,>300g,">300g, Garra móvel",">300g, Garra móvel, Ferida",>300g,>300g,>300g,>300g,>300g,>300g
+,140,09/02/2024,Esquerdo,>300g,>300g,">300g, Garra móvel",">300g, Garra móvel",>300g,>300g,>300g,>300g,>300g,>300g
+,141,24/04/2024,Direito,300g,>300g,">300g, Garra móvel","300g, Garra móvel",>300g,>300g,>300g,300g,>300g,>300g
+,141,24/04/2024,Esquerdo,>300g,">300g, Garra móvel",">300g, Garra móvel",">300g, Garra móvel",>300g,>300g,>300g,>300g,>300g,"Ferida, Impossibilidade de avaliação"
+,142,09/07/2021,Direito,0.2g,2g,2g,4g,10g,4g,10g,0.2g,2g,2g
+,142,09/07/2021,Esquerdo,Sem registro,2g,2g,4g,300g,10g,10g,10g,4g,10g
+,142,06/04/2022,Direito,Sem registro,2g,2g,2g,300g,300g,300g,300g,4g,10g
+,142,06/04/2022,Esquerdo,Sem registro,300g,4g,4g,300g,10g,300g,300g,300g,300g
+,142,01/11/2023,Direito,Sem registro,2g,0.2g,2g,300g,4g,10g,4g,10g,4g
+,142,01/11/2023,Esquerdo,Sem registro,4g,10g,4g,300g,2g,4g,300g,0.2g,10g
+,143,16/06/2023,Direito,0.2g,2g,4g,4g,4g,2g,2g,2g,0.07g,2g
+,143,16/06/2023,Esquerdo,0.2g,0.07g,2g,0.2g,2g,2g,2g,2g,2g,2g
+,143,06/10/2023,Direito,0.2g,0.07g,0.07g,0.07g,300g,2g,0.2g,2g,2g,0.2g
+,143,06/10/2023,Esquerdo,0.2g,2g,2g,2g,300g,0.07g,0.07g,0.07g,4g,0.07g
+,143,02/02/2024,Direito,0.2g,2g,0.07g,4g,10g,2g,0.07g,4g,0.2g,0.2g
+,143,02/02/2024,Esquerdo,0.07g,2g,2g,2g,300g,2g,0.2g,0.2g,0.07g,0.07g
+,143,29/05/2024,Direito,0.2g,0.2g,0.2g,2g,10g,4g,2g,4g,4g,2g
+,143,29/05/2024,Esquerdo,0.07g,2g,2g,2g,300g,0.2g,2g,2g,2g,2g
+,144,17/11/2021,Direito,300g,300g,>300g,>300g,>300g,300g,>300g,>300g,>300g,>300g
+,144,17/11/2021,Esquerdo,10g,300g,10g,>300g,>300g,>300g,10g,300g,300g,>300g
+,145,01/09/2021,Direito,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g
+,145,01/09/2021,Esquerdo,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g
+,145,05/08/2022,Direito,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g
+,145,05/08/2022,Esquerdo,0.07g,0.07g,0.07g,0.07g,0.2g,0.07g,0.2g,0.2g,0.07g,0.07g
+,145,24/02/2023,Direito,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g
+,145,24/02/2023,Esquerdo,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g
+,146,12/03/2021,Direito,300g,300g,300g,300g,300g,300g,300g,300g,300g,300g
+,146,12/03/2021,Esquerdo,300g,300g,300g,300g,300g,300g,300g,300g,300g,300g
+,147,21/07/2023,Direito,2g,2g,>300g,4g,4g,4g,4g,300g,4g,2g
+,147,21/07/2023,Esquerdo,0.2g,2g,2g,4g,4g,0.2g,0.2g,4g,0.2g,4g
+,147,20/10/2023,Direito,0.2g,2g,2g,0.2g,2g,2g,0.07g,2g,0.2g,0.07g
+,147,20/10/2023,Esquerdo,0.2g,2g,Sem registro,0.07g,4g,2g,0.2g,0.07g,0.07g,0.2g
+,148,20/01/2021,Direito,>300g,>300g,>300g,>300g,300g,300g,300g,>300g,">300g, Ferida",>300g
+,148,20/01/2021,Esquerdo,>300g,>300g,>300g,>300g,300g,>300g,>300g,>300g,>300g,>300g
+,148,15/09/2021,Direito,>300g,>300g,>300g,>300g,300g,>300g,300g,300g,>300g,300g
+,148,15/09/2021,Esquerdo,>300g,>300g,>300g,>300g,300g,>300g,>300g,>300g,>300g,>300g
+,148,07/01/2022,Direito,>300g,>300g,>300g,300g,>300g,10g,10g,300g,>300g,>300g
+,148,07/01/2022,Esquerdo,300g,300g,300g,300g,300g,300g,300g,300g,300g,300g
+,149,28/08/2019,Direito,>300g,>300g,>300g,>300g,>300g,300g,300g,>300g,>300g,>300g
+,149,28/08/2019,Esquerdo,>300g,>300g,300g,>300g,300g,300g,300g,>300g,>300g,>300g
+,150,16/08/2019,Direito,300g,>300g,>300g,300g,300g,>300g,>300g,>300g,>300g,>300g
+,150,16/08/2019,Esquerdo,>300g,300g,10g,10g,300g,300g,4g,>300g,>300g,>300g
+,151,03/02/2023,Direito,0.2g,0.07g,0.2g,2g,4g,0.2g,2g,0.2g,2g,0.07g
+,151,03/02/2023,Esquerdo,0.2g,0.2g,0.2g,2g,2g,0.07g,2g,4g,2g,0.07g
+,151,04/08/2023,Direito,0.2g,2g,2g,2g,4g,0.2g,2g,2g,0.2g,2g
+,151,04/08/2023,Esquerdo,0.2g,2g,2g,2g,2g,2g,0.2g,2g,2g,2g
+,151,02/02/2024,Direito,0.2g,2g,2g,2g,300g,0.07g,0.07g,0.2g,2g,2g
+,151,02/02/2024,Esquerdo,2g,2g,2g,2g,4g,2g,2g,4g,2g,4g
+,152,27/03/2019,Direito,4g,300g,300g,10g,300g,300g,300g,300g,4g,300g
+,152,27/03/2019,Esquerdo,300g,>300g,300g,300g,300g,300g,300g,300g,300g,300g
+,152,27/11/2019,Direito,4g,300g,10g,4g,300g,10g,10g,2g,300g,300g
+,152,27/11/2019,Esquerdo,Sem registro,>300g,10g,300g,300g,300g,10g,10g,10g,>300g
+,152,08/10/2021,Direito,10g,300g,10g,10g,300g,300g,300g,300g,10g,300g
+,152,08/10/2021,Esquerdo,300g,300g,300g,10g,300g,10g,300g,10g,10g,10g
+,153,03/04/2024,Direito,2g,4g,2g,2g,>300g,4g,300g,300g,4g,300g
+,153,03/04/2024,Esquerdo,0.2g,300g,0.07g,0.07g,300g,10g,300g,4g,10g,>300g
+,154,31/01/2020,Direito,300g,300g,300g,300g,300g,0.07g,0.07g,10g,>300g,300g
+,154,31/01/2020,Esquerdo,2g,10g,2g,10g,300g,10g,10g,300g,10g,4g
+,289,05/08/2016,Direito,Sem registro,10g,10g,10g,4g,4g,2g,2g,2g,2g
+,289,05/08/2016,Esquerdo,Sem registro,10g,10g,10g,4g,4g,10g,10g,10g,10g
+,289,07/04/2017,Direito,Curativo,Curativo,Curativo,Curativo,Curativo,Curativo,Curativo,Curativo,Curativo,Curativo
+,289,07/04/2017,Esquerdo,Curativo,Curativo,Curativo,Curativo,Curativo,Curativo,Curativo,Curativo,Curativo,Curativo
+,289,05/07/2017,Direito,Curativo,Curativo,Curativo,Curativo,Curativo,Curativo,Curativo,Curativo,Curativo,Curativo
+,289,05/07/2017,Esquerdo,Curativo,Curativo,Curativo,Curativo,Curativo,Curativo,Curativo,Curativo,Curativo,Curativo
+,155,15/07/2022,Direito,300g,300g,10g,10g,300g,10g,300g,300g,300g,300g
+,155,15/07/2022,Esquerdo,10g,300g,300g,4g,300g,300g,300g,10g,4g,>300g
+,156,27/11/2020,Direito,4g,2g,2g,>300g,10g,2g,10g,4g,2g,10g
+,156,27/11/2020,Esquerdo,4g,4g,4g,4g,10g,2g,2g,4g,4g,4g
+,156,19/02/2021,Direito,10g,10g,10g,10g,300g,10g,10g,2g,10g,300g
+,156,19/02/2021,Esquerdo,10g,300g,10g,10g,300g,10g,10g,10g,10g,300g
+,156,06/10/2021,Direito,10g,300g,10g,300g,300g,300g,10g,300g,10g,300g
+,156,06/10/2021,Esquerdo,10g,300g,300g,10g,300g,300g,300g,300g,300g,300g
+,157,20/09/2019,Direito,0.2g,2g,2g,2g,10g,2g,2g,2g,2g,2g
+,157,20/09/2019,Esquerdo,0.2g,2g,0.2g,2g,10g,2g,2g,2g,0.2g,2g
+,157,29/11/2019,Direito,2g,2g,2g,2g,10g,2g,4g,2g,2g,2g
+,157,29/11/2019,Esquerdo,Sem registro,0.2g,0.2g,2g,10g,2g,0.2g,2g,0.2g,2g
+,157,08//01/2020,Direito,2g,2g,2g,2g,300g,2g,4g,2g,2g,2g
+,157,08//01/2020,Esquerdo,4g,4g,4g,4g,300g,2g,2g,10g,10g,10g
+,158,01/04/2022,Direito,300g,300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,158,01/04/2022,Esquerdo,300g,300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,158,07/10/2022,Direito,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,158,07/10/2022,Esquerdo,>300g,>300g,300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,158,10/02/2023,Direito,300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,158,10/02/2023,Esquerdo,300g,>300g,>300g,>300g,300g,>300g,>300g,>300g,>300g,>300g
+,158,18/10/2023,Direito,300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,300g
+,158,18/10/2023,Esquerdo,300g,300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,159,16/10/2024,Direito,0.2g,2g,0.2g,2g,4g,0.2g,2g,2g,2g,2g
+,159,16/10/2024,Esquerdo,0.2g,0.2g,0.2g,2g,4g,0.2g,0.2g,0.07g,2g,0.2g
+,160,12/07/2024,Direito,0.2g,0.2g,0.2g,0.2g,4g,4g,2g,2g,2g,2g
+,160,12/07/2024,Esquerdo,2g,2g,2g,4g,4g,2g,0.2g,2g,0.2g,2g
+,160,22/11/2024,Direito,0.2g,0.2g,0.2g,0.2g,4g,2g,2g,2g,2g,2g
+,160,22/11/2024,Esquerdo,4g,2g,2g,4g,10g,2g,2g,4g,2g,4g
+,161,31/01/2024,Direito,0.07g,0.2g,2g,2g,2g,0.2g,2g,2g,2g,0.2g
+,161,31/01/2024,Esquerdo,0.07g,2g,2g,0.2g,2g,0.2g,2g,2g,2g,2g
+,161,16/10/2025,Direito,2g,2g,2g,0.07g,4g,4g,0.2g,0.07g,2g,2g
+,161,16/10/2025,Esquerdo,0.2g,0.2g,0.2g,0.2g,2g,0.2g,2g,2g,2g,2g
+,161,12/02/2025,Direito,0.07g,0.2g,0.07g,0.07g,2g,0.2g,2g,2g,0.2g,2g
+,161,12/02/2025,Esquerdo,0.07g,2g,0.2g,0.2g,2g,0.2g,2g,2g,0.2g,0.2g
+,162,01/04/2022,Direito,300g,>300g,>300g,300g,>300g,300g,>300g,300g,300g,300g
+,162,01/04/2022,Esquerdo,>300g,300g,>300g,300g,300g,>300g,300g,>300g,>300g,>300g
+,162,19/08/2022,Direito,4g,4g,4g,4g,10g,4g,4g,10g,10g,10g
+,162,19/08/2022,Esquerdo,10g,4g,4g,4g,Curativo,"Curativo, Ferida",Curativo,10g,4g,4g
+,163,22/07/2022,Direito,2g,2g,2g,2g,10g,2g,4g,4g,4g,4g
+,163,22/07/2022,Esquerdo,0.2g,0.07g,0.2g,0.2g,10g,2g,2g,2g,0.2g,0.07g
+,163,21/10/2022,Direito,0.07g,2g,0.07g,0.2g,2g,0.2g,0.2g,0.07g,0.07g,2g
+,163,21/10/2022,Esquerdo,0.07g,2g,0.07g,Sem registro,2g,0.2g,2g,2g,2g,0.2g
+,164,23/09/2022,Direito,0.2g,0.2g,2g,2g,10g,0.07g,2g,2g,0.2g,2g
+,164,23/09/2022,Esquerdo,0.2g,0.07g,2g,0.07g,10g,2g,0.2g,2g,2g,2g
+,165,13/07/2022,Direito,2g,10g,2g,300g,10g,4g,300g,300g,300g,300g
+,165,13/07/2022,Esquerdo,0.2g,0.07g,2g,300g,300g,2g,10g,2g,4g,2g
+,165,01/02/2023,Direito,0.2g,0.07g,2g,4g,10g,0.2g,10g,10g,0.07g,0.2g
+,165,01/02/2023,Esquerdo,0.07g,4g,2g,0.2g,10g,4g,10g,2g,4g,2g
+,165,08/11/2023,Direito,0.2g,4g,0.2g,10g,10g,2g,10g,4g,2g,2g
+,165,08/11/2023,Esquerdo,2g,10g,4g,4g,4g,2g,2g,2g,2g,2g
+,165,24/04/2024,Direito,2g,10g,2g,2g,4g,2g,4g,0.2g,0.2g,0.2g
+,165,24/04/2024,Esquerdo,0.2g,2g,2g,0.2g,4g,2g,4g,2g,2g,0.2g
+,166,07/02/2025,Direito,300g,>300g,>300g,>300g,>300g,300g,10g,>300g,10g,>300g
+,166,07/02/2025,Esquerdo,>300g,>300g,>300g,>300g,>300g,300g,300g,>300g,2g,>300g
+,167,05/07/2024,Direito,>300g,4g,300g,10g,300g,4g,300g,300g,10g,300g
+,167,05/07/2024,Esquerdo,300g,300g,300g,300g,10g,300g,300g,4g,300g,10g
+,168,07/02/2025,Direito,0.2g,0.07g,0.2g,0.07g,4g,2g,2g,2g,2g,0.2g
+,168,07/02/2025,Esquerdo,0.07g,0.07g,0.2g,0.07g,10g,0.2g,2g,0.2g,2g,0.2g
+,169,08/11/2024,Direito,10g,2g,10g,10g,10g,10g,10g,4g,10g,4g
+,169,08/11/2024,Esquerdo,2g,300g,4g,10g,300g,2g,10g,10g,4g,2g
+,169,14/02/2025,Direito,300g,300g,300g,2g,300g,300g,10g,300g,4g,300g
+,169,14/02/2025,Esquerdo,10g,300g,2g,10g,300g,10g,4g,4g,10g,300g
+,170,01/12/2023,Direito,2g,2g,2g,2g,300g,2g,2g,2g,2g,2g
+,170,01/12/2023,Esquerdo,2g,2g,2g,2g,>300g,2g,2g,2g,2g,2g
+,171,24/01/2018,Direito,300g,300g,300g,300g,>300g,300g,>300g,300g,300g,300g
+,171,24/01/2018,Esquerdo,300g,300g,300g,300g,300g,300g,300g,300g,300g,300g
+,171,22/05/2019,Direito,300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,171,22/05/2019,Esquerdo,300g,300g,300g,300g,300g,10g,300g,300g,10g,10g
+,171,14/02/2020,Direito,2g,4g,4g,10g,10g,10g,300g,4g,2g,2g
+,171,14/02/2020,Esquerdo,2g,4g,4g,4g,300g,4g,4g,4g,4g,4g
+,172,16/08/2023,Direito,0.2g,0.2g,0.2g,0.07g,0.07g,0.2g,0.2g,0.2g,0.07g,0.07g
+,172,16/08/2023,Esquerdo,0.07g,0.2g,0.2g,2g,2g,2g,2g,2g,0.2g,0.2g
+,173,15/12/2023,Direito,0.2g,2g,0.2g,0.2g,10g,2g,2g,0.07g,2g,2g
+,173,15/12/2023,Esquerdo,2g,4g,4g,4g,300g,4g,4g,4g,4g,300g
+,174,04/03/2022,Direito,>300g,300g,300g,>300g,300g,>300g,10g,300g,300g,300g
+,174,04/03/2022,Esquerdo,300g,>300g,>300g,>300g,300g,300g,4g,>300g,>300g,>300g
+,174,11/11/2022,Direito,>300g,>300g,>300g,>300g,300g,300g,300g,>300g,300g,>300g
+,174,11/11/2022,Esquerdo,>300g,>300g,>300g,10g,300g,300g,300g,300g,>300g,>300g
+,174,15/02/2023,Direito,>300g,>300g,300g,>300g,>300g,>300g,300g,>300g,300g,>300g
+,174,15/02/2023,Esquerdo,>300g,>300g,>300g,300g,>300g,>300g,300g,>300g,>300g,>300g
+,174,26/07/2023,Direito,>300g,"Curativo, Amputação",Curativo,>300g,>300g,>300g,300g,>300g,>300g,>300g
+,174,26/07/2023,Esquerdo,>300g,>300g,>300g,>300g,>300g,300g,300g,300g,>300g,300g
+,175,10/11/2023,Direito,>300g,Amputação,>300g,>300g,>300g,300g,>300g,>300g,">300g, Amputação",">300g, Amputação"
+,175,10/11/2023,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,300g,>300g
+,175,15/05/2024,Direito,>300g,Amputação,Amputação,>300g,>300g,>300g,>300g,>300g,"Amputação, >300g",">300g, Amputação"
+,175,15/05/2024,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,">300g, Amputação"
+,176,04/03/2022,Direito,2g,0.07g,0.07g,2g,0.07g,0.07g,0.07g,0.07g,2g,0.07g
+,176,04/03/2022,Esquerdo,2g,0.07g,2g,0.07g,2g,2g,2g,0.07g,2g,0.07g
+,176,11/11/2022,Direito,0.07g,0.07g,0.07g,0.07g,2g,0.07g,0.07g,0.07g,0.07g,0.07g
+,176,11/11/2022,Esquerdo,0.07g,0.07g,0.07g,0.07g,2g,0.07g,0.07g,0.07g,0.07g,0.07g
+,176,15/02/2023,Direito,0.07g,0.2g,0.07g,0.2g,2g,0.07g,0.07g,0.07g,0.2g,0.2g
+,176,15/02/2023,Esquerdo,0.07g,2g,2g,0.2g,2g,0.07g,0.07g,0.2g,0.2g,0.07g
+,176,26/07/2023,Direito,0.2g,2g,2g,0.2g,2g,0.2g,2g,0.2g,0.2g,0.2g
+,176,26/07/2023,Esquerdo,0.2g,0.2g,0.2g,0.2g,2g,0.2g,0.2g,0.2g,0.2g,0.2g
+,177,10/11/2023,Direito,0.2g,2g,2g,2g,2g,0.07g,0.2g,0.2g,0.07g,2g
+,177,10/11/2023,Esquerdo,0.2g,2g,2g,2g,2g,0.2g,2g,0.2g,0.2g,0.2g
+,177,15/05/2024,Direito,0.2g,2g,2g,0.07g,2g,0.2g,2g,2g,2g,2g
+,177,15/05/2024,Esquerdo,2g,2g,2g,2g,2g,2g,2g,2g,2g,0.2g
+,178,28/05/2021,Direito,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,178,28/05/2021,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,178,11/11/2022,Direito,>300g,Amputação,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,178,11/11/2022,Esquerdo,>300g,Amputação,>300g,">300g, Garra móvel",>300g,>300g,>300g,>300g,>300g,>300g
+,178,15/02/2023,Direito,>300g,Amputação,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,178,15/02/2023,Esquerdo,>300g,Amputação,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,178,26/07/2023,Direito,>300g,Amputação,>300g,>300g,>300g,>300g,300g,>300g,>300g,>300g
+,178,26/07/2023,Esquerdo,>300g,Amputação,Lesões traumáticas,>300g,>300g,>300g,>300g,>300g,300g,>300g
+,179,10/11/2023,Direito,>300g,Amputação,Lesões tróficas,Lesões tróficas,>300g,>300g,>300g,>300g,>300g,>300g
+,179,10/11/2023,Esquerdo,>300g,Amputação,Lesões tróficas,Lesões tróficas,>300g,>300g,>300g,>300g,>300g,>300g
+,179,15/05/2024,Direito,>300g,Amputação,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,179,15/05/2024,Esquerdo,>300g,Amputação,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,180,11/11/2022,Direito,0.2g,2g,0.2g,0.07g,4g,2g,2g,2g,2g,2g
+,180,11/11/2022,Esquerdo,0.2g,2g,0.2g,0.07g,4g,2g,2g,2g,2g,2g
+,180,03/02/2023,Direito,0.07g,2g,2g,2g,2g,2g,2g,2g,0.2g,2g
+,180,03/02/2023,Esquerdo,0.2g,0.2g,2g,0.2g,4g,0.07g,0.07g,2g,0.2g,0.2g
+,180,02/06/2023,Direito,2g,2g,2g,0.2g,4g,2g,4g,2g,2g,2g
+,180,02/06/2023,Esquerdo,2g,2g,0.2g,2g,4g,2g,2g,2g,2g,2g
+,180,04/10/2023,Direito,2g,2g,2g,2g,2g,2g,2g,2g,2g,2g
+,180,04/10/2023,Esquerdo,2g,2g,2g,0.2g,2g,2g,2g,2g,2g,2g
+,181,02/02/2024,Direito,0.07g,2g,0.2g,0.07g,2g,0.07g,0.07g,2g,2g,0.07g
+,181,02/02/2024,Esquerdo,0.2g,2g,2g,0.07g,2g,0.07g,2g,2g,2g,2g
+,181,12/07/2024,Direito,0.07g,2g,2g,0.2g,2g,0.2g,0.2g,2g,2g,2g
+,181,12/07/2024,Esquerdo,0.2g,0.2g,0.2g,0.2g,2g,0.2g,0.2g,0.2g,0.2g,0.2g
+,181,27/11/2024,Direito,2g,0.2g,0.2g,0.07g,2g,0.2g,0.2g,2g,0.07g,2g
+,181,27/11/2024,Esquerdo,0.2g,0.2g,0.2g,0.2g,2g,0.2g,0.2g,2g,2g,2g
+,182,25/02/2022,Direito,>300g,4g,4g,>300g,>300g,10g,4g,300g,>300g,300g
+,182,25/02/2022,Esquerdo,>300g,Amputação,Lesões traumáticas,Lesões traumáticas,10g,4g,300g,300g,300g,10g
+,183,14/06/2024,Direito,2g,10g,10g,2g,300g,10g,4g,300g,10g,2g
+,183,14/06/2024,Esquerdo,4g,10g,4g,2g,300g,10g,10g,10g,300g,10g
+,183,13/12/2024,Direito,2g,10g,2g,2g,300g,4g,4g,10g,10g,2g
+,183,13/12/2024,Esquerdo,0.2g,0.2g,2g,2g,300g,10g,2g,2g,4g,2g
+,184,29/09/2023,Direito,300g,10g,10g,10g,300g,10g,10g,300g,300g,300g
+,184,29/09/2023,Esquerdo,300g,10g,10g,>300g,300g,300g,300g,300g,300g,300g
+,184,31/01/2024,Direito,300g,10g,2g,300g,>300g,4g,300g,300g,300g,300g
+,184,31/01/2024,Esquerdo,300g,300g,300g,300g,>300g,300g,300g,300g,300g,300g
+,184,05/04/2024,Direito,>300g,300g,>300g,>300g,>300g,300g,>300g,>300g,>300g,>300g
+,184,05/04/2024,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,184,02/02/2024,Direito,>300g,300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,184,02/02/2024,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,185,01/09/2023,Direito,0.2g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g
+,185,01/09/2023,Esquerdo,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g
+,185,12/01/2024,Direito,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.2g,0.07g,0.2g,0.07g
+,185,12/01/2024,Esquerdo,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g
+,185,26/04/2024,Direito,0.2g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g
+,185,26/04/2024,Esquerdo,0.2g,0.2g,0.07g,0.07g,0.2g,0.2g,0.07g,0.07g,0.07g,0.2g
+,185,02/08/2024,Direito,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g
+,185,02/08/2024,Esquerdo,0.07g,0.07g,0.07g,0.07g,0.07g,0.2g,0.07g,0.07g,0.07g,0.07g
+,186,08/01/2023,Direito,0.2g,2g,0.2g,4g,10g,4g,4g,4g,4g,4g
+,186,08/01/2023,Esquerdo,0.2g,2g,2g,0.2g,4g,4g,2g,2g,2g,2g
+,187,19/08/2022,Direito,0.2g,4g,10g,2g,300g,0.07g,4g,10g,10g,0.2g
+,187,19/08/2022,Esquerdo,10g,300g,0.2g,10g,300g,2g,2g,300g,0.2g,300g
+,187,16/12/2022,Direito,300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,187,16/12/2022,Esquerdo,300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,188,09/08/2023,Direito,0.2g,0.2g,0.07g,0.2g,2g,0.2g,2g,2g,0.07g,0.07g
+,188,09/08/2023,Esquerdo,0.2g,0.07g,2g,2g,2g,2g,2g,0.07g,0.2g,0.07g
+,188,19/01/2024,Direito,0.07g,0.07g,0.2g,2g,2g,0.07g,2g,0.2g,0.07g,0.2g
+,188,19/01/2024,Esquerdo,0.07g,0.2g,0.2g,2g,2g,0.2g,0.07g,0.2g,0.2g,0.07g
+,189,23/07/2021,Direito,2g,2g,0.07g,0.07g,4g,4g,4g,0.07g,0.07g,0.07g
+,189,23/07/2021,Esquerdo,Sem registro,2g,0.2g,2g,2g,0.2g,0.2g,2g,0.2g,0.2g
+,189,20/01/2023,Direito,0.07g,0.2g,0.07g,0.07g,4g,0.2g,2g,0.2g,0.2g,0.2g
+,189,20/01/2023,Esquerdo,0.07g,0.07g,0.2g,2g,2g,2g,2g,0.2g,2g,2g
+,190,27/11/2020,Direito,0.2g,2g,2g,2g,2g,0.07g,2g,2g,0.2g,2g
+,190,27/11/2020,Esquerdo,0.2g,2g,0.2g,0.2g,2g,0.2g,0.2g,0.2g,0.2g,2g
+,191,20/01/2021,Direito,0.2g,2g,2g,2g,2g,0.2g,0.2g,2g,2g,2g
+,191,20/01/2021,Esquerdo,0.2g,0.2g,2g,2g,10g,2g,2g,2g,2g,2g
+,191,05/03/2021,Direito,0.2g,2g,2g,2g,10g,2g,2g,4g,2g,2g
+,191,05/03/2021,Esquerdo,0.2g,4g,4g,4g,4g,4g,4g,4g,4g,4g
+,191,04/02/2022,Direito,0.2g,2g,0.2g,2g,4g,4g,4g,0.2g,2g,4g
+,191,04/02/2022,Esquerdo,2g,2g,2g,2g,2g,2g,2g,2g,2g,2g
+,192,08/06/2018,Direito,Sem registro,2g,2g,2g,4g,2g,2g,2g,2g,2g
+,192,08/06/2018,Esquerdo,Sem registro,2g,2g,2g,10g,0.07g,0.2g,2g,2g,2g
+,192,10/05/2019,Direito,0.2g,0.2g,0.2g,0.2g,2g,0.2g,0.2g,0.2g,0.2g,0.2g
+,192,10/05/2019,Esquerdo,2g,2g,2g,2g,2g,2g,2g,2g,2g,2g
+,193,27/05/2022,Direito,10g,>300g,300g,300g,4g,300g,2g,4g,2g,2g
+,193,27/05/2022,Esquerdo,>300g,0.2g,>300g,2g,10g,>300g,300g,300g,0.2g,10g
+,193,05/10/2023,Direito,300g,300g,10g,300g,300g,300g,>300g,10g,0.2g,10g
+,193,05/10/2023,Esquerdo,300g,300g,300g,2g,10g,300g,10g,300g,10g,300g
+,194,09/11/2022,Direito,2g,2g,2g,2g,4g,2g,10g,10g,4g,4g
+,194,09/11/2022,Esquerdo,0.2g,0.2g,0.2g,0.2g,2g,0.2g,2g,2g,0.2g,2g
+,194,10/02/2023,Direito,0.2g,2g,2g,2g,4g,2g,0.2g,2g,2g,0.2g
+,194,10/02/2023,Esquerdo,0.2g,2g,0.2g,0.2g,2g,0.2g,2g,0.2g,0.2g,0.2g
+,194,26/05/2023,Direito,0.2g,2g,2g,2g,2g,2g,2g,2g,2g,2g
+,194,26/05/2023,Esquerdo,2g,2g,2g,2g,0.2g,2g,2g,2g,0.2g,0.2g
+,195,02/02/2024,Direito,Sem registro,0.2g,2g,0.2g,4g,2g,0.2g,2g,2g,0.2g
+,195,02/02/2024,Esquerdo,0.2g,2g,0.07g,2g,4g,2g,2g,2g,2g,2g
+,195,04/09/2024,Direito,0.2g,2g,2g,0.2g,4g,0.2g,0.2g,2g,2g,2g
+,195,04/09/2024,Esquerdo,0.2g,0.2g,0.2g,0.2g,4g,2g,2g,2g,2g,0.2g
+,196,10/05/2019,Direito,4g,4g,0.2g,2g,2g,0.2g,4g,4g,4g,4g
+,196,10/05/2019,Esquerdo,0.07g,2g,0.2g,2g,4g,2g,2g,4g,4g,4g
+,196,11/01/2023,Direito,2g,0.2g,0.2g,0.2g,4g,2g,0.2g,0.2g,4g,2g
+,196,11/01/2023,Esquerdo,0.2g,10g,"2g, Garra móvel",2g,10g,2g,2g,2g,10g,0.2g
+,197,08/04/2022,Direito,0.07g,0.07g,0.07g,0.07g,0.2g,0.2g,0.07g,0.07g,0.07g,0.2g
+,197,08/04/2022,Esquerdo,0.07g,0.07g,0.07g,0.07g,2g,0.2g,0.07g,0.2g,0.2g,0.07g
+,197,30/09/2022,Direito,2g,2g,0.07g,0.07g,2g,0.07g,0.2g,2g,2g,2g
+,197,30/09/2022,Esquerdo,2g,0.2g,0.07g,0.2g,0.07g,0.07g,0.2g,0.2g,0.2g,0.07g
+,197,13/01/2023,Direito,0.2g,0.07g,0.2g,0.07g,0.2g,0.2g,0.2g,0.2g,2g,0.2g
+,197,13/01/2023,Esquerdo,0.07g,0.07g,0.07g,0.2g,2g,0.2g,0.07g,0.07g,0.07g,0.2g
+,197,26/04/2023,Direito,0.2g,0.07g,0.07g,0.07g,2g,0.2g,0.07g,0.07g,0.07g,0.07g
+,197,26/04/2023,Esquerdo,0.2g,0.07g,0.07g,0.07g,0.2g,2g,0.07g,0.07g,0.07g,0.07g
+,198,23/08/2023,Direito,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.2g,0.07g,0.07g,0.07g
+,198,23/08/2023,Esquerdo,2g,0.2g,0.07g,0.07g,2g,0.07g,0.2g,0.2g,0.07g,0.07g
+,199,15/03/2023,Direito,0.07g,0.07g,0.2g,0.07g,10g,0.2g,0.07g,0.07g,0.07g,0.2g
+,199,15/03/2023,Esquerdo,0.07g,0.2g,0.2g,0.2g,4g,0.2g,0.07g,0.07g,0.2g,0.07g
+,199,18/08/2023,Direito,0.2g,4g,2g,4g,10g,4g,10g,4g,4g,0.07g
+,199,18/08/2023,Esquerdo,0.2g,2g,2g,2g,2g,2g,2g,2g,2g,2g
+,199,06/12/2023,Direito,0.07g,0.2g,0.07g,0.2g,0.2g,2g,0.07g,0.07g,0.07g,0.2g
+,199,06/12/2023,Esquerdo,4g,2g,2g,2g,10g,2g,2g,2g,2g,2g
+,200,01/03/2023,Direito,0.2g,2g,2g,2g,4g,2g,0.07g,2g,2g,2g
+,200,01/03/2023,Esquerdo,0.2g,2g,10g,2g,10g,4g,2g,4g,2g,4g
+,200,22/03/2024,Direito,2g,2g,2g,4g,4g,4g,4g,4g,2g,2g
+,200,22/03/2024,Esquerdo,Sem registro,2g,Sem registro,2g,4g,2g,4g,2g,2g,2g
+,201,02/12/2022,Direito,>300g,>300g,300g,4g,300g,>300g,4g,300g,0.2g,300g
+,201,02/12/2022,Esquerdo,300g,300g,300g,>300g,>300g,4g,300g,300g,>300g,300g
+,202,21/04/2024,Direito,0.07g,0.07g,0.07g,0.07g,4g,0.2g,0.2g,0.07g,0.07g,0.07g
+,202,21/04/2024,Esquerdo,0.07g,0.07g,2g,0.07g,10g,2g,0.07g,0.07g,0.07g,2g
+,203,27/11/2024,Direito,0.2g,2g,2g,0.2g,4g,0.2g,0.2g,0.2g,0.2g,0.2g
+,203,27/11/2024,Esquerdo,0.07g,0.2g,2g,2g,4g,2g,2g,0.2g,2g,0.07g
+,204,16/03/2022,Direito,0.2g,0.2g,0.2g,0.2g,0.2g,0.2g,0.2g,0.2g,0.2g,0.2g
+,204,16/03/2022,Esquerdo,0.2g,0.07g,0.07g,0.2g,0.2g,0.07g,0.2g,0.2g,0.07g,0.2g
+,204,05/10/2022,Direito,0.2g,0.2g,0.2g,0.07g,0.07g,0.07g,0.2g,0.2g,0.07g,0.07g
+,204,05/10/2022,Esquerdo,0.07g,0.2g,0.07g,0.2g,0.2g,0.2g,0.07g,0.07g,0.07g,0.2g
+,204,18/01/2023,Direito,0.2g,0.07g,0.2g,0.07g,2g,0.07g,0.2g,0.2g,0.2g,0.07g
+,204,18/01/2023,Esquerdo,0.2g,0.2g,0.2g,0.2g,2g,2g,0.2g,0.2g,0.2g,0.07g
+,204,15/02/2023,Direito,0.2g,0.2g,0.07g,0.2g,2g,0.2g,0.2g,0.2g,0.07g,0.07g
+,204,15/02/2023,Esquerdo,0.07g,0.07g,0.07g,0.2g,2g,0.2g,0.07g,2g,0.2g,0.2g
+,205,12/04/2023,Direito,300g,10g,>300g,10g,300g,>300g,>300g,2g,2g,">300g, Mal perfurante"
+,205,12/04/2023,Esquerdo,>300g,300g,>300g,4g,10g,10g,300g,>300g,10g,4g
+,206,18/08/2023,Direito,0.2g,300g,0.2g,4g,300g,4g,2g,2g,10g,300g
+,206,18/08/2023,Esquerdo,0.07g,4g,10g,0.2g,300g,4g,300g,10g,4g,2g
+,206,07/02/2024,Direito,2g,10g,300g,4g,300g,300g,300g,10g,10g,10g
+,206,07/02/2024,Esquerdo,2g,300g,300g,10g,300g,300g,4g,10g,300g,300g
+,206,28/06/2024,Direito,2g,300g,10g,4g,300g,10g,300g,300g,300g,300g
+,206,28/06/2024,Esquerdo,4g,10g,300g,4g,300g,10g,300g,300g,10g,300g
+,207,16/12/2022,Direito,0.2g,300g,10g,300g,300g,300g,300g,300g,300g,2g
+,207,16/12/2022,Esquerdo,>300g,10g,300g,4g,>300g,>300g,>300g,>300g,300g,>300g
+,208,17/05/2023,Direito,0.2g,0.2g,0.07g,0.2g,2g,2g,2g,0.2g,0.2g,0.2g
+,208,17/05/2023,Esquerdo,0.2g,0.2g,0.2g,2g,2g,2g,2g,2g,0.2g,0.2g
+,208,21/07/2023,Direito,0.2g,0.2g,0.07g,2g,10g,2g,2g,2g,2g,2g
+,208,21/07/2023,Esquerdo,2g,2g,0.07g,2g,2g,2g,2g,2g,2g,0.07g
+,208,27/10/2023,Direito,0.2g,0.2g,0.07g,2g,300g,2g,2g,2g,0.07g,2g
+,208,27/10/2023,Esquerdo,2g,0.2g,2g,0.2g,4g,2g,2g,2g,2g,2g
+,208,26/04/2024,Direito,4g,0.2g,0.2g,4g,300g,4g,4g,2g,2g,2g
+,208,26/04/2024,Esquerdo,0.2g,0.2g,0.2g,2g,2g,2g,0.2g,2g,2g,2g
+,209,10/09/2021,Direito,0.2g,2g,4g,2g,0.07g,0.07g,0.07g,2g,2g,2g
+,209,10/09/2021,Esquerdo,0.07g,2g,2g,2g,2g,2g,2g,0.2g,2g,2g
+,209,15/06/2022,Direito,2g,2g,2g,2g,2g,2g,2g,2g,2g,2g
+,209,15/06/2022,Esquerdo,0.07g,2g,2g,2g,2g,2g,2g,2g,2g,2g
+,209,30/09/2022,Direito,0.2g,4g,4g,2g,10g,2g,0.2g,4g,0.2g,2g
+,209,30/09/2022,Esquerdo,0.2g,0.2g,0.2g,2g,10g,2g,2g,2g,2g,2g
+,210,13/01/2023,Direito,2g,10g,0.07g,0.2g,0.2g,2g,2g,2g,0.2g,2g
+,210,13/01/2023,Esquerdo,0.2g,2g,2g,2g,10g,0.2g,2g,2g,2g,2g
+,210,07/06/2023,Direito,2g,2g,2g,4g,10g,2g,2g,2g,2g,0.07g
+,210,07/06/2023,Esquerdo,0.2g,2g,2g,2g,4g,0.07g,2g,2g,2g,2g
+,210,06/09/2023,Direito,2g,4g,10g,4g,300g,0.2g,10g,10g,10g,2g
+,210,06/09/2023,Esquerdo,2g,10g,4g,2g,0.07g,2g,2g,2g,10g,0.2g
+,210,01/12/2023,Direito,0.2g,2g,2g,2g,10g,2g,2g,4g,2g,4g
+,210,01/12/2023,Esquerdo,2g,4g,2g,0.2g,10g,2g,0.2g,0.07g,2g,2g
+,211,26/06/2024,Direito,2g,10g,2g,2g,300g,4g,2g,2g,4g,2g
+,211,26/06/2024,Esquerdo,2g,4g,2g,4g,4g,2g,2g,2g,2g,2g
+,211,06/11/2024,Direito,2g,4g,2g,2g,300g,4g,4g,10g,2g,2g
+,211,06/11/2024,Esquerdo,2g,2g,2g,2g,300g,2g,2g,2g,2g,2g
+,212,04/11/2022,Direito,0.2g,4g,2g,2g,2g,2g,4g,2g,2g,2g
+,212,04/11/2022,Esquerdo,0.07g,4g,2g,0.2g,4g,2g,0.2g,0.2g,2g,2g
+,212,10/11/2023,Direito,0.2g,2g,2g,4g,4g,4g,4g,2g,2g,2g
+,212,10/11/2023,Esquerdo,0.2g,2g,2g,2g,300g,2g,2g,2g,2g,0.2g
+,213,23/12/2022,Direito,0.2g,0.2g,2g,0.2g,4g,2g,2g,0.2g,2g,0.2g
+,213,23/12/2022,Esquerdo,0.2g,0.07g,2g,2g,2g,0.2g,0.07g,0.07g,0.2g,0.07g
+,214,26/02/2021,Direito,>300g,300g,300g,300g,300g,>300g,>300g,300g,300g,300g
+,214,26/02/2021,Esquerdo,300g,300g,300g,10g,300g,300g,300g,300g,300g,300g
+,214,01/02/2022,Direito,>300g,300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,214,01/02/2022,Esquerdo,Sem registro,10g,10g,10g,10g,10g,300g,300g,>300g,300g
+,214,02/06/2023,Direito,>300g,300g,300g,300g,2g,2g,300g,300g,300g,2g
+,214,02/06/2023,Esquerdo,300g,"10g, Ferida",10g,2g,300g,4g,2g,4g,300g,300g
+,215,06/09/2023,Direito,>300g,300g,>300g,>300g,300g,>300g,>300g,>300g,>300g,>300g
+,215,06/09/2023,Esquerdo,300g,300g,10g,10g,300g,4g,>300g,10g,300g,300g
+,216,30/06/2023,Direito,0.07g,0.07g,0.2g,0.2g,0.07g,0.2g,0.2g,0.2g,Sem registro,0.07g
+,216,30/06/2023,Esquerdo,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.2g
+,217,13/07/2022,Direito,>300g,>300g,>300g,>300g,300g,>300g,>300g,>300g,>300g,>300g
+,217,13/07/2022,Esquerdo,>300g,>300g,>300g,>300g,300g,>300g,>300g,>300g,>300g,>300g
+,217,25/01/2023,Direito,>300g,>300g,>300g,>300g,>300g,>300g,300g,>300g,>300g,>300g
+,217,25/01/2023,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,300g,>300g,>300g,>300g
+,217,26/05/2023,Direito,>300g,>300g,>300g,>300g,300g,>300g,300g,>300g,>300g,>300g
+,217,26/05/2023,Esquerdo,>300g,>300g,>300g,>300g,300g,>300g,>300g,>300g,>300g,>300g
+,217,01/09/2023,Direito,>300g,300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,217,01/09/2023,Esquerdo,>300g,>300g,>300g,>300g,300g,>300g,>300g,>300g,>300g,>300g
+,218,26/01/2024,Direito,>300g,>300g,>300g,>300g,300g,300g,300g,>300g,>300g,>300g
+,218,26/01/2024,Esquerdo,>300g,>300g,>300g,>300g,300g,>300g,>300g,>300g,>300g,>300g
+,218,15/05/2024,Direito,>300g,300g,>300g,>300g,>300g,>300g,300g,>300g,>300g,>300g
+,218,15/05/2024,Esquerdo,300g,>300g,>300g,>300g,300g,>300g,>300g,>300g,>300g,>300g
+,219,01/04/2022,Direito,0.2g,2g,2g,2g,300g,2g,2g,2g,4g,2g
+,219,01/04/2022,Esquerdo,0.2g,2g,2g,2g,300g,2g,4g,4g,4g,4g
+,219,15/03/2023,Direito,2g,2g,2g,2g,300g,2g,10g,300g,10g,4g
+,219,15/03/2023,Esquerdo,2g,2g,2g,4g,300g,4g,10g,2g,4g,2g
+,219,14/06/2023,Direito,2g,2g,4g,4g,10g,2g,4g,4g,10g,2g
+,219,14/06/2023,Esquerdo,2g,4g,2g,4g,10g,0.2g,4g,0.2g,4g,4g
+,219,20/09/2023,Direito,2g,2g,2g,4g,300g,4g,10g,2g,4g,2g
+,219,20/09/2023,Esquerdo,2g,10g,2g,2g,10g,2g,10g,2g,10g,2g
+,220,03/01/2023,Direito,2g,2g,2g,2g,4g,2g,4g,4g,2g,4g
+,220,03/01/2023,Esquerdo,0.2g,4g,0.2g,2g,10g,4g,10g,2g,2g,2g
+,220,17/04/2024,Direito,0.2g,0.2g,2g,2g,4g,2g,4g,2g,2g,2g
+,220,17/04/2024,Esquerdo,0.2g,0.2g,2g,2g,10g,2g,4g,2g,2g,2g
+,221,01/11/2023,Direito,300g,300g,300g,300g,300g,300g,300g,300g,300g,300g
+,221,01/11/2023,Esquerdo,300g,300g,300g,300g,300g,300g,300g,300g,300g,300g
+,221,17/04/2024,Direito,300g,300g,300g,300g,300g,300g,300g,300g,300g,300g
+,221,17/04/2024,Esquerdo,300g,300g,300g,300g,300g,300g,300g,300g,300g,300g
+,221,22/05/2024,Direito,10g,10g,300g,300g,300g,300g,10g,300g,300g,300g
+,221,22/05/2024,Esquerdo,10g,300g,300g,300g,300g,300g,300g,300g,300g,300g
+,221,04/08/2024,Direito,300g,300g,4g,4g,300g,300g,300g,300g,4g,300g
+,221,04/08/2024,Esquerdo,300g,300g,>300g,300g,300g,300g,300g,300g,300g,300g
+,222,05/04/2023,Direito,2g,2g,0.2g,2g,10g,2g,2g,0.2g,2g,0.2g
+,222,05/04/2023,Esquerdo,2g,0.2g,2g,2g,4g,2g,0.2g,2g,4g,2g
+,223,21/05/2021,Direito,0.07g,0.07g,0.2g,0.2g,0.07g,0.07g,0.07g,0.2g,0.2g,0.07g
+,223,21/05/2021,Esquerdo,0.07g,0.07g,0.07g,0.07g,2g,2g,2g,2g,0.07g,0.07g
+,224,07/11/2018,Direito,0.2g,4g,4g,0.2g,2g,2g,2g,2g,2g,4g
+,224,07/11/2018,Esquerdo,2g,2g,2g,0.07g,2g,0.07g,2g,2g,2g,2g
+,224,27/03/2019,Direito,2g,2g,2g,2g,4g,2g,4g,4g,2g,2g
+,224,27/03/2019,Esquerdo,2g,2g,2g,2g,2g,2g,2g,2g,2g,2g
+,224,16/08/2019,Direito,0.2g,0.2g,0.2g,0.2g,4g,0.2g,4g,2g,2g,0.2g
+,224,16/08/2019,Esquerdo,0.2g,0.2g,0.2g,0.2g,4g,2g,2g,0.2g,0.2g,0.2g
+,225,17/01/2020,Direito,2g,2g,2g,0.2g,300g,2g,10g,2g,0.2g,0.2g
+,225,17/01/2020,Esquerdo,2g,2g,2g,2g,10g,2g,2g,2g,2g,0.2g
+,226,15/10/2021,Direito,2g,0.07g,0.07g,0.07g,2g,2g,2g,0.07g,2g,2g
+,226,15/10/2021,Esquerdo,2g,2g,2g,2g,2g,2g,2g,2g,2g,2g
+,226,22/07/2022,Direito,2g,2g,0.07g,2g,0.2g,0.2g,0.07g,2g,2g,0.2g
+,226,22/07/2022,Esquerdo,4g,4g,2g,2g,4g,2g,4g,4g,4g,4g
+,227,16/06/2021,Direito,>300g,>300g,>300g,2g,300g,300g,4g,10g,>300g,300g
+,227,16/06/2021,Esquerdo,Sem registro,2g,2g,2g,300g,2g,2g,300g,10g,300g
+,227,23/02/2022,Direito,>300g,>300g,>300g,4g,300g,300g,10g,10g,>300g,>300g
+,227,23/02/2022,Esquerdo,300g,4g,Sem registro,Sem registro,300g,10g,10g,300g,10g,300g
+,228,18/10/2023,Direito,4g,2g,2g,2g,2g,300g,300g,2g,0.2g,0.2g
+,228,18/10/2023,Esquerdo,2g,0.2g,2g,0.2g,4g,2g,2g,2g,2g,2g
+,228,27/03/2024,Direito,4g,2g,10g,4g,10g,4g,10g,2g,2g,4g
+,228,27/03/2024,Esquerdo,4g,2g,2g,0.07g,4g,0.07g,4g,0.07g,2g,2g
+,228,03/07/2024,Direito,>300g,10g,300g,300g,300g,4g,300g,4g,300g,4g
+,228,03/07/2024,Esquerdo,4g,2g,4g,4g,10g,2g,300g,0.07g,4g,10g
+,229,13/04/2022,Direito,>300g,300g,>300g,300g,>300g,>300g,>300g,>300g,>300g,300g
+,229,13/04/2022,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,300g
+,229,20/12/2023,Direito,300g,>300g,>300g,>300g,300g,>300g,>300g,300g,>300g,>300g
+,229,20/12/2023,Esquerdo,300g,>300g,300g,>300g,>300g,300g,300g,>300g,>300g,>300g
+,230,27/10/2021,Direito,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro
+,230,27/10/2021,Esquerdo,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro
+,230,07/01/2022,Direito,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro
+,230,07/01/2022,Esquerdo,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro
+,230,25/03/2022,Direito,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro
+,230,25/03/2022,Esquerdo,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro
+,230,04/11/2022,Direito,0.2g,10g,4g,4g,4g,4g,4g,2g,10g,2g
+,230,04/11/2022,Esquerdo,2g,4g,4g,2g,10g,4g,2g,2g,4g,4g
+,231,31/03/2023,Direito,0.2g,10g,0.2g,2g,300g,10g,4g,2g,10g,2g
+,231,31/03/2023,Esquerdo,0.2g,2g,0.2g,2g,300g,10g,4g,4g,4g,4g
+,231,05/07/2023,Direito,0.07g,4g,2g,2g,300g,10g,4g,2g,2g,2g
+,231,05/07/2023,Esquerdo,0.2g,10g,10g,2g,300g,10g,4g,2g,2g,2g
+,231,20/09/2023,Direito,0.2g,0.2g,4g,2g,300g,0.2g,300g,2g,10g,2g
+,231,20/09/2023,Esquerdo,0.2g,10g,2g,2g,10g,4g,4g,10g,10g,2g
+,231,20/12/2023,Direito,2g,10g,4g,2g,300g,4g,10g,4g,10g,2g
+,231,20/12/2023,Esquerdo,2g,10g,2g,2g,300g,4g,4g,10g,10g,4g
+,232,14/06/2024,Direito,2g,10g,10g,2g,300g,10g,4g,300g,10g,2g
+,232,14/06/2024,Esquerdo,4g,10g,4g,2g,300g,10g,10g,10g,300g,10g
+,233,06/04/2022,Direito,>300g,>300g,>300g,>300g,>300g,300g,>300g,>300g,>300g,>300g
+,233,06/04/2022,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,233,14/10/2022,Direito,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,233,14/10/2022,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,233,10/03/2023,Direito,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,233,10/03/2023,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,233,06/10/2023,Direito,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,233,06/10/2023,Esquerdo,>300g,300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,234,22/06/2022,Direito,>300g,300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,234,22/06/2022,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,234,14/12/2022,Direito,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,234,14/12/2022,Esquerdo,>300g,>300g,>300g,300g,>300g,>300g,>300g,300g,>300g,>300g
+,235,26/04/2023,Direito,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro
+,235,26/04/2023,Esquerdo,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro
+,235,11/08/2023,Direito,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro
+,235,11/08/2023,Esquerdo,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro
+,235,20/03/2024,Direito,2g,4g,4g,4g,300g,4g,10g,300g,4g,2g
+,235,20/03/2024,Esquerdo,2g,4g,4g,4g,4g,2g,2g,10g,2g,2g
+,236,19/01/2024,Direito,300g,>300g,300g,300g,>300g,>300g,>300g,>300g,>300g,300g
+,236,19/01/2024,Esquerdo,>300g,>300g,300g,300g,>300g,>300g,>300g,>300g,>300g,>300g
+,236,10/02/2024,Direito,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,236,10/02/2024,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,237,19/03/2021,Direito,Sem registro,Sem registro,Sem registro,Sem registro,2g,2g,2g,2g,0.2g,Sem registro
+,237,19/03/2021,Esquerdo,Sem registro,10g,4g,4g,10g,Sem registro,4g,2g,10g,4g
+,237,16/12/2022,Direito,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,>300g,>300g,>300g,Sem registro
+,237,16/12/2022,Esquerdo,>300g,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,>300g,>300g,>300g,>300g
+,237,14/06/2023,Direito,>300g,300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,237,14/06/2023,Esquerdo,>300g,300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,238,13/03/2019,Direito,0.07g,2g,0.2g,0.07g,2g,2g,0.2g,2g,0.2g,2g
+,238,13/03/2019,Esquerdo,2g,10g,4g,4g,10g,0.2g,4g,2g,4g,4g
+,238,16/08/2019,Direito,2g,300g,4g,0.07g,10g,4g,10g,10g,2g,0.2g
+,238,16/08/2019,Esquerdo,2g,4g,2g,300g,300g,0.2g,300g,2g,300g,4g
+,238,22/01/2020,Direito,300g,300g,10g,2g,300g,2g,10g,300g,0.2g,10g
+,238,22/01/2020,Esquerdo,4g,300g,300g,300g,300g,300g,300g,2g,10g,4g
+,239,12/07/2019,Direito,4g,2g,0.07g,0.2g,4g,4g,0.07g,0.2g,0.2g,0.2g
+,239,12/07/2019,Esquerdo,0.2g,0.2g,0.2g,0.2g,2g,0.2g,2g,2g,0.2g,2g
+,239,29/11/2019,Direito,4g,2g,2g,2g,>300g,4g,2g,2g,0.07g,2g
+,239,29/11/2019,Esquerdo,10g,10g,2g,2g,10g,0.2g,10g,2g,2g,0.07g
+,239,29/10/2021,Direito,>300g,2g,>300g,>300g,>300g,2g,10g,>300g,>300g,300g
+,239,29/10/2021,Esquerdo,300g,>300g,2g,10g,>300g,2g,4g,2g,2g,2g
+,239,18/02/2022,Direito,>300g,300g,2g,10g,>300g,4g,>300g,300g,>300g,10g
+,239,18/02/2022,Esquerdo,2g,2g,0.2g,2g,2g,2g,2g,2g,2g,2g
+,240,19/07/2023,Direito,>300g,>300g,>300g,10g,>300g,>300g,>300g,4g,2g,>300g
+,240,19/07/2023,Esquerdo,2g,10g,2g,2g,2g,2g,10g,2g,2g,2g
+,241,26/10/2022,Direito,10g,10g,300g,300g,>300g,>300g,>300g,300g,300g,300g
+,241,26/10/2022,Esquerdo,300g,300g,300g,300g,>300g,300g,>300g,300g,300g,300g
+,241,25/08/2023,Direito,300g,300g,10g,300g,300g,300g,300g,300g,300g,10g
+,241,25/08/2023,Esquerdo,10g,10g,10g,10g,300g,10g,4g,300g,300g,300g
+,241,27/11/2024,Direito,300g,300g,300g,300g,300g,300g,300g,300g,300g,300g
+,241,27/11/2024,Esquerdo,300g,300g,300g,300g,>300g,>300g,>300g,300g,300g,300g
+,241,14/02/2025,Direito,>300g,>300g,300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,241,14/02/2025,Esquerdo,>300g,300g,10g,10g,>300g,10g,300g,300g,10g,300g
+,242,13/12/2023,Direito,300g,2g,>300g,>300g,>300g,2g,>300g,>300g,>300g,4g
+,242,13/12/2023,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,242,19/04/2024,Direito,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,242,19/04/2024,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,242,24/07/2024,Direito,2g,300g,>300g,>300g,>300g,2g,>300g,>300g,>300g,>300g
+,242,24/07/2024,Esquerdo,>300g,>300g,>300g,>300g,>300g,4g,>300g,300g,>300g,>300g
+,243,02/12/2022,Direito,0.2g,0.2g,0.2g,0.2g,2g,0.2g,0.2g,0.2g,0.2g,0.07g
+,243,02/12/2022,Esquerdo,0.2g,0.07g,2g,0.2g,0.2g,0.2g,0.2g,2g,2g,0.2g
+,243,27/11/2024,Direito,0.07g,2g,0.2g,2g,2g,0.07g,2g,0.2g,0.2g,0.2g
+,243,27/11/2024,Esquerdo,2g,2g,2g,0.2g,2g,2g,2g,2g,2g,0.2g
+,244,22/02/2019,Direito,>300g,>300g,10g,300g,300g,>300g,300g,300g,300g,300g
+,244,22/02/2019,Esquerdo,>300g,>300g,>300g,300g,>300g,>300g,>300g,>300g,>300g,>300g
+,244,07/08/2019,Direito,300g,>300g,300g,>300g,300g,>300g,>300g,300g,300g,300g
+,244,07/08/2019,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,244,11/03/2020,Direito,300g,300g,300g,300g,300g,300g,300g,300g,300g,300g
+,244,11/03/2020,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,245,14/04/2021,Direito,>300g,>300g,>300g,>300g,>300g,300g,300g,>300g,>300g,>300g
+,245,14/04/2021,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,300g,>300g,>300g,300g
+,245,30/07/2021,Direito,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,245,30/07/2021,Esquerdo,300g,>300g,>300g,>300g,300g,300g,>300g,>300g,>300g,>300g
+,246,05/07/2023,Direito,300g,>300g,>300g,>300g,300g,300g,10g,10g,10g,>300g
+,246,05/07/2023,Esquerdo,300g,300g,>300g,300g,300g,300g,300g,>300g,10g,>300g
+,247,09/02/2024,Direito,0.2g,10g,2g,2g,10g,2g,2g,4g,2g,2g
+,247,09/02/2024,Esquerdo,0.2g,4g,2g,2g,10g,2g,2g,2g,2g,2g
+,248,14/10/2022,Direito,0.2g,4g,2g,0.2g,2g,2g,2g,2g,2g,0.2g
+,248,14/10/2022,Esquerdo,0.07g,10g,2g,2g,4g,2g,2g,4g,2g,2g
+,248,18/11/2022,Direito,0.07g,4g,2g,2g,0.07g,0.07g,2g,2g,2g,2g
+,248,18/11/2022,Esquerdo,2g,10g,2g,2g,4g,0.07g,2g,2g,2g,2g
+,248,08/02/2023,Direito,0.2g,10g,2g,2g,2g,2g,2g,2g,0.2g,0.2g
+,248,08/02/2023,Esquerdo,0.2g,2g,2g,2g,0.2g,0.2g,0.2g,2g,0.2g,2g
+,248,06/09/2023,Direito,0.2g,4g,2g,2g,2g,0.2g,2g,2g,2g,2g
+,248,06/09/2023,Esquerdo,0.2g,0.2g,2g,2g,2g,0.2g,2g,2g,2g,2g
+,249,03/10/2018,Direito,Sem registro,300g,300g,300g,300g,300g,300g,300g,300g,300g
+,249,03/10/2018,Esquerdo,Sem registro,300g,300g,300g,>300g,300g,300g,300g,300g,300g
+,249,20/11/2019,Direito,300g,300g,300g,300g,>300g,>300g,>300g,300g,>300g,>300g
+,249,20/11/2019,Esquerdo,>300g,>300g,300g,>300g,>300g,>300g,>300g,>300g,300g,300g
+,250,20/07/2018,Direito,300g,300g,300g,300g,300g,300g,300g,300g,300g,300g
+,250,20/07/2018,Esquerdo,10g,300g,300g,300g,>300g,300g,300g,300g,300g,300g
+,251,05/07/2017,Direito,2g,0.2g,2g,2g,10g,0.2g,2g,2g,2g,2g
+,251,05/07/2017,Esquerdo,0.2g,2g,2g,0.2g,0.2g,0.2g,2g,2g,2g,2g
+,251,25/10/2017,Direito,4g,300g,10g,4g,300g,4g,300g,300g,300g,300g
+,251,25/10/2017,Esquerdo,300g,300g,300g,300g,300g,300g,300g,300g,300g,300g
+,251,23/03/2018,Direito,300g,10g,10g,10g,300g,300g,300g,300g,300g,300g
+,251,23/03/2018,Esquerdo,300g,300g,300g,300g,300g,300g,300g,300g,300g,300g
+,252,13/04/2022,Direito,Sem registro,300g,>300g,300g,>300g,>300g,>300g,>300g,>300g,300g
+,252,13/04/2022,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,300g
+,253,17/04/2024,Direito,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,253,17/04/2024,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,253,26/07/2024,Direito,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,253,26/07/2024,Esquerdo,>300g,>300g,>300g,>300g,>300g,10g,>300g,>300g,>300g,300g
+,253,22/11/2024,Direito,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro
+,253,22/11/2024,Esquerdo,>300g,Sem registro,Sem registro,Sem registro,Sem registro,300g,300g,Sem registro,Sem registro,Sem registro
+,254,19/07/2024,Direito,2g,2g,0.2g,0.2g,10g,0.2g,2g,4g,0.2g,4g
+,254,19/07/2024,Esquerdo,2g,2g,0.2g,0.2g,10g,2g,2g,2g,2g,2g
+,255,29/09/2023,Direito,2g,>300g,>300g,>300g,>300g,>300g,300g,>300g,4g,>300g
+,255,29/09/2023,Esquerdo,>300g,>300g,>300g,>300g,>300g,300g,>300g,>300g,>300g,>300g
+,256,25/10/2023,Direito,2g,2g,10g,0.2g,10g,0.2g,2g,0.2g,0.2g,0.2g
+,256,25/10/2023,Esquerdo,2g,2g,2g,2g,10g,4g,10g,10g,2g,2g
+,256,23/02/2024,Direito,2g,0.2g,10g,2g,10g,2g,4g,2g,2g,2g
+,256,23/02/2024,Esquerdo,0.2g,10g,2g,4g,4g,2g,2g,4g,4g,2g
+,256,28/06/2024,Direito,2g,2g,4g,4g,4g,4g,4g,2g,4g,4g
+,256,28/06/2024,Esquerdo,2g,2g,4g,4g,4g,4g,4g,4g,10g,4g
+,256,13/12/2024,Direito,2g,2g,0.2g,2g,10g,0.2g,4g,4g,0.2g,4g
+,256,13/12/2024,Esquerdo,Sem registro,2g,4g,Sem registro,300g,0.2g,2g,Sem registro,Sem registro,Sem registro
+,257,26/03/2021,Direito,2g,4g,4g,2g,10g,4g,2g,4g,4g,4g
+,257,26/03/2021,Esquerdo,Sem registro,4g,2g,4g,2g,4g,4g,10g,2g,4g
+,258,23/03/2022,Direito,10g,300g,>300g,>300g,300g,300g,300g,>300g,>300g,>300g
+,258,23/03/2022,Esquerdo,300g,300g,300g,10g,300g,300g,>300g,300g,10g,>300g
+,259,20/07/2022,Direito,2g,2g,2g,2g,300g,4g,4g,10g,10g,4g
+,259,20/07/2022,Esquerdo,2g,4g,2g,10g,300g,4g,10g,2g,2g,2g
+,259,04/09/2024,Direito,2g,2g,0.2g,0.2g,10g,2g,2g,2g,2g,0.2g
+,259,04/09/2024,Esquerdo,0.2g,4g,0.2g,0.2g,10g,0.2g,4g,0.2g,4g,2g
+,260,13/07/2022,Direito,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,260,13/07/2022,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,>300g,300g,>300g,>300g
+,261,26//10/2022,Direito,2g,2g,2g,2g,10g,10g,10g,2g,4g,2g
+,261,26//10/2022,Esquerdo,2g,2g,2g,2g,300g,10g,4g,4g,4g,2g
+,261,25/08/2023,Direito,0.07g,4g,0.07g,2g,300g,2g,10g,0.2g,0.07g,10g
+,261,25/08/2023,Esquerdo,0.2g,2g,0.07g,2g,300g,0.07g,2g,2g,0.2g,0.2g
+,262,21/02/2025,Direito,300g,300g,300g,300g,300g,300g,300g,>300g,300g,300g
+,262,21/02/2025,Esquerdo,300g,10g,300g,300g,>300g,300g,300g,300g,300g,300g
+,263,12/11/2021,Direito,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g
+,263,12/11/2021,Esquerdo,0.07g,0.07g,0.07g,0.07g,0.2g,0.07g,0.07g,0.07g,0.07g,0.07g
+,263,11/02/2022,Direito,0.2g,0.2g,0.2g,0.2g,2g,0.2g,0.07g,0.2g,0.2g,0.2g
+,263,11/02/2022,Esquerdo,0.07g,0.07g,0.07g,0.07g,2g,0.07g,0.07g,0.07g,0.07g,0.07g
+,263,25/03/2022,Direito,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g
+,263,25/03/2022,Esquerdo,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g
+,264,02/07/2021,Direito,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,264,02/07/2021,Esquerdo,>300g,>300g,>300g,>300g,300g,>300g,300g,>300g,>300g,>300g
+,264,04/02/2022,Direito,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,264,04/02/2022,Esquerdo,>300g,300g,300g,>300g,>300g,300g,300g,>300g,>300g,>300g
+,264,27/01/2023,Direito,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,264,27/01/2023,Esquerdo,>300g,300g,300g,>300g,>300g,300g,300g,>300g,>300g,>300g
+,265,03/05/2024,Direito,>300g,>300g,>300g,>300g,300g,>300g,>300g,300g,>300g,">300g, Lesões traumáticas"
+,265,03/05/2024,Esquerdo,>300g,>300g,>300g,>300g,">300g, Lesões traumáticas",>300g,>300g,>300g,>300g,">300g, Lesões traumáticas"
+,266,10/04/2024,Direito,300g,300g,4g,2g,300g,10g,4g,10g,>300g,>300g
+,266,10/04/2024,Esquerdo,4g,>300g,>300g,>300g,10g,300g,>300g,>300g,>300g,>300g
+,267,02/10/2024,Direito,>300g,300g,300g,4g,4g,4g,4g,10g,>300g,300g
+,267,02/10/2024,Esquerdo,0.07g,2g,2g,2g,300g,0.2g,2g,2g,4g,2g
+,268,31/10/2024,Direito,0.2g,0.07g,2g,0.2g,2g,0.2g,2g,2g,2g,2g
+,268,31/10/2024,Esquerdo,0.2g,2g,0.2g,0.2g,2g,2g,0.2g,0.2g,2g,2g
+,268,14/02/2025,Direito,0.2g,0.07g,0.2g,0.2g,2g,2g,2g,0.2g,0.2g,0.2g
+,268,14/02/2025,Esquerdo,0.2g,2g,0.2g,2g,2g,2g,2g,2g,2g,2g
+,269,02/08/2019,Direito,10g,300g,0.07g,4g,4g,2g,4g,4g,10g,300g
+,269,02/08/2019,Esquerdo,10g,0.2g,0.2g,0.2g,4g,4g,4g,10g,10g,10g
+,269,27/11/2019,Direito,Sem registro,2g,2g,2g,10g,10g,10g,2g,10g,300g
+,269,27/11/2019,Esquerdo,>300g,>300g,10g,4g,300g,4g,4g,4g,300g,300g
+,269,01/11/2023,Direito,2g,>300g,300g,10g,300g,2g,4g,300g,300g,300g
+,269,01/11/2023,Esquerdo,>300g,300g,2g,10g,300g,2g,300g,300g,2g,300g
+,270,02/08/2024,Direito,>300g,>300g,300g,300g,>300g,>300g,>300g,>300g,300g,300g
+,270,02/08/2024,Esquerdo,>300g,>300g,>300g,>300g,>300g,10g,>300g,>300g,>300g,>300g
+,271,04/10/2024,Direito,0.07g,0.07g,0.07g,0.07g,0.2g,0.2g,0.2g,0.2g,0.2g,0.2g
+,271,04/10/2024,Esquerdo,0.07g,0.2g,0.2g,0.2g,2g,2g,2g,2g,2g,2g
+,272,24/01/2020,Direito,4g,4g,0.07g,4g,2g,4g,2g,4g,300g,0.07g
+,272,24/01/2020,Esquerdo,0.07g,Sem registro,0.07g,0.07g,Sem registro,0.07g,Sem registro,Sem registro,Sem registro,Sem registro
+,272,28/02/2020,Direito,10g,4g,4g,4g,2g,2g,4g,10g,10g,4g
+,272,28/02/2020,Esquerdo,0.07g,0.07g,0.07g,0.07g,2g,0.2g,0.2g,0.2g,0.2g,0.2g
+,272,07/02/2024,Direito,4g,4g,0.07g,0.2g,4g,4g,0.2g,4g,4g,0.07g
+,272,07/02/2024,Esquerdo,2g,0.07g,0.07g,0.2g,4g,0.2g,0.2g,2g,4g,0.2g
+,273,04/10/2023,Direito,0.07g,0.07g,0.07g,0.07g,2g,0.2g,2g,0.07g,0.07g,0.2g
+,273,04/10/2023,Esquerdo,0.07g,0.07g,0.07g,0.07g,2g,0.2g,2g,0.2g,0.2g,0.2g
+,273,09/02/2024,Direito,0.07g,0.07g,0.07g,0.07g,4g,2g,2g,0.07g,2g,2g
+,273,09/02/2024,Esquerdo,0.07g,0.07g,0.07g,0.07g,2g,0.2g,0.2g,0.07g,0.07g,0.07g
+,273,07/06/2024,Direito,0.07g,0.07g,0.07g,0.07g,10g,0.2g,2g,0.07g,0.07g,0.2g
+,273,07/06/2024,Esquerdo,0.07g,0.07g,0.07g,0.07g,4g,0.2g,2g,0.2g,2g,2g
+,273,06/11/2024,Direito,0.07g,0.07g,0.07g,0.07g,2g,0.2g,0.07g,0.2g,0.2g,0.2g
+,273,06/11/2024,Esquerdo,0.07g,0.2g,0.2g,0.2g,10g,0.2g,2g,0.2g,0.2g,0.2g
+,274,23/12/2020,Direito,0.07g,0.07g,0.2g,0.2g,4g,0.2g,0.2g,2g,2g,0.2g
+,274,23/12/2020,Esquerdo,0.07g,0.2g,0.07g,0.07g,2g,2g,2g,4g,0.2g,0.07g
+,274,15/06/2022,Direito,0.07g,0.07g,0.07g,0.07g,0.2g,0.2g,0.2g,2g,0.07g,0.2g
+,274,15/06/2022,Esquerdo,0.07g,0.07g,0.07g,0.07g,0.2g,0.2g,0.2g,0.2g,0.07g,0.2g
+,274,23/11/2022,Direito,0.07g,0.07g,0.07g,0.07g,0.2g,2g,2g,0.07g,0.07g,0.07g
+,274,23/11/2022,Esquerdo,0.07g,0.07g,0.07g,0.07g,2g,0.07g,0.07g,0.07g,0.07g,0.07g
+,275,14/06/2023,Direito,2g,2g,2g,2g,10g,2g,2g,2g,4g,4g
+,275,14/06/2023,Esquerdo,2g,2g,0.2g,2g,10g,2g,4g,2g,4g,2g
+,275,02/08/2023,Direito,0.2g,2g,0.2g,2g,10g,4g,2g,0.2g,2g,0.2g
+,275,02/08/2023,Esquerdo,0.2g,2g,0.2g,0.2g,300g,10g,4g,4g,0.2g,4g
+,275,10/11/2023,Direito,2g,2g,2g,2g,300g,4g,10g,4g,0.2g,4g
+,275,10/11/2023,Esquerdo,0.2g,2g,2g,2g,300g,10g,300g,2g,4g,2g
+,275,12/07/2024,Direito,2g,0.2g,0.2g,0.2g,2g,2g,2g,0.2g,2g,2g
+,275,12/07/2024,Esquerdo,0.2g,2g,0.2g,0.2g,10g,2g,4g,2g,2g,2g
+,276,03/03/2023,Direito,0.2g,2g,2g,4g,4g,2g,2g,0.2g,2g,2g
+,276,03/03/2023,Esquerdo,0.2g,2g,2g,2g,2g,0.2g,0.2g,0.2g,2g,0.2g
+,276,21/02/2024,Direito,>300g,4g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,276,21/02/2024,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,276,12/07/2024,Direito,>300g,>300g,>300g,>300g,>300g,>300g,>300g,300g,>300g,>300g
+,276,12/07/2024,Esquerdo,>300g,>300g,>300g,300g,>300g,>300g,>300g,>300g,>300g,>300g
+,277,23/10/2024,Direito,0.2g,2g,2g,0.2g,2g,0.2g,0.2g,2g,0.2g,0.2g
+,277,23/10/2024,Esquerdo,0.07g,0.2g,2g,0.2g,2g,0.2g,2g,2g,0.2g,2g
+,278,31/07/2024,Direito,4g,4g,2g,2g,4g,4g,4g,2g,4g,2g
+,278,31/07/2024,Esquerdo,4g,10g,4g,10g,300g,10g,10g,4g,10g,10g
+,279,10/05/2024,Direito,>300g,>300g,>300g,>300g,">300g, Lesões tróficas",>300g,>300g,>300g,>300g,>300g
+,279,10/05/2024,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,280,27/05/2022,Direito,>300g,>300g,>300g,2g,10g,10g,2g,10g,>300g,>300g
+,280,27/05/2022,Esquerdo,2g,>300g,2g,2g,10g,4g,2g,2g,4g,10g
+,280,06/10/2023,Direito,300g,>300g,300g,10g,2g,10g,2g,4g,10g,300g
+,280,06/10/2023,Esquerdo,2g,2g,2g,2g,4g,4g,2g,2g,2g,4g
+,281,04/01/2023,Direito,2g,4g,2g,10g,10g,4g,2g,2g,4g,10g
+,281,04/01/2023,Esquerdo,>300g,10g,2g,2g,10g,2g,4g,2g,10g,10g
+,282,10/05/2024,Direito,0.07g,2g,0.2g,2g,2g,2g,2g,2g,2g,0.2g
+,282,10/05/2024,Esquerdo,2g,4g,2g,2g,2g,2g,2g,2g,2g,0.2g
+,283,23/09/2022,Direito,4g,4g,2g,2g,300g,4g,10g,2g,2g,2g
+,283,23/09/2022,Esquerdo,2g,4g,4g,10g,300g,10g,10g,10g,10g,10g
+,284,06/12/2023,Direito,300g,300g,300g,300g,10g,300g,300g,300g,300g,300g
+,284,06/12/2023,Esquerdo,300g,300g,300g,300g,300g,>300g,300g,300g,300g,300g
+,284,07/02/2024,Direito,>300g,>300g,>300g,>300g,300g,300g,300g,300g,300g,300g
+,284,07/02/2024,Esquerdo,300g,300g,300g,300g,>300g,>300g,300g,300g,300g,300g
+,284,24/04/2024,Direito,300g,>300g,300g,300g,>300g,300g,>300g,>300g,>300g,>300g
+,284,24/04/2024,Esquerdo,>300g,>300g,>300g,>300g,>300g,>300g,300g,>300g,>300g,>300g
+,284,16/08/2024,Direito,>300g,300g,300g,300g,>300g,300g,>300g,>300g,>300g,>300g
+,284,16/08/2024,Esquerdo,>300g,>300g,>300g,300g,>300g,>300g,>300g,>300g,>300g,>300g
+,285,18/09/2019,Direito,0.2g,2g,0.07g,2g,0.2g,0.2g,2g,2g,2g,2g
+,285,18/09/2019,Esquerdo,0.2g,2g,0.2g,2g,2g,2g,2g,2g,2g,0.2g
+,285,07/02/2020,Direito,0.07g,0.07g,0.07g,0.07g,0.2g,0.2g,0.2g,0.2g,0.07g,0.2g
+,285,07/02/2020,Esquerdo,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g,0.07g
+,286,09/07/2021,Direito,>300g,>300g,>300g,>300g,>300g,300g,10g,>300g,>300g,>300g
+,286,09/07/2021,Esquerdo,>300g,300g,>300g,>300g,>300g,10g,>300g,>300g,>300g,>300g
+,286,01/07/2022,Direito,Sem registro,2g,2g,2g,300g,2g,2g,4g,2g,10g
+,286,01/07/2022,Esquerdo,Sem registro,4g,4g,2g,300g,2g,10g,10g,2g,10g
+,286,09/09/2022,Direito,0.2g,4g,2g,4g,10g,4g,2g,10g,4g,10g
+,286,09/09/2022,Esquerdo,10g,4g,2g,4g,300g,2g,2g,4g,2g,4g
+,287,07/12/2022,Direito,0.2g,4g,2g,4g,10g,2g,0.2g,10g,4g,2g
+,287,07/12/2022,Esquerdo,0.2g,0.2g,0.2g,0.2g,2g,2g,2g,10g,0.2g,0.2g
+,288,25/01/2017,Direito,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro
+,288,25/01/2017,Esquerdo,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro
+,288,12/02/2020,Direito,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g,>300g
+,288,12/02/2020,Esquerdo,>300g,300g,300g,300g,>300g,>300g,>300g,>300g,>300g,>300g

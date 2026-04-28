@@ -1,0 +1,303 @@
+id_paciente,id_ficha,ocupacao,municipio,uf,classificacao_operacional,patologias_associadas,medicacao,data_inicio_tratamento,data_termino_tratamento,observacoes
+1,1,Agricultor,Trindade,PE,MB,"HAS, Asma","Losartana, Hidroclorotiazida, Prednisona",2021,2022,"1° Tratamento 2020/2021, 2° Tratamento 2021/2022"
+2,2,Estofador,Jaboatão dos Guararapes ,PE,MB,Sem registro,Sem registro,01/2023,Sem registro,1º Tratamento no município
+3,3,Estudante ,Amaraji,PE,MB,Sem registro,Sem registro,Sem registro,Sem registro,1º Tratamento: 2024
+4,4,Aposentada- Advogada/Professora ,Paulista,PE,MB,HAS,"Press plus, Spasmex",2022,2023,
+5,5,Aposentado -  Encanador ,Recife,PE,MB,HAS,PQT,11/2022,2023,
+6,6,Shaipe,Jaboatão Dos Guararapes ,PE,MB,Sem registro,Pregabalina,Sem registro,Sem registro,"1° Tratamento 2013, 2° Tratamento 2019"
+6,7,Shaipe,Jaboatão Dos Guararapes ,PE,MB,Sem registro,"Pregabalina, Prednisona",Sem registro,2019,
+6,8,Shaipe,Jaboatão Dos Guararapes ,PE,MB,Sem registro,"Prednisona, Pregabalina, Trometamol cetorolaco",15/07/2019,Sem registro,1º Tratamento: 15/07/2019
+7,9,Pintor ( Aposentado),Recife ,PE,Em investigação,Sem registro,"Enalapril, Hidroclorotiazida",Sem registro,Sem registro,Em investigação
+8,10,Agricultora ,Chã Grande,PE,MB,Sem registro,Sem registro,Sem registro,Sem registro,1º Tratamento há cerca de 20 anos
+9,11,Carpinteiro,Carnaíba,PE,MB,Sem registro,"Pregabalina, Zolpidem",Sem registro,Sem registro,"História de hanseníase há mais de 10 anos. 
+Múltiplos Tratamento, último 2012"
+10,12,Agricultora ,Passira,PE,MB,HAS,Losartana,2019,2020,Realizou 15 meses de tratamento 
+11,13,Doméstica ,Escada,PE,Sem registro,Fibromialgia,Sem registro,Sem registro,Sem registro,
+12,14,Do Lar ,Tracunhaém,PE,MB,"HAS, Diabetes",Sem registro,03/2021,03/2022,"1° Tratamento 2020, 2° Tratmento 2021/2022"
+13,15,Autônoma,Ipojuca,PE,MB,Sem registro,Sem registro,2020,Sem registro,1º Tratamento: 2020
+14,16,Agricultor ,Araripina,PE,MB,Sem registro,"Prednisona, Talidomida",Sem registro,Sem registro,"1° e 2° Tratamento: 24 doses
+Em investigação"
+15,17,Agricultor,Chã Grande,PE,MB,Diabetes,Metformina,2021,10/2022,"Diabetes tipo 2. 1° Tratametno: 02/2020 a 2021, 2° Tratamento: 2021 a 10/2022"
+15,18,Agricultor,Châ Grande,PE,MB,Diabetes,Metformina,19/02/2020,Sem registro,1 Tratamento: 19/02/2020
+16,19,Do Lar ,São Benedito do Sul ,PE,MB,HAS,Sem registro,Sem registro,Sem registro,"1° Tratamento: 2012, 2° Tratamento: 2015, 3° Tratamento: 2021"
+16,20,Do Lar ,São Benedito do Sul ,PE,MB,"HAS, Artrose",Sem registro,Sem registro,Sem registro,"1° Tratamento: 2012, 2° Tratamento: 2015, 3° Tratamento: 2021"
+17,21,Do Lar ,Jaboatão Dos Guararapes ,PE,MB,"Diabetes, Reação Hansenica (Eritema Nodoso)","Prednisona, Omeprazol, Gliclazida, Metformina",02/2024,02/2025,1° Tratamento 2023; 2º Tratamento 2024/2025. Glifage = metformina
+18,22,Lixador,Sirinhaém,PE,MB,Sem registro,PQT,Sem registro,Sem registro, 2° tratamento 2021
+19,23,Pintor ,São Lourenço da Mata,PE,MB,Sem registro,"PQT, Prednisona",10/2021,2022,"Múltiplos tratamentos 
+(2º Tratamento)"
+20,24,Do Lar ,São Lourenço da Mata,PE,PB/MB,Gastrite,PQT,2019,Sem registro,"Tratamento: 1° PB - 2 meses, 2° MB - 4 meses (2019)"
+21,25,Estudante ,Recife ,PE,MB,Sem registro,"Prednisona, Pregabalina",Sem registro,Sem registro,
+22,26,Serralheiro,São Lourenço da Mata,PE,MB,Sem registro,Prednisona,2019,2020,1° Tratamento 2019/2020
+23,27,Enfermeira,Camaragibe,PE,MB,Sem registro,Sem registro,Sem registro,Sem registro,
+24,28,Fisioterapeuta,Recife ,PE,MB,Sem registro,"Minociclina, Claritromicina, Rifampicina, Dozoito, Pamelor (cloridrato de nortriptilina)",08/2024,2025,
+25,29,Estudante ,Olinda,PE,PB,Sem registro,Sem registro,2022,Sem registro,Tratamento: 2022 (6 meses)
+25,30,Estudante ,Olinda,PE,PB,Sem registro,Sem registro,Sem registro,Sem registro,1º Tratamento: 2020; 2 Tratamento: 2021
+26,31,Motorista,Jaboatão Dos Guararapes ,PE,MB,Sem registro,Sem registro,2021,2022,1º Tratamento: 2021/2022
+27,32,Consultor de vendas ,Igarassu ,PE,MB,Sem registro,Sem registro,10/05/2024,Sem registro,1º Tratamento: 2024 (município)
+28,33,Agricultor,Águas Belas ,PE,MB,Sem registro,Sem registro,Sem registro,Sem registro,"1° Tratamento 2020 (município), 2° Tratamento 2021 (Hospital)"
+29,34,Estoquista,Passira,PE,MB,Sem registro,"PQT, Prednisona, Omeprazol",02/2024,2025,"1° Tratamento: hospital, 2° Tratamento: hospital"
+30,35,Serviços Gerais ,Ilha de Itamaracá,PE,MB,Sem registro,Amitriptilina,2023,Sem registro,Múltiplos Tratamentos 
+28,37,Agricultor,Águas Belas ,PE,MB,Sem registro,Prednisona,Sem registro,Sem registro,"1° Tratamento 2020 (municipio), 2° Tratamento 2021 (hospital)"
+31,38,Desempregado ,Recife ,PE,MB,"HAS, Diabetes",Sem registro,Sem registro,Sem registro,Realizou mútiplos Tratamento
+32,39,Aposentado ,Jaboatão Dos Guararapes ,PE,Em investigação,Sem registro,Sem registro,Sem registro,Sem registro,Em investigação
+33,40,Padeiro ,Jaboatão dos Guararapes ,PE,Em investigação,HAS,Losartana,Sem registro,Sem registro,Em investigação
+34,41,Pescador,Recife ,PE,MB,Sem registro,Sem registro,Sem registro,Sem registro,"1° Tratamento: 2018
+2023: em investigação"
+35,42,Agricultor,Orobó,PE,Em investigação,Sem registro,Sem registro,Sem registro,Sem registro,Em investigação
+36,43,Pedreiro,Jaboatão Dos Guararapes ,PE,MB,Sem registro,Sem registro,Sem registro,Sem registro,"Múltiplas sequelas em membros superiores e inferiores
+Não realiza autocuidado; Resistente ao processo avaliativo - impossibilidade de finalizar a avaliação"
+37,44,Frentista,Salgueiro,PE,MB,Sem registro,Cálcio,2020,2021,
+38,45,Estudante ,Belo Jardim,PE,MB,Sem registro,Sem registro,03/2022,2023,
+39,46,Pedreiro,Paulista,PE,MB,Sem registro,"Talidomida, Prednisona, AAS",12/2023,Sem registro,"1º Tratamento (2020), 2º Tratamento (2023), em investigação para resistência "
+40,47,Doméstica,Jaboatão Dos Guararapes ,PE,Em investigação,"Asma, Alergia","Clenil, Salbutamol",Sem registro,Sem registro,Em investigação
+40,48,Doméstica,Jaboatão Dos Guararapes ,PE,MB,"Asma, Diabetes, Alergia","Clenil, Metformina, Vitamina D",2022,2023,
+41,49,Serviços Gerais,Ilha de Itamaracá,PE,MB,Sem registro,Amitriptilina,Sem registro,2019,
+42,50,Fiscal Rodoviário,Moreno ,PE,MB,Sem registro,Sem registro,Sem registro,Sem registro,"1º Tratamento 2012, 2º Tratamento 2019"
+43,51,Estudante ,Olinda,PE,MB,Sem registro,PQT,07/2023,2024,1º Tratamento: hospital
+44,52,Agricultor,Quipapá,PE,MB,Sem registro,Sem registro,2023,2024,Mútiplos tratamentos (+3 SIC)
+44,53,Agricultor,Quipapá,PE,MB,Sem registro,Sem registro,Sem registro,Sem registro,Mútiplos tratamentos (+3 SIC)
+44,54,Agricultor,Quipapá,PE,MB,Sem registro,PQT,Sem registro,Sem registro,Mútiplos tratamentos (+3 SIC)
+44,55,Agricultor,Quipapá,PE,MB,Sem registro,Sem registro,Sem registro,Sem registro,Mútiplos tratamentos (+3 SIC)
+45,56,Serviços Gerais,Jaboatão dos Guararapes,PE,Em investigação,Sem registro,Amitriptilina,2023,2024,Em investigação
+46,57,Trabalhador Rural/Pedreiro,Moreno ,PE,MB,HAS,PQT,01/2023,12/2023,"1° Tratamento 2022 (Policlinica), 2° Tramento 2023 (Hospital)"
+47,58,Estoquista,Passira,PE,MB,Sem registro,"PQT, Prednisona, Omeprazol",fev./2023,2024,1º Tratamento: Hospital
+48,59,Empregada Doméstica ,Recife,PE,Em investigação,Sem registro,Prednisona,Sem registro,Sem registro,Em investigação
+49,60,Estudante ,Araripina,PE,MB,Sem registro,"Talidomida, Prednisona",Sem registro,Sem registro,"1º Tratamento 2020/2021, 2º Tratamento 2024"
+50,61,Lavador de Carro,Araripina,PE,MB,Diabetes,Metformina,junho 2022,Sem registro,
+51,62,Recepcionista,Escada,PE,MB,Sem registro,"Amitriptilina, Pregabalina, Omeprazol, Prednisona, Vitamina D, Cálcio, Metotrexato",10/2023,Sem registro,"1° Trtamento: 2018, 2° Tratamento: 2023"
+52,63,Marceneiro,Camaragibe,PE,MB,Sem registro,"PQT, Prednisona",18/11/2022,2023,
+53,64,Repositor,Pombos,PE,MB,Sem registro,Sem registro,Sem registro,Sem registro,1º Tratamento: 2022 (município)
+54,65,Aposentado,Salgueiro,PE,MB,Sem registro,Sem registro,Sem registro,Sem registro,Realizou 4 tratamentos irregulares
+55,66,Desempregada,Recife,PE,MB,Sem registro,PQT,2023,2024,"1º Tratamento (2021), 2º Tratamento (2022-2023 irregular), 3º Tratamento (2023-2024 irregular)"
+55,67,Do Lar,Recife,PE,MB,Sem registro,PQT,jan./2023,Sem registro,"1º Tratamento(15/12/2020), 2º Tratamento (2023- ínicio)"
+56,68,Estudante ,Jaboatão Dos Guararapes ,PE,PB,Sem registro,Sem registro,Sem registro,Sem registro,1º Tratamento - hospital
+57,69,Cortador de Cana,Chã de Alegria,PE,MB,Sem registro,"PQT, Prednisona, Talidomida, AAS, Cálcio, Vitamina D, Amitriptilina",08/2022,Sem registro,"1º Tratamento 2022, 2º Tratamento 2023"
+57,70,Cortador de Cana,Chã de Alegria,PE,MB,HAS,"PQT, Prednisona, Talidomida, AAS, Cálcio, Vitamina D, Amitriptilina",08/2022,2025,"1º Tratamento 2022, 2º Tratamento 2023, 3º Tratamento 2024"
+58,71,Aposentado,Recife,PE,MB,Sem registro,"Omeprazol, Prednisona",2022,2023,1º Tratamento 2022/2023
+59,72,Engenheiro Agrônomo,Araripina,PE,MB,Sem registro,"PQT, Talidomida, Claritromicina",2023,Sem registro,"1º Tratamento 2005/2006, 2º Tratamento 2018/2019, 3º Tratamento 2021/2022 4º Tratamento 2023"
+57,73,Cortador de Cana,Chã de Alegria,PE,MB,Sem registro,"PQT, Prednisona, Talidomida, AAS, Cálcio, Vitamina D, Amitriptilina",08/2022,2023,1º tratamento - Data de início PQT-U: agosto/2022 e data do término PQT-U: 2023
+60,74,Marceneiro,Ilha de Itamaracá,PE,MB,"HAS, Diabetes","Gliclazida, Forxiga, Metformina",Sem registro,Sem registro,1° Tratamento 2013
+61,75,Sem Atividade Remunerada,Recife,PE,MB,Sem registro,Sem registro,Sem registro,Sem registro,1º Tratamento HOF/MB
+61,76,Sem Atividade Remunerada,Recife,PE,MB,Artrose,PQT,2023,Sem registro,Realizou Múltiplos tratamentos 
+62,77,Aposentado,Gravatá,PE,MB,Sem registro,Sem registro,Sem registro,Sem registro,Múltiplos Tratamento (Último tratamento 2020)
+63,78,Do Lar,Vicência,PE,MB,Sem registro,PQT,abril 2024,Sem registro,Realizou Múltiplos tratamentos irregulares
+64,79,Comerciante,Recife,PE,MB,Sem registro,Sem registro,2022,Sem registro,1° Tratamento (Tratamento irregular) 
+65,80,Cuidadora De Idosos,Jaboatão Dos Guararapes ,PE,Em investigação,Sem registro,PQT,2023,2024,Em investigação
+66,81,Repositor,Bom Jardim,PE,MB,Sem registro,Sem registro,2020,2021,"1º Tratamento 2019/2020
+2ªTratamento 2020/2021"
+67,82,Carreteiro,Jaboatão Dos Guararapes,PE,MB,Sem registro,Prednisona,Sem registro,Sem registro,"1º Tratamento: 2021, 2ªTratamento: 10/2023"
+68,83,Técnico em Mecânica,Jaboatão Dos Guararapes,PE,MB,Diabetes,Sem registro,Sem registro,Sem registro,Em investigação
+69,84,Agricultora,Passira,PE,MB,Sem registro,Sem registro,08/01/2020,30/08/2021,
+70,85,Operador De Caixa,Jaboatão Dos Guararapes ,PE,MB,Sem registro,Sem registro,julho 2022,2023,Em investigação
+71,86,Eletricista,Jaboatão Dos Guararapes ,PE,MB,Anemia,Combiron Fólico,Sem registro,Sem registro,"Mútiplos Tratamento Irregulares
+SIC: tratamento em 2008"
+72,87,Estudante ,Jaboatão Dos Guararapes ,PE,MB,Asma,PQT,Sem registro,Sem registro,"1° Tratamento: Jardim Muribeca-PSF, 2° Tratamento: HOF"
+73,88,Serviços Gerais,Moreno ,PE,MB,Sem registro,PQT,Sem registro,Sem registro,Tratamento prolongado por mais 12 meses devido a irregularidade e alta baciloscopia inicial 
+74,89,Pedreiro,Serra Talhada,PE,MB,"HAS, Diabetes, Doença de Chagas","PQT, Losartana, Prednisona, Amitriptilina, Metformina",fev. 2022,2023,"1° Tratamento 2019/2020, 2° Tratamento 2022"
+75,90,Aposentada,Recife,PE,Em investigação,"HAS, Diabetes, Acidente Vascular Cerebral (AVC)","Losartana, Insulina, Metformina",Sem registro,Sem registro,Em investigação
+76,91,Agricultor,Chã Grande,PE,MB,Sem registro,"Gabapentina, Pregabalina, Talidomida, PQT (esquema alternativo)",janeiro 2023,2024,"1° Tratamento 2021/2022, 2° Tratamento, inicio Jan/2023"
+77,92,Professora,Recife,PE,MB,Sem registro,"Amitriptilina, Alprazolam",Sem registro,Sem registro,Realizou 2 Tratamentos/ Aguardando resultado Da Biópsia( Resistência)
+78,93,Aposentado,Jaboatão Dos Guararapes,PE,MB,"HAS, Doença Renal Crônica (DRC), Hepatopatia Crônica",PQT (esquema alternativo),2022,05/2023,
+78,94,Aposentado,Jaboatão Dos Guararapes,PE,MB,HAS,"PQT, Prednisona",Sem registro,Sem registro,1° Tratamento: HOF
+79,95,Serviços Gerais,São Lourenço da Mata,PE,MB,Sem registro,Sem registro,Sem registro,Sem registro,Paciente encaminhado do municipio com passado de tratamento para hanseniase durante 12 meses e TT em 01/2019
+80,96,Contrução Civil,Jaboatão Dos Guararapes,PE,MB,"HAS, Diabetes","Losartana, Metformina, AAS, Hidroclorotiazida",Sem registro,Sem registro,Tratamento irregular em 2017
+81,97,Aposentado ,Araripina,PE,MB,Sem registro,Sem registro,2019,2021,"1º Tratamento 2016, 2º Tratamento 2019 a 2021"
+82,98,Auxiliar Serviço Gerais,Jaboatão Dos Guararapes ,PE,MB,"Nódulo - Tireoíde, HAS, Diabetes, Dislipidemia , Colelitíase","Insulina, Metformina, Gliclazida, Losartana, Prednisona, AAS, Sinvastatina, Sulfato Ferroso",05/2022,2024,"1º-3º Tratamento: 2010 (SIC), 4º Tratamento: 2018, 5º Tratamento: NOV 2019- NOV 2020 ( Esquema Alternativo), 6º Tratamento: 2022"
+83,99,Agricultor (Aposentado),Glória De Goitá,PE,MB,HAS,"Enalapril, Talidomida",10/2022,2023,
+84,100,Porteiro,Jaboatão Dos Guararapes ,PE,MB,"HAS, Artrose, Acidente Vascular Cerebral (AVC), Hérnia de Disco, Escoliose, Labirintite",Sem registro,Sem registro,Sem registro,1º Tratamento 2009 ( SIC) 2º Tratamento: 26/07/2017
+85,101,Serviços Gerais,Igarassu,PE,MB,HAS,Sem registro,11/11/2020,Sem registro,1º Tratamento 11/11/2020
+86,102,Agricultor,Lagoa Dos Gatos,PE,MB,Sem registro,Sem registro,Sem registro,Sem registro,"1º Tratamento 2017, 2º Tratamento 2019"
+87,103,Gari,João Alfredo,PE,MB,Sem registro,Sem registro,2019,2020,"1º Tratamento 2017, 2º Tratamento 20018-2019, 3º Tratamento 2019-2020 ( Esquema Alternativo)"
+87,104,Gari,João Alfredo,PE,MB,Sem registro,Sem registro,2019,2020,"1º Tratamento 2017, 2º Tratamento 20018-2019, 3º Tratamento 2019-2020 ( Esquema Alternativo)"
+87,105,Gari,João Alfredo,PE,MB,Sem registro,Sem registro,2019,2020,"1º Tratamento 2017, 2º Tratamento 20018-2019, 3º Tratamento 2019-2020 ( Esquema Alternativo)"
+87,106,Gari,João Alfredo,PE,MB,Sem registro,Sem registro,2019,2020,"1º Tratamento 2017, 2º Tratamento 20018-2019, 3º Tratamento 2019-2020 ( Esquema Alternativo)"
+87,107,Gari,João Alfredo,PE,MB,Sem registro,Sem registro,2019,2020,"1º Tratamento 2017, 2º Tratamento 20018-2019, 3º Tratamento 2019-2020 ( Esquema Alternativo)"
+88,108,Trabalhador Rural,Jaqueira,PE,MB,Sem registro,Sem registro,04/2021,2022,"2º Tratamento
+Data alta PQT: abril/2022 (provável)"
+88,109,Trabalhador Rural,Jaqueira,PE,MB,Sem registro,"Gabapentina, Amitriptilina",Sem registro,Sem registro,1° Tratamento: 12/2019
+88,110,Trabalhador Rural,Jaqueira,PE,MB,Sem registro,"Prednisona, Gabapentina, Amitriptilina",07/2022,2023,"1º-3º Tratamento - HOF
+3°  Tratamento esquema alternativo"
+89,111,Pedreiro,Recife,PE,MB,Sem registro,Sem registro,Sem registro,Sem registro,1° Tratamento 2016
+90,112,Auxiliar de produção,Belo Jardim,PE,MB,Sem registro,Sem registro,2022,Sem registro,
+88,113,Trabalhador Rural,Jaqueira,PE,MB,Sem registro,"Prednisona, Gabapentina, Amitriptilina",07/2022,2023,"1º-3º Tratamento - HOF
+3°  Tratamento esquema alternativo"
+91,114,Aposentado,Jaboatão Dos Guararapes ,PE,MB,Sem registro,Sem registro,Sem registro,Sem registro,1° Tratamento no municipio
+92,115,Operador de máquinas ,Tabira,PE,MB,Sem registro,"PQT, Prednisona",09/06/2022,Sem registro,Retratamento- realizou tratamento irregular
+92,116,Operador de máquinas ,Tabira,PE,MB,Sem registro,Prednisona,2022,2023,1° Tratamento 2020-2021 (Irregular); 2° Tratamento 2022-2023
+93,117,Agricultor,Pombos,PE,MB,Sem registro,Sem registro,05/08/2022,2023,
+93,118,Agricultor,Pombos,PE,MB,Sem registro,Amitriptilina,05/08/2022,2023,
+94,119,Frentista,Olinda,PE,MB,Sem registro,Prednisona,01/2022,01/2023,1º Tratamento
+95,120,Dona de Casa ,Paulista,PE,MB,Sem registro,Sem registro,2017,2018,"1° Tratamento 2016-2017, 2° Tratamento 2017-2018"
+95,121,Dona de Casa ,Paulista,PE,MB,Sem registro,Sem registro,2017,2018,"1° Tratamento 2016-2017, 2° Tratamento 2017-2018"
+95,122,Dona de Casa ,Paulista,PE,MB,Sem registro,"PQT (esquema alternativo), Talidomida, Torsilax",agosto/2020,Sem registro,Multiplos tratamentos (3)
+96,123,Comerciante,Recife,PE,MB,Sem registro,Sem registro,08/2022,2023,
+97,124,Agricultora (Aposentada),Glória De Goitá,PE,MB,Sem registro,Sem registro,08/2022,2023,
+82,125,Auxiliar de Serviços gerais ,Jaboatão dos Guararapes,PE,MB,"HAS, Diabetes, Nódulo - Tireoíde, Dislipidemia, Colelitíase","Insulina, Metformina, Gliclazida, Losartana, Prednisona, Sinvastatina",11/2019,11/2020,"1° -3°Tratamento 2010, 4° Tratamento 2018-Nov/2019, 5° Tratamento Nov/2019-Nov/2020 (esquema alternativo)"
+82,126,Auxiliar de Serviços gerais ,Jaboatão dos Guararapes,PE,MB,"HAS, Diabetes, Dislipidemia, Nódulo - Tireoíde, Colelitíase","PQT, Insulina, Metformina, Losartana",11/2019,11/2020,"1° -3°Tratamento 2010, 4° Tratamento 2018-Nov/2019, 5° Tratamento Nov/2019-Nov/2020 (esquema alternativo)"
+98,127,Aposentado,Sem registro,PE,MB,"Câncer de pele, Escoliose",PQT,01/12/2021,Sem registro,1° Tratamento
+99,128,Carpinteiro (Aposentado),Jaboatão dos Guararapes,PE,MB,Sem registro,Pregabalina,2020,2021,
+100,129,Reciclagem,Recife,PE,MB,"Diabetes, HAS","Gliclazida, Metformina, Anlodipino",Sem registro,Sem registro,Diabetes tipo 2
+101,130,Cuidador De Idosos,Recife,PE,Em investigação,HAS,"Losartana, Pregabalina, Clonazepam, Quetiapina",Sem registro,Sem registro,Em investigação
+90,131,Auxiliar de produção,Belo Jardim,PE,MB,Sem registro,Sem registro,Sem registro,Sem registro,"1° Tratamento 2022-2023, 2° Tratamento 2024"
+102,132,Agricultor,Barra De Guabiraba  ,PE,MB,Sem registro,"Prednisona, Sinvastatina, Gabapentina, Omeprazol",09/2019,08/2020,"Múltiplos tratamentos
+1º 09/2018-08/2019; 2º 09/2019 - 08/2020 (esquema alternativo)"
+103,133,Aposentado,Recife,PE,MB,Sem registro,Varivax,Sem registro,Sem registro,
+104,134,Diarista,Recife,PE,MB,"Eczema (dermatite), Rinite",Sem registro,Sem registro,Sem registro,
+105,135,Pedreiro,Cumaru,PE,MB,"HAS, Diabetes, Depressão, Ansiedade","Amitriptilina, Losartana, Metformina, Ômega 3 , Hidroclorotiazida",Sem registro,Sem registro,"1° Tratamento 2018, 2° Tratamento 2019"
+106,136,Embalador/ em benefício desde 2012,Palmares,PE,MB,Erisipela,Sem registro,Sem registro,Sem registro,2° Tratamento
+107,137,Vendedora,Passira,PE,MB,"Anemia, Ansiedade","Amitriptilina, Escitalopram",Sem registro,Sem registro,Em investigação
+108,138,Ambulante,Glória De Goitá,PE,MB,Sem registro,PQT,01/2024,2025,"1° Tratamento 13/08/2015 a 13/07/2016, 2° Tratamento 11/04/2019 a 08/07/2020, 3° Tratamento jan/2024-2025"
+109,139,Agricultor,Buíque,PE,MB,Sem registro,Sem registro,Sem registro,Sem registro,
+110,140,Pedreiro,Jaboatão dos Guararapes,PE,MB,"Artrose, Erisipela, Trombose, Esplenomegalia","Prednisona, Amitriptilina",Sem registro,Sem registro,Reação mista (2022)
+110,141,Pedreiro,Jaboatão dos Guararapes,PE,MB,Sem registro,"Talidomida, AAS, Prednisona, Cálcio",Sem registro,Sem registro,Múltiplos tratamentos 
+105,142,Pedreiro,Cumarú,PE,PB/MB,"Diabetes, Depressão","Amitriptilina, Sinvastatina, Metformina",Sem registro,Sem registro,Realizou 2° tratamentos 
+111,143,Do Lar,Chã de Alegria,PE,MB,HAS,"Enalapril, Anlodipino",05/2023,2024,
+112,144,Auxiliar de cozinha,Moreno,PE,MB,"HAS, Diabetes",Metformina,Sem registro,2019,Diabetes Tipo 2 
+113,145,Do Lar,Itaquitinga,PE,MB,Sem registro,"PQT, Talidomida, Prednisona, Omeprazol, AAS, Vitamina D",06/2021,Sem registro,1° Tratamento
+114,146,Aposentado ,Água Fria,PE,MB,"HAS, Diabetes",Metformina,Sem registro,Sem registro,Histórico de +3 tratamentos (Insuficientes)
+115,147,Estudante ,Paulista,PE,MB,Asma,"Prednisona, Ofloxacino, PQT",03/2023,Sem registro,
+116,148,Operador ,Recife,PE,MB,Sem registro,Amitriptilina,Sem registro,Sem registro,
+116,149,Servente,Moreno,PE,MB,Sem registro,Sem registro,22/08/2019,Sem registro,
+117,150,Serviços Gerais,Moreno,PE,MB,Sem registro,Sem registro,14/08/2019,Sem registro,
+118,151,Vigilante,São Lourenço da Mata,PE,MB,Sem registro,Sem registro,11/2021,11/2022,
+119,152,Aposentado,Buenos Aires ,PE,MB,Sem registro,Duomo HP,Sem registro,11/2019,
+120,153,Agricultor (Aposentado),Tracunhaém,PE,MB,Efisema Pulmonar,Sem registro,2020,2021,Realizou 18 meses de tratamento
+121,154,Aposentado,Olinda,PE,MB,Sem registro,Sem registro,2016,2018,"1° Tratamento 2003, 2° e 3° tratamento 2014, 4° e 5° tratamento 2016-2018"
+121,289,Topógrafo,Olinda,PE,MB,Sem registro,Sem registro,Sem registro,Sem registro,Não informado
+122,155,Agricultora,Glória De Goitá,PE,MB,Sem registro,"PQT (esquema alternativo), Ofloxacino, Gabapentina, Amitriptilina, Rifampicina, Dapsona",06/05/2022,2023,"1° Tratamento 2016-2017, 2° Tratamento 2019-2020, 3° Tratamento 2022-2023"
+122,156,Agricultora,Glória De Goitá,PE,MB,Sem registro,Sem registro,9/2019,2020,"1° Tratamento 2016-2017, 2° Tratamento 2019-2020"
+122,157,Agricultora,Glória De Goitá,PE,MB,Sem registro,PQT,09/2019,Sem registro,"1° Tratamento 2016-2017, 2° Tratamento 2019"
+123,158,Serviços Gerais,Limoeiro,PE,MB,"Artrose, Fibromialgia, Arritimia cardíaca, Trombose, Artrite","Atenolol, Rivaroxabana, Prednisona, Pregabalina, Amitriptilina, Cálcio, Vitamina D, Fluoxetina, Vitamina C",Sem registro,Sem registro,Realizou múltiplos tratamentos (Tradicional e alternativo) 36 meses 
+124,159,Estudante ,Chã Grande ,PE,Sem registro,Sem registro,Sem registro,Sem registro,Sem registro,
+125,160,Aposentado ,Carpina ,PE,MB,"HAS, Diabetes","Losartana, Anlodipino, Metformina, Sinvastatina, Hidroclorotiazida",04/2024,Sem registro,
+126,161,Auxiliar técnico,Olinda,PE,MB,Sem registro,PQT,28/06/2024,2025,
+127,162,Sem Registro,Recife,PE,MB,Sem registro,Sem registro,Sem registro,Sem registro,
+128,163,Agente de Saúde ,Passira,PE,MB,Sem registro,Sem registro,Sem registro,Sem registro,
+129,164,Corretor de imóveis,Jaboatão dos Guararapes,PE,MB,Sem registro,Sem registro,Sem registro,Sem registro,Em investigação
+130,165,Do Lar ,Glória De Goitá,PE,MB,"HAS, Diabetes, Erisipela, Hérnia de Hiato","Pregabalina, Amitriptilina, Losartana, Glifage",07/2022,07/2023,
+131,166,Aposentada,Recife,PE,MB,Sem registro,"PQT, Glifage, Prednisona, Pregabalina",01/2025,2026,1° Tratamento 01/2025
+132,167,Aposentado,Jaboatão dos Guararapes,PE,MB,"Diabetes, HAS",Sem registro,Sem registro,Sem registro,Em investigação. 1° Tratamento 1995-1997
+133,168,Do Lar ,Jaboatão dos Guararapes,PE,MB,Sem registro,PQT,06/01/2025,2026,
+134,169,Motorista operacional,Serra Talhada,PE,MB,Sem registro,"Prednisona, Fluoxetina, Olanzapina",08/11/2024,2025,1° Tratamento 2020-2021
+135,170,Operador de empilhadeira ,Cabo de Santo Agostinho,PE,MB,Sem registro,Sem registro,Sem registro,Sem registro,Em investigação
+136,171,Sem registro,Lagoa do Carro ,PE,MB,Sem registro,Sem registro,Sem registro,Sem registro,
+137,172,Do Lar,Paulista,PE,MB,Fibromialgia,"Amitriptilina, Citalopram",Sem registro,Sem registro,Em investigação
+138,173,Do Lar,Jaboatão dos Guararapes,PE,MB,HAS,"Amitriptilina, Losartana, Sinvastatina",11/2023,Sem registro,
+139,174,Estudante,Belo Jardim,PE,MB,Úlcera Plantar,Sulfadiazina de Prata,Sem registro,Sem registro,Em investigação
+139,175,Estudante,Belo Jardim,PE,MB,Sem registro,Sem registro,Sem registro,Sem registro,
+140,176,Estudante,Belo Jardim,PE,MB,Sem registro,Sem registro,03/2022,2023,
+140,177,Estudante,Belo Jardim,PE,MB,Sem registro,PQT,09/2023,Sem registro,1 Tratamento: 2022
+141,178,Estudante,Belo Jardim,PE,MB,Sem registro,"Clindamicina, Sulfadiazina de Prata",Sem registro,Sem registro,Sinais inflamatórios no joelho esquerdo
+141,179,Estudante,Belo Jardim,PE,MB,Sem registro,PQT,06/2023,Sem registro,"1° Trtamento 04/2021-04/2022, 2° Tratamento 06/2022-2023, 3° Tratamento 06/2023"
+142,180,Doméstica,São Lourenço da Mata,PE,MB,Enxaqueca Crônica,"Prednisona, Omeprazol, Cálcio, Vitamina D",08/2022,Sem registro,
+142,181,Doméstica,São Lourenço da Mata,PE,MB,"Enxaqueca Crônica, Esporão de Calcâneo",Sem registro,08/2022,2023,"1° Tratamento 2022-2023, 2° Tratamento 2023-2024"
+141,182,Estudante,Belo Jardim,PE,MB,Osteomielite,Clindamicina,31/04/2021,Sem registro,Osteomelite secundário a hanseníase
+143,183,Técnico de enfermagem ,Passira,PE,MB,HAS,"Losartana, Donaren, Clonazepam, Pregabalina",01/2023,2024,"1° Tratamento 2019-2021, 2° Tratamento 2023-2024"
+144,184,Caseiro/pintor (Aposentado),Ilha de Itamaracá,PE,MB,Sem registro,Sem registro,2023,04/2024,
+145,185,Agricultora,Quipapá,PE,MB,"HAS, Depressão","Amitriptilina, Prednisona, Hidroclorotiazida, Losartana",28/02/2023,2024,"1° Tratamento 2022-2023, 2° Tratamento 2023-2024"
+146,186,Comerciante ,Bom Jardim ,PE,MB,"HAS, Gastrite, Ansiedade, Diabetes","Insulina, Pantoprazol, Alendronato de sódio, Dipirona, Sertralina, Limbitrol",2018,2019,
+147,187,Estudante,Riacho das Almas ,PE,Em investigação,Sem registro,Sem registro,Sem registro,Sem registro,Em investigação
+148,188,Psicóloga ,Recife,PE,MB,Diabetes,"Glifage, Rosuvastatina, Amitriptilina",08/2022,08/2023,
+149,189,Agente comunitário de saúde ,Passira,PE,MB,"HAS, Diabetes","PQT, Omeprazol, Sertralina, Paracetamol",Sem registro,Sem registro,
+150,190,Auxiliar de produção ,Jaboatão dos Guararapes,PE,MB,Gastrite,Omeprazol,12/2019,11/2020,
+151,191,Sem registro,Recife,PE,MB,Cardiopatia,"Atenolol, AAS, Cálcio, Hidroclorotiazida, Atorvastatina",2018,2019,1° tratamento 2018-2019
+151,192,Autônoma (Comércio),Recife,PE,MB,Sem registro,Sem registro,30/05/2018,Sem registro,
+152,193,Aposentada,Jaboatão dos Guararapes,PE,MB,Sem registro,PQT,27/05/2023,06/2023,Tratamento prorrogado por mais 12 meses
+153,194,Do Lar,Paudalho,PE,MB,Sem registro,Amitriptilina,2022,2023,
+153,195,Do Lar,Paudalho,PE,MB,Sem registro,Sem registro,01/2023,2024,
+154,196,Pedreiro,Recife ,PE,MB,Sem registro,Sem registro,03/05/2019,2020,
+145,197,Agricultora ,Quipapá,PE,MB,"HAS, Depressão","Hidroclorotiazida, Losartana",28/02/2022,2023,
+155,198,Do Lar,Jaboatão dos Guararapes,PE,Em investigação,HAS,"Losartana, Hidroclorotiazida",Sem registro,Sem registro,Em investigação
+156,199,Aposentada,Rio Formoso ,PE,Em investigação,"HAS, Diabetes","Losartana, Hidroclorotiazida",Sem registro,Sem registro,Em investigação
+157,200,Doméstica ,Moreno,PE,MB,"HAS, Diabetes","Glifage, Losartana, Hidroclorotiazida",2022,2023,"1° Tratamento: 2020-2021, 2° Tratamento: 2022"
+158,201,Auxiliar de enfermagem ,Cortês ,PE,MB,Sem registro,Sem registro,Sem registro,Sem registro,
+159,202,Agente Adminitrativa ,Custódia ,PE,Em investigação,Sem registro,Sem registro,Sem registro,Sem registro,Em investigação
+159,203,Agente Adminitrativa ,Custódia ,PE,Em investigação,Sem registro,Sem registro,Sem registro,Sem registro,Em investigação
+160,204,Doméstica ,Araripina ,PE,MB,Sem registro,PQT,16/09/2021,08/2022,múltiplos tratamentos irregulares
+161,205,Aposentada,Araripina ,PE,MB,"Reação Hansenica (Eritema Nodoso), Cirrose Hepática",Sem registro,2019,08/2022,
+162,206,Diarista ,Igarassu ,PE,MB,"Diabetes, HAS, Hipotireoidismo","Puran T4 (levotiroxina), Escitalopram, Alprazolam, Olmesartana, Anlodipino, Glifage, Indapamida",05/2023,2024,
+163,207,Agricultora ,Carpina ,PE,MB,"HAS, Diabetes","Losartana, Hidroclorotiazida, Metformina, Anlodipino, Sinvastatina, Jardiance, Prednisona, Albendazol, Ivermectina",Sem registro,Sem registro,Em investigação
+164,208,Do Lar,Igarassu ,PE,MB,"Diabetes, HAS, Erisipela, Trombose, Hipotireoidismo, Catarata, Glaucoma, Chikungunya","PQT (esquema alternativo), Talidomida, Metformina, Sinvastatina, Losartana, Hidroclorotiazida, AAS, Dipirona",06/2022,Sem registro,
+165,209,Agricultora ,Passira ,PE,MB,"Artrose, Artrite, Hérnia de Disco","Cálcio, Cloreto de magnésio, AAS, PQT",10/09/2021,09/2022,1 tratamento em 10/09/2021 - 09/2022
+165,210,Agricultora ,Passira ,PE,MB,"Artrose, Artrite, Hérnia de Disco","Cálcio, Cloreto de magnésio, AAS",10/09/2021,09/2022,
+165,211,Agricultora ,Passira ,PE,MB,"Artrose, Hérnia de Disco, Bursite","Cálcio, Cloreto de magnésio, AAS, Dipirona, Pregabalina, Paracetamol",2021,2022,
+166,212,Agricultora - benefício,Flores ,PE,MB,"HAS, Fibromialgia, Artrose, Bursite","Losartana, Hidroclorotiazida, Pregabalina, Prednisona, Duloxetina",Sem registro,Sem registro,"1 tratamento 2013-2014, 2 tratamento 2021-2022, 3 tratamento 2023"
+167,213,Do Lar,Jaboatão dos Guararapes,PE,MB,Sem registro,"Amitriptilina, Clonazepam",Sem registro,Sem registro,1 tratamento de 2 anos há mais de 30 anos
+168,214,Doméstica ,Gravatá ,PE,MB,HAS,"Losartana, Hidroclorotiazida",Sem registro,Sem registro,"1 tratamento gravatá/MB, 2 tratamento Gravatá/MB, 3 tratamento HOF [SIC]"
+168,215,Doméstica ,Gravatá ,PE,MB,HAS,"Prednisona, Sertralina, Alprazolam",2021,2022,"1 tratamento gravatá/MB: 2018, 2 tratamento Gravatá/MB Irregular: 2020, 3 tratamento HOF [SIC]: 2021-2022"
+169,216,Agente de Saúde ,Passira ,PE,MB,Sem registro,Sem registro,2021,2022,
+170,217,Agricultora ,Passira ,PE,MB,Dislipidemia,"Amitriptilina, Prednisona, Omeprazol, PQT",19/01/2023,2024,"1 Tratamento: 2022, 2 Tratamento: 19/01/2023"
+170,218,Agricultora ,Passira ,PE,MB,Dislipidemia,"Omeprazol, Prednisona, AAS, Talidomida, Vitamina D",Sem registro,Sem registro,"1 Tratamento: 2021/2022, 2 Tratamento: 2023"
+171,219,Agricultora ,Passira ,PE,MB,HAS,"Losartana, Pregabalina, Amitriptilina, Anlodipino",2021,2023,
+171,220,Agricultora ,Passira ,PE,MB,HAS,"Losartana, Anlodipino, Pregabalina, Amitriptilina",2021,08/2023,1 Tratamento: 2021-2023
+172,221,Aposentada,Caetés,PE,MB,"HAS, Diabetes, Tabagismo, Obesidade","Losartana, Insulina",Sem registro,Sem registro,"1 Tratamento: 2022 (6 meses), 2 Tratamento: 2023"
+173,222,Agente de Saúde ,Passira ,PE,MB,Sem registro,Sem registro,2019,2020,
+174,223,Estudante ,Sirinhaém,PE,PB,Sem registro,Sem registro,Sem registro,Sem registro,1 Tratamento: 2014. Em investigação
+175,224,Cuidadora de idosos+ Empregada doméstica ,Moreno,PE,MB,Sem registro,Sem registro,2019,2020,1 Tratamento: 2015; 2 Tratamento: 2018-2019; 3 Tratamento: 2019-2020
+175,225,Cuidadora de idosos+ Empregada doméstica ,Moreno,PE,MB,Sem registro,"Prednisona, PQT (esquema alternativo), Amitriptilina",2019,2020,1 Tratamento: 2015; 2 Tratamento: 2018-2019; 3 Tratamento: 2019-2020
+176,226,Funcionário público estadual (aposentado) ,Recife ,PE,MB,Sem registro,Sem registro,Sem registro,Sem registro,Tratamento: 09/2020 (18 meses)
+177,227,Policial Militar ,Venturosa ,PE,MB,Litíase,Amitriptilina,2019,2020,1 Tratamento: 2015-2016; 2 Tratamento: sem registro; 3 Tratamento: 2018-2019; 4 Tratamento: 2019-2020
+178,228,Caminhoneiro ,Pombos ,PE,Em investigação,HAS,"Prednisona, Ivermectina, Albendazol, Losartana, Hidroclorotiazida",Sem registro,Sem registro,Em investigação
+179,229,Eletriscista ,Lagoa dos Gatos ,PE,MB,Sem registro,Sem registro,Sem registro,Sem registro,
+143,230,Técnico de enfermagem ,Passira,PE,MB,Sem registro,Sem registro,Sem registro,Sem registro,1 Tratamento MB
+143,231,Técnico de enfermagem ,Passira,PE,MB,HAS,"Losartana, Donaren, Clonazepam, PQT",01/2023,2024,
+143,232,Técnico de enfermagem ,Passira ,PE,MB,Sem registro,"Losartana, Donaren, Clonazepam, Pregabalina",01/2023,2024,"1 Tratamento: 2019/2021, 2 Tratamento: 2023/2024"
+180,233,Aposentado,Jaboatão dos Guararapes,PE,MB,Hérnia inguinal,Mesilato de doxazosina,Sem registro,Sem registro,
+181,234,Carpinteiro( desvio de função guincheiro),Jaboatão dos Guararapes,PE,MB,Sem registro,Sem registro,Sem registro,Sem registro,Tratamento Realizado há mais de 20 anos
+182,235,Autônomo (construção civil),Recife,PE,MB,"Diabetes, Tuberculose","PQT (esquema alternativo), Pregabalina, Amitriptilina",05/2023,2024,"1 Tratamento: 2016 (incompleto), 2 Tratamento: 2019 (incompleto), 3 Tratamento: 2023-2024"
+183,236,Artesã,Custódia ,PE,MB,"HAS, Fibromialgia, Osteopenia","Gabapentina, Sertralina, Omeprazol, Clonazepam, Amitriptilina, Losartana, Vitamina D, Carbamazepina",2020,2021,"1º Tratamento: 2019/2020
+2º Tratamento (município): 2020/2021"
+183,237,Artesã,Custódia ,PE,MB,"HAS, Rinite, Diabetes","Pantoprazol, Gabapentina, Losartana, Amitriptilina, Sertralina, Clonazepam, Clenil, Salbutamol, Vitamina D, Furoato de mometasona (Nasonex)",2020,2021,"1º Tratamento: 2019/2020
+2º Tratamento (município): 2020/2021"
+183,238,Artesã,Custódia ,PE,MB,Fibromialgia,"Amitriptilina, Prednisona, Sertralina, Gabapentina, PQT",Sem registro,Sem registro,1 Tratamento: 13/03/2019
+184,239,Pedreiro,São Lourenço da Mata,PE,MB,Sem registro,"PQT, PQT (esquema alternativo)",Sem registro,Sem registro,"1 Tratamento: 2 meses com esquema normal + esquema alternativo, 2 Tratamento: esquema alternativo"
+184,240,Pedreiro,São Lourenço da Mata,PE,MB,Sem registro,Talidomida,Sem registro,Sem registro,2022 realizou 3 tratamentos prévios
+185,241,Do Lar,Passira ,PE,MB,"Diabetes, Artrose, Fibromialgia","Prednisona, Metformina, Glifage",2020,2022,
+186,242,Cozinheira ,Araripina ,PE,MB,"Fibromialgia, Artrose, Anemia","PQT, Ofloxacino",04/2024,2025,"1 Tratamento: 2023, 2 Tratamento: 2024"
+187,243,Do lar,São Vicente Ferrer,PE,MB,Hérnia de Disco,"Prednisona, Nimesulida",Agosto/2023,Sem registro,Em investigação
+188,244,Comerciante,Recife ,PE,MB,Sem registro,Sem registro,2019,2020,
+189,245,Costureira ,Recife,PE,MB,Bexiga neurogênica,"Pregabalina, Cálcio, Vitamina D, Paracetamol",2016,Sem registro,1º/2º Tratamento: 2016-2048 ? 
+189,246,Costureira ,Recife,PE,MB,Bexiga neurogênica,"Pregabalina, Cálcio, Vitamina D, Paracetamol",2016,2017,
+190,247,Agricultora,Pedra,PE,MB,Sem registro,Amitriptilina,08/2022,08/2023,"1 Tratamento: Arcoverde PB, 2 Tratamento: 2022-2023"
+190,248,Agricultora,Pedra,PE,MB,Sem registro,Amitriptilina,08/2022,Sem registro,
+179,249,Eletricista,Lagoa dos Gatos ,PE,MB,Sem registro,PQT,Sem registro,Sem registro,"1 Tratamento: 09/2017, 2 Tratamento: 01/2019"
+179,250,Agricultor,Lagoa dos Gatos ,PE,Sem registro,Sem registro,Sem registro,Sem registro,05/2018,
+179,251,Agricultor,Lagoa dos Gatos ,PE,MB,Sem registro,Sem registro,Sem registro,05/2018,
+179,252,Eletricista,Lagoa dos Gatos ,PE,MB,Hérnia de Disco,Sem registro,Sem registro,Sem registro,"1 Tratamento: 09/2017, 2 Tratamento: 01/2019"
+191,253,Agricultora (Aposentada),Vertentes,PE,MB,HAS,"PQT, Losartana, Hidroclorotiazida, Anlodipino, Prednisona, Talidomida",04/2024,2025,"1 Tratamento: 2021-2023 (24 doses), 2 Tratamento: 2024"
+192,254,Auxiliar de cozinha ,Recife,PE,MB,Sem registro,Sem registro,07/2024,Sem registro,
+193,255,Estudante ,Paulista,PE,MB,Sem registro,Sem registro,Sem registro,Sem registro,1 Tratamento: 2021
+194,256,Aposentado,Jaboatão dos Guararapes,PE,MB,Diabetes,"Alendronato de sódio, Gliclazida, Metformina, Sinvastatina",abril/2023,maio/2024,1 Tratamento: 2023
+195,257,Aposentado,Recife,PE,MB,HAS,Losartana,Sem registro,Sem registro,
+196,258,Contadora ,Sem registro,PE,Em investigação,Diabetes,Pregabalina,Sem registro,Sem registro,Em investigação
+197,259,Agricultora,Pedra,PE,MB,"HAS, Diabetes","Losartana, Hidroclorotiazida, Rosuvastatina, Pregabalina, Paracetamol",Sem registro,2018,
+198,260,Pintor (Afastado),Jaboatão dos Guarrarapes ,PE,MB,"Meningioma, Herpes zóster, Neuralgia","PQT, Pregabalina, Cloridrato de metadona, Amitriptilina, Omeprazol",06/07/2022,Sem registro,"Histórico de cirurgia de meningioma, herpes zoster e neuralgia do MSD"
+199,261,Médico ,Passira,PE,MB,"Diabetes, HAS","Losartana, Enalapril, Insulina",2022,2023,"1 Tratamento: 2019, 2 Tratamento: HOF-2020, 3 Tratamento: 2022-2023. Diabetes tipo 2"
+199,262,Médico ,Passira,PE,MB,"HAS, Diabetes","Losartana, Insulina, Enalapril",2022,2023,"1 Tratamento: 2019, 2 Tratamento: HOF-2020, 3 Tratamento: 2022-2023. Diabetes tipo 2"
+200,263,Estudante ,João Alfredo,PE,MB,Sem registro,PQT,17/09/2021,Sem registro,
+201,264,Agricultor ,Glória do Goitá,PE,MB,Diabetes,"Insulina, Prednisona, Talidomida, PQT, Ofloxacino, AAS",Dezembro/202,Sem registro,1 tto dez/2020
+202,265,Agricultor ,Araripina,PE,MB,Sem registro,Sem registro,Sem registro,Sem registro,1 tto 2019/2020 e 2 tto 2020/2021
+203,266,Digitador ,Recife ,PE,MB,Osteopenia,"Gabapentina, Vitamina D, Ácido fólico (Vit B9), Metotrexato",2018,2020,
+204,267,Motorista ,Condado,PE,MB,Sem registro,Sem registro,Sem registro,Sem registro,1 tto: 2023-2024-Mirueira; 2 tto-2024-HOF
+205,268,Artesã,Paulista,PE,MB,HAS,PQT,20/09/2024,2025,
+206,269,Pescador / Aposentado,Igarassu,PE,MB,HAS,Sem registro,Sem registro,Sem registro,1º Tratamento: 2019/2020; Paciente não lembra o nome das medicações que faz uso
+206,270,Aposentado,Igarassu,PE,MB,HAS,"Prednisona, Combodart, Atenolol",2024,Sem registro,1º Tratamento: 2019/2020; 2º Tratamento: 2024
+207,271,Estudante ,Recife ,PE,MB,Sem registro,"Prednisona, PQT",Julho/2024,2025,"1 tto julho-2023-2024 HOF, 2 tto 2024-2025"
+208,272,Professor ,Campina Grande ,PB,MB,Sem registro,PQT (esquema alternativo),Sem registro,Sem registro,"1 tto: 2016-2017, 2tto 2018-2019, 3tto jan/2020, 4 tto esquema alternativo 2023-2024"
+209,273,Técnica em Radiologia / Aposentada ,Jaboatão dos Guarrarapes ,PE,MB,HAS,"Omeprazol, Enalapril, Amitriptilina",Sem registro,Sem registro,"1 tto PSF curado, 2 tto Curado, 3 tto HOF02/2022; Patologias associadas: HAS"
+209,274,Técnica em Radiologia / Aposentada ,Jaboatão dos Guarrarapes ,PE,MB,"HAS, Tendinite","Prednisona, Omeprazol, Enalapril, PQT (esquema alternativo)",Sem registro,Sem registro,"1 tto PSF curado, 2 tto Curado, 3 tto HOF02/2022; Patologias associadas: HAS, Tendinite (ombro esquerdo)"
+210,275,Comerciante / Aposentado ,Serra Telhada,PE,MB,"Diabetes, HAS, Doença Renal Crônica (DRC)","Losartana, Hidroclorotiazida, Finasterida, Glibenclamida, Prednisona, cloridrato de tansulosina",Setembro/2023,Sem registro,1º Tatamento: 2013; 2º Tratamento 2022/2023
+211,276,Pedreiro,Araçoiaba ,PE,MB,"Diabetes, HAS","Metformina, Glibenclamida, Losartana, Insulina",28/02/2023,Sem registro,Diabetes tipo 2
+212,277,Consultora de cosméticos,Chã Grande ,PE,Em investigação,Sem registro,Sem registro,Sem registro,Sem registro,Em investigação
+213,278,Do lar,Itapissuma ,PE,Sem registro,HAS,"Captopril, Hidroclorotiazida",Sem registro,Sem registro,Mirueira (irregular) há aproximadamente 15 anos
+214,279,Do lar,Paudalho,PE,MB,HAS,Sem registro,Sem registro,Sem registro,Histórico de dois tratamentos prévios para MH/MB
+215,280,Recepcionista ,Jaboatão dos Guararapes ,PE,MB,Sem registro,Sem registro,27/05/2022,Sem registro,
+216,281,Pedreiro,Moreno ,PE,MB,Sem registro,"Talidomida, Prednisona, PQT, Omeprazol, AAS",Fevereiro/2022,2023,"1º/2º Tratamento: policlínica; 3º/4º hospital
+Patologia associada Vascular"
+217,282,Diarista ,Recife ,PE,Sem registro,Sem registro,Suplemento,Sem registro,Sem registro,
+218,283,Eletriscista ,Camaragibe ,PE,PB,"HAS, Gastrite, Diabetes, Hérnia de Disco, Doença Pulmonar Obstrutiva Crônica (DPOC), Lesão de LCA, Apnéia do sono","Seretide, Tansulosina, Finasterida, Ciclobenzaprina, Fluoxetina, Glifage",Sem registro,Sem registro,1º Tratamento: 2020/Camaragibe
+219,284,Do lar,Parnamirim,PE,MB,HAS,"Losartana, Hidroclorotiazida, Prednisona, Talidomida, Vitamina D, AAS",Janeiro/2024,2025,1º Tratamento: município e hospital; 2º Tratamento: hospital
+220,285,Vaqueiro ,Água Preta ,PE,MB,Sem registro,Sem registro,Agosto/2019,Sem registro,1º Tratamento: hospital: 08/08/2019
+221,286,Chaveiro,Recife ,PE,MB,Sem registro,Sem registro,Sem registro,Sem registro,1º e 2º Tratamento: policlínica; 3º Tratamento: hospital
+221,287,Chaveiro,Recife ,PE,MB,Sem registro,Sem registro,Sem registro,Sem registro,1º e 2º Tratamento: policlínica; 3º Tratamento: hospital
+222,288,Decorador ,Camaragibe ,PE,MB,Sem registro,Sem registro,Sem registro,Sem registro,
